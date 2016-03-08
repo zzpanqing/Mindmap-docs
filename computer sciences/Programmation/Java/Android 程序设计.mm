@@ -19415,7 +19415,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1418425034962" ID="ID_987499775" LINK="http://developer.android.com/" MODIFIED="1457084247819" TEXT="android &#x7a0b;&#x5e8f;&#x5458;&#x5f00;&#x53d1;&#x7f51;&#x7ad9;">
+<node CREATED="1418425034962" FOLDED="true" ID="ID_987499775" LINK="http://developer.android.com/" MODIFIED="1457428007692" TEXT="android &#x7a0b;&#x5e8f;&#x5458;&#x5f00;&#x53d1;&#x7f51;&#x7ad9;">
 <node CREATED="1418425447009" FOLDED="true" ID="ID_77937301" MODIFIED="1456997630012" TEXT="About">
 <node CREATED="1418425452680" FOLDED="true" ID="ID_1407088298" MODIFIED="1456997629867" TEXT="Welcom">
 <node CREATED="1418425460589" FOLDED="true" ID="ID_34783863" MODIFIED="1456997629602" TEXT="android, &#x4e16;&#x4e0a;&#x6700;&#x6d41;&#x884c;">
@@ -31394,7 +31394,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435222543108" FOLDED="true" ID="ID_313758430" MODIFIED="1457348454891" TEXT="Android Developer Blog">
+<node CREATED="1435222543108" ID="ID_313758430" MODIFIED="1457428011667" TEXT="Android Developer Blog">
 <node CREATED="1434991355871" FOLDED="true" ID="ID_746380783" LINK="http://android-developers.blogspot.fr/2011/03/memory-analysis-for-android.html" MODIFIED="1456997630019" TEXT="Memory Analysis for &#xa;Android Applications">
 <node CREATED="1435007343214" FOLDED="true" ID="ID_1156368103" MODIFIED="1456997629885" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1435007349317" ID="ID_549535713" MODIFIED="1435007391434" TEXT="Dalvik runtime &#x53ef;&#x4ee5;&#x662f; garbage-collected&#xa;&#x4f46;&#x4e0d;&#x53ef;&#x4ee5;&#x5ffd;&#x89c6; memory management"/>
@@ -32181,7 +32181,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1454604282972" ID="ID_1301327035" MODIFIED="1457344288506" TEXT="performance">
+<node CREATED="1454604282972" FOLDED="true" ID="ID_1301327035" MODIFIED="1457428018436" TEXT="performance">
 <node CREATED="1454604297419" ID="ID_1732918723" LINK="http://android-developers.blogspot.fr/2015/04/new-course-take-android-app-performance.html" MODIFIED="1457344288517" TEXT="New course: Take Android app &#xa;performance to the next level">
 <node CREATED="1454604367096" ID="ID_125370708" MODIFIED="1457344291253" TEXT="Udacity &#x8bfe;&#x7a0b;">
 <node CREATED="1454604356768" ID="ID_1911993289" LINK="https://www.udacity.com/courses/ud825?utm_campaign=androidperformance-udacity-415&amp;utm_source=dac&amp;utm_medium=blog" MODIFIED="1457344293735" TEXT="Android Performance&#xa;Optimizing Apps for Speed and Usability">
@@ -32813,7 +32813,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456391308717" ID="ID_1363032381" MODIFIED="1457083932479" TEXT="Android Support">
+<node CREATED="1456391308717" FOLDED="true" ID="ID_1363032381" MODIFIED="1457428040678" TEXT="Android Support">
 <node CREATED="1456391634813" FOLDED="true" ID="ID_593415253" LINK="http://android-developers.blogspot.fr/2016/02/android-support-library-232.html" MODIFIED="1456997629928" TEXT="Android Support Library 23.2">
 <node CREATED="1456391828771" FOLDED="true" ID="ID_334886697" MODIFIED="1456997629736" TEXT="Support Vector Drawables and&#xa; Animated Vector Drawables">
 <node CREATED="1456391839829" FOLDED="true" ID="ID_437932524" MODIFIED="1456830332587" TEXT="Vector drawables">
@@ -33198,7 +33198,7 @@
 <node CREATED="1456841031183" ID="ID_511801188" LINK="http://developer.android.com/tools/samples/" MODIFIED="1456841035608" TEXT="&#x201c;Samples for SDK&#x201d;"/>
 </node>
 </node>
-<node CREATED="1456842002009" ID="ID_1088585066" LINK="http://android-developers.blogspot.fr/2014/10/appcompat-v21-material-design-for-pre.html" MODIFIED="1457083957060" TEXT="AppCompat v21 &#x2014; Material Design&#xa; for Pre-Lollipop Devices">
+<node CREATED="1456842002009" FOLDED="true" ID="ID_1088585066" LINK="http://android-developers.blogspot.fr/2014/10/appcompat-v21-material-design-for-pre.html" MODIFIED="1457428016952" TEXT="AppCompat v21 &#x2014; Material Design&#xa; for Pre-Lollipop Devices">
 <node CREATED="1456842087673" FOLDED="true" ID="ID_284218858" MODIFIED="1456997629743" TEXT="What&apos;s new in AppCompat?">
 <node CREATED="1456842099293" FOLDED="true" ID="ID_902300269" MODIFIED="1456842273096" TEXT="AppCompat (aka ActionBarCompat) &#x5386;&#x53f2;">
 <node CREATED="1456842125825" FOLDED="true" ID="ID_313065893" MODIFIED="1456997628006" TEXT="&#x4f5c;&#x4e3a; a backport of the Android 4.0 &#xa;ActionBar API for devices running on &#xa;Gingerbread">
@@ -33400,6 +33400,240 @@
 <node CREATED="1456998007181" ID="ID_260997639" MODIFIED="1456998008209" TEXT="Treat permissions as a service for the user"/>
 </node>
 </node>
+</node>
+</node>
+<node CREATED="1457428042399" ID="ID_955770243" MODIFIED="1457428057541" TEXT="material design">
+<node CREATED="1457428062040" ID="ID_1428826862" LINK="http://android-developers.blogspot.fr/2014/10/implementing-material-design-in-your.html" MODIFIED="1457428069405" TEXT="Implementing Material Design in Your Android app">
+<node CREATED="1457428094037" FOLDED="true" ID="ID_1290561778" MODIFIED="1457430510795" TEXT="&#x7b80;&#x4ecb;">
+<node CREATED="1457428102263" ID="ID_1288129114" MODIFIED="1457428112432" TEXT="Android 5.0 Lollipop and the &#xa;updated support libraries help&#xa; you to create material UIs"/>
+</node>
+<node CREATED="1457428117292" ID="ID_508970636" MODIFIED="1457428126448" TEXT="&#x4e3b;&#x8981;&#x7684; elements ">
+<node CREATED="1457428126822" FOLDED="true" ID="ID_1326683275" MODIFIED="1457429884086" TEXT="Tangible surfaces &#x53ef;&#x89e6;&#x53ca;&#x7684;">
+<node CREATED="1457428163576" FOLDED="true" ID="ID_1031500222" MODIFIED="1457428305592" TEXT="material design &#x4e2d;&#xff0c; UI &#x7531;&#xa;paper &amp; ink &#x7ec4;&#x6210;">
+<node CREATED="1457428207091" ID="ID_702933465" LINK="https://www.youtube.com/watch?v=YaG_ljfzeUw" MODIFIED="1457428211581" TEXT="paper &amp; ink"/>
+<node CREATED="1457428265361" ID="ID_926580951" MODIFIED="1457428275273" TEXT="&#x6709;&#x6295;&#x5f71;">
+<node CREATED="1457428287321" ID="ID_393129429" MODIFIED="1457428292677" TEXT=" provide visual cues to the structure &#xa;of the application, what you can touch&#xa; and how it will move. "/>
+</node>
+</node>
+<node CREATED="1457428306386" FOLDED="true" ID="ID_489913142" MODIFIED="1457429534046" TEXT="Shadows">
+<node CREATED="1457428354316" FOLDED="true" ID="ID_1800190596" MODIFIED="1457429524110" TEXT="&#x4f7f;&#x7528; elevation ">
+<node CREATED="1457428360901" ID="ID_384505026" MODIFIED="1457428370576" TEXT="elevation property lets you specify&#xa; a view&#x2019;s position on the Z-axis and&#xa; the framework then casts a real-time&#xa; dynamic shadow on items behind it"/>
+</node>
+<node CREATED="1457428387396" FOLDED="true" ID="ID_215771910" MODIFIED="1457429384696" TEXT="set the elevation declaratively &#xa;in your layouts, defined in dips">
+<node CREATED="1457428404239" ID="ID_544759371" MODIFIED="1457428407466" TEXT="xml">
+<node CREATED="1457428395665" ID="ID_580464491" MODIFIED="1457428398085" TEXT="&lt;ImageView &#x2026;&#xa;    android:elevation=&quot;8dp&quot; /&gt;&#xa;"/>
+</node>
+<node CREATED="1457428448284" ID="ID_656479527" MODIFIED="1457428450915" TEXT="code">
+<node CREATED="1457428451300" ID="ID_624945410" MODIFIED="1457428454090" TEXT="getElevation()/setElevation()">
+<node CREATED="1457428457149" ID="ID_1324463847" LINK="https://developer.android.com/reference/android/support/v4/view/ViewCompat.html?utm_campaign=L-Developer-launch" MODIFIED="1457428461126" TEXT="ViewCompat"/>
+</node>
+</node>
+</node>
+<node CREATED="1457429385525" FOLDED="true" ID="ID_1041381303" MODIFIED="1457429526764" TEXT="The shadow a view casts is defined by its outline,&#xa; which by default is derived from its background">
+<node CREATED="1457429410423" ID="ID_843321176" MODIFIED="1457429412302" TEXT="&#x4f8b;&#x5b50;">
+<node CREATED="1457429422573" ID="ID_705326947" MODIFIED="1457429437548" TEXT="a circular shape drawable as the&#xa;background for a floating action button,&#xa;then it would cast an appropriate shadow"/>
+</node>
+</node>
+<node CREATED="1457429467360" FOLDED="true" ID="ID_12263853" MODIFIED="1457429525087" TEXT="finer control of a view&#x2019;s shadow">
+<node CREATED="1457429486881" ID="ID_1581546052" MODIFIED="1457429499944" TEXT=" set a ViewOutlineProvider&#xff0c;&#xa; customise the Outline in getOutline()">
+<node CREATED="1457429503983" ID="ID_148207246" LINK="https://developer.android.com/reference/android/view/ViewOutlineProvider.html?utm_campaign=L-Developer-launch" MODIFIED="1457429508189" TEXT="ViewOutlineProvider"/>
+<node CREATED="1457429512482" ID="ID_1042004886" LINK="https://developer.android.com/reference/android/graphics/Outline.html?utm_campaign=L-Developer-launch" MODIFIED="1457429516526" TEXT="Outline"/>
+</node>
+</node>
+</node>
+<node CREATED="1457429534863" FOLDED="true" ID="ID_258513238" MODIFIED="1457429876627" TEXT="Cards">
+<node CREATED="1457429623318" ID="ID_923769430" LINK="http://www.google.com/design/spec/components/cards.html#utm_campaign=L-Developer-launch" MODIFIED="1457429627609" TEXT="Cards">
+<node CREATED="1457429640610" ID="ID_1842971213" MODIFIED="1457429645302" TEXT="surfaces holding a distinct piece of information"/>
+</node>
+<node CREATED="1457429566811" FOLDED="true" ID="ID_211634499" LINK="https://developer.android.com/reference/android/support/v7/widget/CardView.html?utm_campaign=L-Developer-launch" MODIFIED="1457429847341" TEXT=" CardView support library ">
+<node CREATED="1457429583807" ID="ID_1871147565" MODIFIED="1457429584252" TEXT=" providing outlines and shadows"/>
+<node CREATED="1457429591980" FOLDED="true" ID="ID_1540766791" MODIFIED="1457429615871" TEXT="xml">
+<node CREATED="1457429601503" ID="ID_415831770" MODIFIED="1457429603798" TEXT="&lt;android.support.v7.widget.CardView&#xa;    android:layout_width=&quot;match_parent&quot;&#xa;    android:layout_height=&quot;wrap_content&quot;&gt;&#xa;    &lt;!-- Your card content --&gt;&#xa;&#xa;&lt;/android.support.v7.widget.CardView&gt;"/>
+</node>
+<node CREATED="1457429614227" ID="ID_443083898" MODIFIED="1457429614852" TEXT="extends FrameLayout"/>
+<node CREATED="1457429695165" FOLDED="true" ID="ID_1071362981" MODIFIED="1457429725655" TEXT="provides default elevation and corner radius">
+<node CREATED="1457429721435" ID="ID_1417119708" MODIFIED="1457429724236" TEXT="cards have a consistent appearance across the platform"/>
+</node>
+<node CREATED="1457429738905" ID="ID_300695693" MODIFIED="1457429739542" TEXT="customise">
+<node CREATED="1457429747075" ID="ID_664968896" MODIFIED="1457429752261" TEXT=" via the cardElevation and c&#xa;ardCornerRadius attributes"/>
+</node>
+</node>
+<node CREATED="1457429847565" ID="ID_1917810502" MODIFIED="1457429848125" TEXT="Note">
+<node CREATED="1457429857555" ID="ID_1705700047" MODIFIED="1457429863563" TEXT=" Cards are not the only way of achieving &#xa;dimensionality and you should be wary &#xa;of over-cardifying your UI">
+<node CREATED="1457429867175" ID="ID_511660933" LINK="http://www.google.com/design/spec/components/cards.html#cards-usage" MODIFIED="1457429872004" TEXT="over-cardifying"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1457429882340" FOLDED="true" ID="ID_1461800228" MODIFIED="1457430918755" TEXT="Print-like Design">
+<node CREATED="1457429927298" FOLDED="true" ID="ID_1357282671" MODIFIED="1457430425182" TEXT="Typography">
+<node CREATED="1457429942339" ID="ID_343638094" MODIFIED="1457429970218" TEXT="Android 5.0 updates the &#xa;system font Roboto &#x9002;&#x5408;&#xa;&#x5404;&#x4e2a;&#x5927;&#x5c0f;&#x5c4f;&#x5e55;">
+<node CREATED="1457430035167" FOLDED="true" ID="ID_1077834316" MODIFIED="1457430067636" TEXT="A new medium weight has been added ">
+<node CREATED="1457430042242" ID="ID_1436283749" MODIFIED="1457430042677" TEXT="android:fontFamily=&#x201d;sans-serif-medium&#x201d;"/>
+</node>
+<node CREATED="1457430068283" ID="ID_1770733313" MODIFIED="1457430079191" TEXT="new TextAppearance styles implement &#xa;the recommended typographic scale for &#xa;balancing content density and reading comfort.">
+<node CREATED="1457430084984" ID="ID_493292946" LINK="http://www.google.com/design/spec/style/typography.html#typography-standard-styles" MODIFIED="1457430089349" TEXT="typographic scale"/>
+<node CREATED="1457430232437" ID="ID_1490667001" MODIFIED="1457430235431" TEXT="&#x4f8b;&#x5b50;">
+<node CREATED="1457430257074" ID="ID_144538876" MODIFIED="1457430299095" TEXT="use the &#x2018;Title&#x2019; style by setting &#xa;android:textAppearance=&#x201d;@android:style/TextAppearance.Material.Title&#x201d;"/>
+<node CREATED="1457430370602" ID="ID_858479797" MODIFIED="1457430375903" TEXT="available on older platforms through &#xa;the AppCompat support library">
+<node CREATED="1457430380036" ID="ID_1101636088" MODIFIED="1457430380436" TEXT="&#x201c;@style/TextAppearance.AppCompat.Title&#x201d;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1457430421549" ID="ID_1423388912" MODIFIED="1457430422969" TEXT="Color">
+<node CREATED="1457430463277" FOLDED="true" ID="ID_32412321" MODIFIED="1457430686688" TEXT="&#x4f7f;&#x7528; theme attributes">
+<node CREATED="1457430490040" FOLDED="true" ID="ID_1190543843" MODIFIED="1457430584274" TEXT="colorPrimary">
+<node CREATED="1457430526875" ID="ID_727868160" MODIFIED="1457430527769" TEXT="The primary branding color for the app"/>
+<node CREATED="1457430533117" ID="ID_744421300" MODIFIED="1457430556137" TEXT="&#x7528;&#x4e8e;">
+<node CREATED="1457430545966" ID="ID_1801804574" MODIFIED="1457430546647" TEXT="action bar background"/>
+<node CREATED="1457430564448" ID="ID_1286007281" MODIFIED="1457430565279" TEXT="recents task title"/>
+<node CREATED="1457430575463" ID="ID_974247537" MODIFIED="1457430576006" TEXT="edge effects"/>
+</node>
+</node>
+<node CREATED="1457430585228" FOLDED="true" ID="ID_1056169316" MODIFIED="1457430625824" TEXT="colorAccent">
+<node CREATED="1457430596089" ID="ID_173487935" MODIFIED="1457430624407" TEXT=" Applied to framework controls &#x6bd4;&#x5982;">
+<node CREATED="1457430613617" ID="ID_1071927894" MODIFIED="1457430615854" TEXT="EditText"/>
+<node CREATED="1457430619287" ID="ID_5729435" MODIFIED="1457430619623" TEXT="Switch"/>
+</node>
+</node>
+<node CREATED="1457430629176" ID="ID_1479953876" MODIFIED="1457430629552" TEXT="colorPrimaryDark">
+<node CREATED="1457430635706" ID="ID_364036938" MODIFIED="1457430639054" TEXT="Darker variant of the primary branding color;"/>
+<node CREATED="1457430644049" ID="ID_1697524917" MODIFIED="1457430645575" TEXT="applied to the status bar"/>
+</node>
+</node>
+<node CREATED="1457430671007" FOLDED="true" ID="ID_1072811849" MODIFIED="1457430733603" TEXT="Further attributes give fine grained &#xa;control over colorizing controls">
+<node CREATED="1457430675675" ID="ID_995214650" MODIFIED="1457430695881" TEXT="colorControlNormal"/>
+<node CREATED="1457430699253" ID="ID_1177073932" MODIFIED="1457430699552" TEXT="colorControlActivated"/>
+<node CREATED="1457430702619" ID="ID_197428580" MODIFIED="1457430702935" TEXT="colorControlHighlight"/>
+<node CREATED="1457430705880" ID="ID_1244501456" MODIFIED="1457430706188" TEXT="colorButtonNormal"/>
+<node CREATED="1457430709018" ID="ID_1316747775" MODIFIED="1457430709281" TEXT="colorSwitchThumbNormal"/>
+<node CREATED="1457430712540" ID="ID_314365903" MODIFIED="1457430712914" TEXT="colorEdgeEffect"/>
+<node CREATED="1457430716287" ID="ID_327770973" MODIFIED="1457430716560" TEXT="statusBarColor"/>
+<node CREATED="1457430719302" ID="ID_946647611" MODIFIED="1457430719597" TEXT="navigationBarColor"/>
+</node>
+<node CREATED="1457430734375" FOLDED="true" ID="ID_1691254274" MODIFIED="1457430774384" TEXT="AppCompat ">
+<node CREATED="1457430742054" ID="ID_1362031682" MODIFIED="1457430752022" TEXT="AppCompat provides a large subset &#xa;of the functionality above, allowing you &#xa;to colorize controls on pre-Lollipop platforms."/>
+</node>
+<node CREATED="1457430775334" FOLDED="true" ID="ID_1716047905" MODIFIED="1457430917471" TEXT="Dynamic color">
+<node CREATED="1457430817105" ID="ID_1230501561" MODIFIED="1457430829290" TEXT="new Palette support library lets &#xa;you extract a small set of colors&#xa; from an image to style your UI &#xa;controls to match"/>
+<node CREATED="1457430859635" ID="ID_793987857" MODIFIED="1457430860995" TEXT="example">
+<node CREATED="1457430868062" ID="ID_1581350068" MODIFIED="1457430870276" TEXT="Palette.generateAsync(bitmap,&#xa;        new Palette.PaletteAsyncListener() {&#xa;    @Override&#xa;    public void onGenerated(Palette palette) {&#xa;         Palette.Swatch vibrant =&#xa;                 palette.getVibrantSwatch();&#xa;          if (swatch != null) {&#xa;              // If we have a vibrant color&#xa;              // update the title TextView&#xa;              titleView.setBackgroundColor(&#xa;                  vibrant.getRgb());&#xa;              titleView.setTextColor(&#xa;                  vibrant.getTitleTextColor());&#xa;          }&#xa;    }&#xa;});"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1457430922199" FOLDED="true" ID="ID_221519615" MODIFIED="1457433379693" TEXT="Authentic Motion">
+<node CREATED="1457430957908" FOLDED="true" ID="ID_785952152" MODIFIED="1457431156088" TEXT="&#x52a8;&#x753b; . Materials respond to touch to confirm &#xa;your interaction and all changes radiate &#xa;outward from your touch point. ">
+<node CREATED="1457431019159" ID="ID_430823929" MODIFIED="1457431029596" TEXT="&#x4f18;&#x70b9;&#xa;">
+<node CREATED="1457430990467" ID="ID_1252117115" MODIFIED="1457431017405" TEXT="aiding the user&#x2019;s comprehension."/>
+</node>
+</node>
+<node CREATED="1457431154286" FOLDED="true" ID="ID_823975600" MODIFIED="1457431407029" TEXT="Activity + Fragment Transitions">
+<node CREATED="1457431191693" ID="ID_46419956" MODIFIED="1457431209605" TEXT="create a smooth transition between the two states">
+<node CREATED="1457431200019" ID="ID_1683465499" MODIFIED="1457431204654" TEXT="By declaring &#x2018;shared elements&#x2019; that are&#xa; common across two screens ">
+<node CREATED="1457431218842" FOLDED="true" ID="ID_1376673563" MODIFIED="1457431314822" TEXT="&#x4ee3;&#x7801;">
+<node CREATED="1457431232331" ID="ID_1999650180" MODIFIED="1457431234727" TEXT="album_grid.xml&#xa;&#x2026;&#xa;    &lt;ImageView&#xa;        &#x2026;&#xa;        android:transitionName=&quot;@string/transition_album_cover&quot; /&gt;&#xa;album_details.xml&#xa;&#x2026;&#xa;    &lt;ImageView&#xa;        &#x2026;&#xa;        android:transitionName=&quot;@string/transition_album_cover&quot; /&gt;&#xa;&#xa;AlbumActivity.java&#xa;Intent intent = new Intent();&#xa;String transitionName = getString(R.string.transition_album_cover);&#xa;&#x2026;&#xa;ActivityOptionsCompat options =&#xa;ActivityOptionsCompat.makeSceneTransitionAnimation(activity,&#xa;    albumCoverImageView,   // The view which starts the transition&#xa;    transitionName    // The transitionName of the view we&#x2019;re transitioning to&#xa;    );&#xa;ActivityCompat.startActivity(activity, intent, options.toBundle());"/>
+</node>
+<node CREATED="1457431315495" ID="ID_650094436" MODIFIED="1457431318578" TEXT="&#x89e3;&#x91ca;">
+<node CREATED="1457431325182" ID="ID_462209691" MODIFIED="1457431331235" TEXT="Here we define the same &#xa;transitionName in two screens">
+<node CREATED="1457431344916" ID="ID_1988441" MODIFIED="1457431350158" TEXT="When starting the new Activity and &#xa;this transition is animated automatically"/>
+</node>
+<node CREATED="1457431376082" ID="ID_83140600" MODIFIED="1457431380242" TEXT=" you can now also choreograph&#xa; entering and exiting elements">
+<node CREATED="1457431384193" ID="ID_1338644570" LINK="https://developer.android.com/reference/android/view/Window.html?utm_campaign=L-Developer-launch#setEnterTransition(android.transition.Transition)" MODIFIED="1457431388186" TEXT="entering"/>
+<node CREATED="1457431392990" ID="ID_1132645594" LINK="https://developer.android.com/reference/android/view/Window.html?utm_campaign=L-Developer-launch#setExitTransition(android.transition.Transition)" MODIFIED="1457431397996" TEXT="exiting"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1457431407177" FOLDED="true" ID="ID_1577764667" MODIFIED="1457431777682" TEXT="Ripples &#x7ec6;&#x6ce2;&#x6d6a;">
+<node CREATED="1457431415464" FOLDED="true" ID="ID_1698370031" MODIFIED="1457431550879" TEXT="Materials respond to users&#x2019; touch&#xa; with an ink ripple surface reaction">
+<node CREATED="1457431427842" ID="ID_1579438777" LINK="http://www.google.com/design/spec/animation/responsive-interaction.html#responsive-interaction-ink-reactions" MODIFIED="1457431433357" TEXT="surface reaction"/>
+</node>
+<node CREATED="1457431757373" FOLDED="true" ID="ID_573449280" MODIFIED="1457431775522" TEXT="how&#xa;">
+<node CREATED="1457431463857" ID="ID_1042068345" MODIFIED="1457431492501" TEXT="interactive controls such as Buttons &#xa;exhibit this behaviour by default when&#xa; you use or inherit from Theme.Material"/>
+<node CREATED="1457431497681" ID="ID_1186921450" MODIFIED="1457431515530" TEXT="&#x4f7f;&#x7528; ?android:selectableItemBackground&#xa;&#x4e5f;&#x53ef;&#x8fbe;&#x5230;&#x8be5;&#x6548;&#x679c;"/>
+<node CREATED="1457431526804" FOLDED="true" ID="ID_1294360233" MODIFIED="1457431620163" TEXT="&#x4f8b;&#x5b50;  add this feedback to your own&#xa; drawables by simply wrapping them&#xa; in a ripple element">
+<node CREATED="1457431546661" ID="ID_1156402080" MODIFIED="1457431548843" TEXT="&lt;ripple&#xa;    xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#xa;    android:color=&quot;@color/accent_dark&quot;&gt;&#xa;    &lt;item&gt;&#xa;        &lt;shape&#xa;            android:shape=&quot;oval&quot;&gt;&#xa;            &lt;solid android:color=&quot;?android:colorAccent&quot; /&gt;&#xa;        &lt;/shape&gt;&#xa;    &lt;/item&gt;&#xa;&lt;/ripple&gt;"/>
+</node>
+<node CREATED="1457431621407" ID="ID_1574953612" MODIFIED="1457431634989" TEXT="Custom views should propagate touch location down&#xa; to their drawables in the View#drawableHotspotChanged&#xa; callback so that the ripple can start from the touch point.">
+<node CREATED="1457431638827" ID="ID_1663723357" LINK="http://developer.android.com/reference/android/view/View.html?utm_campaign=L-Developer-launch#drawableHotspotChanged(float,%20float)" MODIFIED="1457431642930" TEXT="View#drawableHotspotChanged"/>
+</node>
+</node>
+</node>
+<node CREATED="1457431656941" FOLDED="true" ID="ID_651703849" MODIFIED="1457432136926" TEXT="StateListAnimator">
+<node CREATED="1457431706801" FOLDED="true" ID="ID_1042007956" MODIFIED="1457432135130" TEXT="Materials also respond to touch by raising up &#xa;to meet your finger, like a magnetic attraction">
+<node CREATED="1457431722462" ID="ID_875335476" LINK="http://www.google.com/design/spec/animation/responsive-interaction.html#responsive-interaction-surface-response" MODIFIED="1457431732721" TEXT="raising up"/>
+<node CREATED="1457431742938" ID="ID_1276100184" MODIFIED="1457431747034" TEXT="&#x5982;&#x4f55;">
+<node CREATED="1457431959163" ID="ID_812909201" MODIFIED="1457431959584" TEXT="animating the translationZ attribute">
+<node CREATED="1457431965985" ID="ID_43397185" MODIFIED="1457431966368" TEXT="translationZ">
+<node CREATED="1457431972675" ID="ID_1135054083" MODIFIED="1457431973153" TEXT="is analogous to elevation"/>
+<node CREATED="1457431978298" ID="ID_1471944765" MODIFIED="1457431978639" TEXT=" intended for transient use"/>
+</node>
+<node CREATED="1457431995039" ID="ID_1995888708" MODIFIED="1457431996753" TEXT=" Z = elevation + translationZ"/>
+<node CREATED="1457432008506" ID="ID_388554483" MODIFIED="1457432096305" TEXT="&#x4f7f;&#x7528; stateListAnimator attribute ">
+<node CREATED="1457432097048" ID="ID_715923504" MODIFIED="1457432098927" TEXT="layout/your_layout.xml&#xa;&lt;ImageButton &#x2026;&#xa;    android:stateListAnimator=&quot;@anim/raise&quot; /&gt;&#xa;anim/raise.xml&#xa;&lt;selector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&gt;&#xa;    &lt;item android:state_enabled=&quot;true&quot; android:state_pressed=&quot;true&quot;&gt;&#xa;        &lt;objectAnimator&#xa;            android:duration=&quot;@android:integer/config_shortAnimTime&quot;&#xa;            android:propertyName=&quot;translationZ&quot;&#xa;            android:valueTo=&quot;@dimen/touch_raise&quot;&#xa;            android:valueType=&quot;floatType&quot; /&gt;&#xa;    &lt;/item&gt;&#xa;    &lt;item&gt;&#xa;        &lt;objectAnimator&#xa;            android:duration=&quot;@android:integer/config_shortAnimTime&quot;&#xa;            android:propertyName=&quot;translationZ&quot;&#xa;            android:valueTo=&quot;0dp&quot;&#xa;            android:valueType=&quot;floatType&quot; /&gt;&#xa;    &lt;/item&gt;&#xa;&lt;/selector&gt;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1457432137461" FOLDED="true" ID="ID_9864411" MODIFIED="1457432893058" TEXT="Reveal">
+<node CREATED="1457432638718" ID="ID_1221504358" MODIFIED="1457432648461" TEXT="A hallmark material transition for showing&#xa; new content is to reveal it with an expanding&#xa; circular mask"/>
+<node CREATED="1457432837821" ID="ID_1005088528" MODIFIED="1457432840093" TEXT="effects radiating outward radially">
+<node CREATED="1457432847006" ID="ID_292055696" LINK="http://www.google.com/design/spec/animation/responsive-interaction.html#responsive-interaction-radial-action" MODIFIED="1457432850824" TEXT="outward radially"/>
+</node>
+<node CREATED="1457432855305" ID="ID_634484536" MODIFIED="1457432860886" TEXT="how">
+<node CREATED="1457432862902" ID="ID_1092557125" MODIFIED="1457432865417" TEXT="Animator reveal = ViewAnimationUtils.createCircularReveal(&#xa;                    viewToReveal, // The new View to reveal&#xa;                    centerX,      // x co-ordinate to start the mask from&#xa;                    centerY,      // y co-ordinate to start the mask from&#xa;                    startRadius,  // radius of the starting mask&#xa;                    endRadius);   // radius of the final mask&#xa;reveal.start();"/>
+</node>
+</node>
+<node CREATED="1457432890852" FOLDED="true" ID="ID_1253555342" MODIFIED="1457433378805" TEXT="Interpolators">
+<node CREATED="1457432949718" FOLDED="true" ID="ID_1845079913" MODIFIED="1457433114608" TEXT="in Material Design, objects tend to start &#xa;quickly and ease into their final position.">
+<node CREATED="1457432991929" ID="ID_129281625" MODIFIED="1457432996790" TEXT="&#x6548;&#x679c;">
+<node CREATED="1457432997104" ID="ID_1299754621" MODIFIED="1457432999141" TEXT=" the object spends more time near its final destination"/>
+</node>
+<node CREATED="1457433068839" ID="ID_138137091" MODIFIED="1457433075679" TEXT="As a result, the user isn&#x2019;t left waiting for&#xa; the animation to finish, and the negative&#xa; effects of motion are minimized."/>
+</node>
+<node CREATED="1457433108787" ID="ID_535168947" MODIFIED="1457433110442" TEXT="how">
+<node CREATED="1457433087954" ID="ID_1586909757" LINK="https://developer.android.com/reference/android/R.interpolator.html?utm_campaign=L-Developer-launch#fast_out_slow_in" MODIFIED="1457433108058" TEXT="fast-in-slow-out interpolator &#x53ef;&#x8fbe;&#x5230;&#x8fd9;&#x4e2a;&#x6548;&#x679c;"/>
+</node>
+<node CREATED="1457433218112" ID="ID_1496847685" MODIFIED="1457433276954" TEXT="For elements entering and exiting the screen&#xa;which should do so at peak velocity, check out &#xa;">
+<node CREATED="1457433236948" ID="ID_1888734464" LINK="https://developer.android.com/reference/android/R.interpolator.html?utm_campaign=L-Developer-launch#linear_out_slow_in" MODIFIED="1457433240673" TEXT="linear-out-slow-in"/>
+<node CREATED="1457433244302" ID="ID_834249708" LINK="https://developer.android.com/reference/android/R.interpolator.html?utm_campaign=L-Developer-launch#fast_out_linear_in" MODIFIED="1457433252004" TEXT="fast-out-linear-in"/>
+<node CREATED="1457433276957" ID="ID_1656060274" LINK="http://www.google.com/design/spec/animation/authentic-motion.html#authentic-motion-mass-weight" MODIFIED="1457433301418" TEXT="should do so at peak velocity"/>
+</node>
+</node>
+</node>
+<node CREATED="1457433380164" FOLDED="true" ID="ID_1803091233" MODIFIED="1457433703843" TEXT="Adaptive design">
+<node CREATED="1457433421566" FOLDED="true" ID="ID_1939177553" MODIFIED="1457433565618" TEXT="Adaptive design techniques help us &#xa;realize the vision that each device reflects&#xa; a different view of the same underlying system">
+<node CREATED="1457433459470" ID="ID_777436149" MODIFIED="1457433483164" TEXT="&#x6839;&#x636e; device &#x53d8;&#x5316;&#x7684;&#x4e1c;&#x897f;">
+<node CREATED="1457433498072" ID="ID_354526018" MODIFIED="1457433503823" TEXT="view  &#x7684; size"/>
+<node CREATED="1457433508964" ID="ID_1015080357" MODIFIED="1457433509314" TEXT=" interaction"/>
+</node>
+<node CREATED="1457433513036" ID="ID_1506108421" MODIFIED="1457433534230" TEXT="&#x5404;&#x4e2a;device &#x4e0a;&#x4e00;&#x6837;&#x7684;&#x4e1c;&#x897f;">
+<node CREATED="1457433538418" ID="ID_1599281937" MODIFIED="1457433538657" TEXT="Colors"/>
+<node CREATED="1457433540573" ID="ID_856120083" MODIFIED="1457433540868" TEXT="iconography"/>
+<node CREATED="1457433543365" ID="ID_1624661328" MODIFIED="1457433543647" TEXT="hierarchy"/>
+<node CREATED="1457433549023" ID="ID_14136339" MODIFIED="1457433549261" TEXT="spatial relationships"/>
+</node>
+</node>
+<node CREATED="1457433569387" ID="ID_139206025" MODIFIED="1457433571233" TEXT="&#x5de5;&#x5177;">
+<node CREATED="1457433574204" ID="ID_1680825569" MODIFIED="1457433574478" TEXT="Toolbar">
+<node CREATED="1457433581982" ID="ID_1275976944" MODIFIED="1457433582779" TEXT="is a generalization of the action bar pattern"/>
+<node CREATED="1457433597178" ID="ID_1955121198" MODIFIED="1457433597565" TEXT="more flexibility"/>
+<node CREATED="1457433623146" ID="ID_1092597660" MODIFIED="1457433623486" TEXT=" toolbar is a view">
+<node CREATED="1457433630895" ID="ID_507044802" MODIFIED="1457433638984" TEXT="&#x653e;&#x54ea;&#x90fd;&#x884c;"/>
+</node>
+<node CREATED="1457433659907" ID="ID_1030845945" MODIFIED="1457433661586" TEXT="make the Toolbar act as your Activity&#x2019;s Action Bar ">
+<node CREATED="1457433667627" ID="ID_768696815" MODIFIED="1457433668051" TEXT="by calling Activity.setActionBar()"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1457433704858" ID="ID_1215282876" MODIFIED="1457433705465" TEXT="Go Forth and Materialize"/>
 </node>
 </node>
 </node>
