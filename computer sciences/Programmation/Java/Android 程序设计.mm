@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#ff0000" CREATED="1418423514471" ID="ID_1850581778" MODIFIED="1456997630092" TEXT="Android Project">
+<node COLOR="#ff0000" CREATED="1418423514471" ID="ID_1850581778" MODIFIED="1457342573572" TEXT="Android Project">
 <node CREATED="1418981282447" FOLDED="true" ID="ID_1603616679" MODIFIED="1456997630075" POSITION="right" TEXT="projects">
 <node CREATED="1418981285945" FOLDED="true" ID="ID_1122925823" MODIFIED="1456997630058" TEXT="iVisit3D">
 <node CREATED="1418981306746" FOLDED="true" ID="ID_1872786123" MODIFIED="1456997629998" TEXT="bugs">
@@ -19595,7 +19595,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1418565860368" ID="ID_614402683" MODIFIED="1457084250900" TEXT="Develop">
+<node CREATED="1418565860368" FOLDED="true" ID="ID_614402683" MODIFIED="1457342698412" TEXT="Develop">
 <node CREATED="1418565868056" FOLDED="true" ID="ID_1548436771" MODIFIED="1457087499480" TEXT="Tools">
 <node CREATED="1432550536232" FOLDED="true" ID="ID_1457498735" LINK="http://developer.android.com/tools/workflow/index.html" MODIFIED="1456997629604" TEXT="Workflow">
 <node CREATED="1439210475114" FOLDED="true" ID="ID_1003806711" LINK="http://developer.android.com/tools/devices/index.html" MODIFIED="1456830332423" TEXT="Using Hardeware Devices">
@@ -23735,7 +23735,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1419184524328" FOLDED="true" ID="ID_874133734" LINK="http://developer.android.com/training/basics/supporting-devices/platforms.html" MODIFIED="1457084152582" TEXT="supporting different platform version">
+<node CREATED="1419184524328" FOLDED="true" ID="ID_874133734" LINK="http://developer.android.com/training/basics/supporting-devices/platforms.html" MODIFIED="1457342642743" TEXT="supporting different platform version">
 <node CREATED="1419184545162" FOLDED="true" ID="ID_169931531" LINK="http://developer.android.com/about/dashboards/index.html" MODIFIED="1456830332444" TEXT="Dashboraods">
 <node CREATED="1419184628804" FOLDED="true" ID="ID_1977138625" MODIFIED="1456830330943" TEXT="&#x53cd;&#x6620;&#x8fd0;&#x884c;Google Play Store app &#x7684; devices &#x7684;&#x6570;&#x636e;">
 <node CREATED="1419184730363" FOLDED="true" ID="ID_693440164" MODIFIED="1456321593327" TEXT="Google Play install Stats">
@@ -23777,7 +23777,7 @@
 </node>
 </node>
 <node CREATED="1419258515011" ID="ID_1251711923" MODIFIED="1419258547993" TEXT="&#x5206;&#x6790; XML resources &#x7684;&#x65f6;&#x5019;&#xff0c;android &#x81ea;&#x52a8;&#x5ffd;&#x7565;&#x4e0d;&#x9002;&#x5408;&#x5f53;&#x524d; device &#x7684; xml attributes"/>
-<node CREATED="1419258658420" FOLDED="true" ID="ID_1533728728" MODIFIED="1456830332445" TEXT="Use Platform Styles and Themes ">
+<node CREATED="1419258658420" ID="ID_1533728728" MODIFIED="1457342584483" TEXT="Use Platform Styles and Themes ">
 <node CREATED="1419258684384" ID="ID_1533928497" MODIFIED="1419258754020" TEXT="&#x53ef;&#x4ee5;&#x5728; application manifest file &#x4e2d;&#x4f7f;&#x7528; style &#x548c; themes"/>
 <node CREATED="1422371108790" FOLDED="true" ID="ID_101725036" MODIFIED="1456830330944" TEXT="style">
 <node CREATED="1422371215268" FOLDED="true" ID="ID_461827967" MODIFIED="1456321593330" TEXT="&#x5b9a;&#x4e49; style">
@@ -29530,25 +29530,25 @@
 <node CREATED="1434052445029" ID="ID_255452962" LINK="#ID_1782603128" MODIFIED="1434052479282" TEXT=" Set up Google Play services"/>
 </node>
 </node>
-<node CREATED="1422997884358" FOLDED="true" ID="ID_151197971" MODIFIED="1456997630014" TEXT="Design">
-<node CREATED="1422997894088" FOLDED="true" ID="ID_502983193" MODIFIED="1456997629877" TEXT="Style">
-<node CREATED="1422997899986" FOLDED="true" ID="ID_120720788" LINK="http://developer.android.com/design/style/themes.html" MODIFIED="1456997629644" TEXT="Theme">
+<node CREATED="1422997884358" ID="ID_151197971" MODIFIED="1457342642753" TEXT="Design">
+<node CREATED="1422997894088" ID="ID_502983193" MODIFIED="1457342642757" TEXT="Style">
+<node CREATED="1422997899986" ID="ID_120720788" LINK="http://developer.android.com/design/style/themes.html" MODIFIED="1457342642759" TEXT="Theme">
 <node CREATED="1422997930698" FOLDED="true" ID="ID_1617219500" MODIFIED="1456830332502" TEXT="Android &#x63d0;&#x4f9b;&#x4e24;&#x79cd; theme">
 <node CREATED="1422997943680" ID="ID_1922245393" MODIFIED="1422997946764" TEXT="Holo Light"/>
 <node CREATED="1422997947024" ID="ID_1376430680" MODIFIED="1422997951791" TEXT="Holo Darl"/>
 </node>
-<node CREATED="1422998019076" FOLDED="true" ID="ID_1036724836" MODIFIED="1456830332502" TEXT="develop guid">
-<node CREATED="1422998030880" FOLDED="true" ID="ID_1974544950" LINK="http://developer.android.com/guide/topics/ui/themes.html" MODIFIED="1456830331033" TEXT="Styles and Themes">
-<node CREATED="1422998850310" FOLDED="true" ID="ID_29274539" MODIFIED="1456321593719" TEXT="&#x6240;&#x6709;&#x4ee5; window &#x5f00;&#x5934;&#x7684; &#x5c5e;&#x6027;&#xff0c;&#xa;&#x53ea;&#x80fd;&#x7528;&#x4e8e; window,&#xa;&#x53ea;&#x80fd;&#x7528;&#x4e8e; theme">
-<node CREATED="1422998928525" FOLDED="true" ID="ID_974494074" MODIFIED="1456321593719" TEXT="&#x6bd4;&#x5982; ">
+<node CREATED="1422998019076" ID="ID_1036724836" MODIFIED="1457342642761" TEXT="develop guid">
+<node CREATED="1422998030880" ID="ID_1974544950" LINK="http://developer.android.com/guide/topics/ui/themes.html" MODIFIED="1457342662874" TEXT="Styles and Themes">
+<node CREATED="1422998850310" ID="ID_29274539" MODIFIED="1457342670325" TEXT="&#x6240;&#x6709;&#x4ee5; window &#x5f00;&#x5934;&#x7684; &#x5c5e;&#x6027;&#xff0c;&#xa;&#x53ea;&#x80fd;&#x7528;&#x4e8e; window,&#xa;&#x53ea;&#x80fd;&#x7528;&#x4e8e; theme">
+<node CREATED="1422998928525" ID="ID_974494074" MODIFIED="1457342687660" TEXT="&#x6bd4;&#x5982; ">
 <node CREATED="1422998931285" ID="ID_503598714" MODIFIED="1422998931732" TEXT="windowNoTitle"/>
 <node CREATED="1422998939782" ID="ID_740093776" MODIFIED="1422998940280" TEXT="windowBackground"/>
 </node>
 </node>
-<node CREATED="1422999869149" FOLDED="true" ID="ID_1347812259" MODIFIED="1456321593720" TEXT="&#x4e0d;&#x540c;&#x7684; Platform Version &#x4f7f;&#x7528;&#x4e0d;&#x540c;&#x7684; theme">
+<node CREATED="1422999869149" ID="ID_1347812259" MODIFIED="1457342693449" TEXT="&#x4e0d;&#x540c;&#x7684; Platform Version &#x4f7f;&#x7528;&#x4e0d;&#x540c;&#x7684; theme">
 <node CREATED="1422999899411" ID="ID_1337428467" MODIFIED="1422999940721" TEXT="&gt;11 &#x7684; &#x5e73;&#x53f0;&#x4f7f;&#x7528; value-11&#x4e2d;&#x7684; style"/>
 </node>
-<node CREATED="1423000039607" FOLDED="true" ID="ID_393091125" MODIFIED="1456321593721" TEXT="&#x7cfb;&#x7edf;&#x81ea;&#x5b9a;&#x4e49; style">
+<node CREATED="1423000039607" ID="ID_393091125" MODIFIED="1457342941325" TEXT="&#x7cfb;&#x7edf;&#x81ea;&#x5b9a;&#x4e49; style">
 <node CREATED="1423000056751" FOLDED="true" ID="ID_1326762508" LINK="http://developer.android.com/reference/android/R.style.html" MODIFIED="1456321593721" TEXT="R.style">
 <node CREATED="1423000145972" ID="ID_224669740" MODIFIED="1423000175349" TEXT="&#x4f7f;&#x7528;&#x7684;&#x65f6;&#x5019;&#x5c06; _ &#x6362;&#x6210; ."/>
 <node CREATED="1423000241043" FOLDED="true" ID="ID_1559067904" MODIFIED="1456321593720" TEXT="&#x8be6;&#x7ec6;&#x6ce8;&#x89e3;&#x53c2;&#x770b;">
@@ -29557,9 +29557,84 @@
 </node>
 </node>
 </node>
-<node CREATED="1423065079088" FOLDED="true" ID="ID_995074681" MODIFIED="1456321593721" TEXT="listSelector">
+<node CREATED="1423065079088" FOLDED="true" ID="ID_995074681" MODIFIED="1457342940226" TEXT="listSelector">
 <node CREATED="1423065099525" ID="ID_1615660187" MODIFIED="1423065137005" TEXT="&#x6307;&#x793a;&#x5f53;&#x524d;&#x9009;&#x4e2d; item &#x7684; Drawable"/>
 <node CREATED="1423067525298" ID="ID_1199456172" MODIFIED="1423067579885" TEXT="&#x8981;&#x5728; gridView &#x4e2d;&#x4f7f;&#x7528;&#xff0c;&#xa;&#x4f1a;&#x88ab; oneView &#x4e2d;&#x7684; background &#x76d6;&#x6389;&#xa;"/>
+</node>
+<node CREATED="1457342762288" FOLDED="true" ID="ID_1194593904" MODIFIED="1457342947889" TEXT="&#x7b80;&#x4ecb;">
+<node CREATED="1457342777529" ID="ID_551781238" MODIFIED="1457342808502" TEXT="Android &#x7684; style &#x548c; web design &#x4e2d;&#x7684;&#xa;cascading stylesheets &#x662f;&#x4e00;&#x4e2a;&#x9053;&#x7406;"/>
+<node CREATED="1457342850240" ID="ID_265494904" MODIFIED="1457342871513" TEXT="theme &#x88ab;&#x5e94;&#x7528;&#x5230; activity&#xa0;&#x6216;&#x8005; application">
+<node CREATED="1457342895163" ID="ID_729799777" MODIFIED="1457342922491" TEXT="&#x5176;&#x4e0b;&#x7684;&#x6bcf;&#x4e2a; view &#x90fd;&#x8981;&#x5e94;&#x7528;&#xa;&#x80fd;&#x591f;&#x5e94;&#x7528;&#x7684; properties"/>
+</node>
+</node>
+<node CREATED="1457342934943" FOLDED="true" ID="ID_1554808015" LINK="http://developer.android.com/guide/topics/ui/themes.html#DefiningStyles" MODIFIED="1457361058297" TEXT="Defining Styles">
+<node CREATED="1457342979899" ID="ID_628569607" MODIFIED="1457342990553" TEXT="&#x547d;&#x540d;&#xff1a;&#x4efb;&#x4f55;&#x540d;&#x5b57;.xml"/>
+<node CREATED="1457343001893" ID="ID_341346744" MODIFIED="1457343002293" TEXT="root node of the XML file must be &lt;resources&gt;"/>
+<node CREATED="1457343117995" ID="ID_1293567392" MODIFIED="1457343118709" TEXT="&lt;item&gt;">
+<node CREATED="1457343125202" ID="ID_408713678" MODIFIED="1457343125753" TEXT="name">
+<node CREATED="1457343130393" ID="ID_152568962" MODIFIED="1457343130851" TEXT="declares the style property "/>
+</node>
+<node CREATED="1457343133632" ID="ID_806342136" MODIFIED="1457343134089" TEXT="value">
+<node CREATED="1457343140924" ID="ID_431795227" MODIFIED="1457343141390" TEXT=" keyword string,"/>
+<node CREATED="1457343145951" ID="ID_984768940" MODIFIED="1457343146475" TEXT=" hex color"/>
+<node CREATED="1457343152431" ID="ID_422144941" MODIFIED="1457343152922" TEXT="a reference to another resource type"/>
+</node>
+</node>
+<node CREATED="1457343227224" ID="ID_50427113" MODIFIED="1457343236943" TEXT="Each child of the &lt;resources&gt; element is&#xa; converted into an application resource&#xa; object at compile-time,">
+<node CREATED="1457343242916" ID="ID_1774092647" MODIFIED="1457343292834" TEXT="&#x53ef;&#x4ee5;&#x5728; &lt;style&gt; element &#xa;&#x7684; item &#x7684; value &#x88ab;&#x5f15;&#x7528;"/>
+</node>
+<node CREATED="1457348466383" FOLDED="true" ID="ID_1270821274" LINK="http://developer.android.com/guide/topics/ui/themes.html#Inheritance" MODIFIED="1457359993214" TEXT="Inheritance">
+<node CREATED="1457348517886" ID="ID_1261625799" LINK="http://developer.android.com/guide/topics/ui/themes.html#PlatformStyles" MODIFIED="1457348532138" TEXT="&#x53c2;&#x770b; Using Platform Styles and Themes"/>
+</node>
+<node CREATED="1457359993731" ID="ID_1377920174" LINK="http://developer.android.com/guide/topics/ui/themes.html#Properties" MODIFIED="1457359998640" TEXT="Style Properties">
+<node CREATED="1457360038114" ID="ID_1833349173" MODIFIED="1457360107446" TEXT="&#x5982;&#x4f55;&#x627e;&#x5230;&#x6240;&#x6709;&#x53ef;&#x8bbe;&#x7f6e;&#x7684; attribute">
+<node CREATED="1457360112350" ID="ID_905876827" MODIFIED="1457360146277" TEXT="&#x5bf9;&#x5e94; class &#x7684;  XML attributes"/>
+</node>
+</node>
+</node>
+<node CREATED="1457361059273" FOLDED="true" ID="ID_971524197" LINK="http://developer.android.com/guide/topics/ui/themes.html#ApplyingStyles" MODIFIED="1457361992110" TEXT="Applying Styles and Themes to the UI">
+<node CREATED="1457361069354" FOLDED="true" ID="ID_1251333780" LINK="http://developer.android.com/guide/topics/ui/themes.html#ApplyAStyle" MODIFIED="1457361131947" TEXT="Apply a style to a View">
+<node CREATED="1457361105004" ID="ID_654319291" MODIFIED="1457361112564" TEXT="&#x4f8b;&#x5b50;&#xff1a;&lt;TextView&#xa;    style=&quot;@style/CodeFont&quot;&#xa;    android:text=&quot;@string/hello&quot; /&gt;">
+<node CREATED="1457361118704" ID="ID_336312512" MODIFIED="1457361123105" TEXT="Note: The style attribute does not &#xa;use the android: namespace prefix."/>
+</node>
+</node>
+<node CREATED="1457361128559" FOLDED="true" ID="ID_45461088" LINK="http://developer.android.com/guide/topics/ui/themes.html#ApplyATheme" MODIFIED="1457361304331" TEXT="Apply a theme to an Activity &#xa;or application">
+<node CREATED="1457361213460" FOLDED="true" ID="ID_1345387269" MODIFIED="1457361220229" TEXT="set a theme for all the&#xa; activities of your application">
+<node CREATED="1457361191552" ID="ID_1296932856" MODIFIED="1457361195039" TEXT="&lt;application android:theme=&quot;@style/CustomTheme&quot;&gt;"/>
+</node>
+<node CREATED="1457361204815" ID="ID_1829962702" MODIFIED="1457361205351" TEXT="applied to just one Activity">
+<node CREATED="1457361231817" ID="ID_119326290" MODIFIED="1457361234144" TEXT="&lt;activity android:theme=&quot;@android:style/Theme.Dialog&quot;&gt;"/>
+</node>
+</node>
+<node CREATED="1457361305384" ID="ID_1386472249" LINK="http://developer.android.com/guide/topics/ui/themes.html#SelectATheme" MODIFIED="1457361315919" TEXT="Select a theme based on &#xa;platform version">
+<node CREATED="1457361544062" ID="ID_434428896" LINK="http://developer.android.com/reference/android/R.styleable.html#Theme" MODIFIED="1457361557638" TEXT="standard attributes &#x53c2;&#x770b; R.styleable.Theme"/>
+</node>
+</node>
+<node CREATED="1457361993357" ID="ID_668529399" LINK="http://developer.android.com/guide/topics/ui/themes.html#PlatformStyles" MODIFIED="1457361999380" TEXT="Using Platform Styles and Themes">
+<node CREATED="1457362022730" FOLDED="true" ID="ID_1087849704" MODIFIED="1457362169253" TEXT="all available styles in the R.style class">
+<node CREATED="1457362026838" ID="ID_1526710950" LINK="http://developer.android.com/reference/android/R.style.html" MODIFIED="1457362037540" TEXT="R.style">
+<node CREATED="1457362053421" FOLDED="true" ID="ID_1777936354" MODIFIED="1457362117465" TEXT="To use the styles listed here, replace &#xa;all underscores in the style name with&#xa; a period">
+<node CREATED="1457362071714" ID="ID_124996476" MODIFIED="1457362074054" TEXT="&#x4f8b;&#x5b50;">
+<node CREATED="1457362079903" ID="ID_382475977" MODIFIED="1457362095023" TEXT="apply the Theme_NoTitleBar theme with &#xa;&quot;@android:style/Theme.NoTitleBar&quot;."/>
+</node>
+</node>
+<node CREATED="1457362116218" ID="ID_1850696811" MODIFIED="1457362116673" TEXT="not well documented"/>
+</node>
+</node>
+<node CREATED="1457362141498" ID="ID_1728422135" MODIFIED="1457362154018" TEXT="R.style not well documented"/>
+<node CREATED="1457362135994" ID="ID_191236909" MODIFIED="1457362177206" TEXT="a better reference to the&#xa; Android styles and themes">
+<node CREATED="1457362158691" ID="ID_787063248" LINK="https://android.googlesource.com/platform/frameworks/base/+/refs/heads/master/core/res/res/values/styles.xml" MODIFIED="1457362164858" TEXT="Android Styles (styles.xml)">
+<node CREATED="1457363129676" ID="ID_1013382486" MODIFIED="1457363184820" TEXT="&#x4e3a;&#x4f60;&#x7684; device &#x63d0;&#x4f9b; custom themes &#x548c; style&#xa;&#x53c2;&#x8003; styles_device_defaults.xml"/>
+</node>
+<node CREATED="1457362475175" ID="ID_916745299" LINK="https://android.googlesource.com/platform/frameworks/base/+/refs/heads/master/core/res/res/values/themes.xml" MODIFIED="1457362481633" TEXT="Android Themes (themes.xml)"/>
+<node CREATED="1457362880033" ID="ID_89253248" MODIFIED="1457362885451" TEXT="&#x4f8b;&#x5b50;">
+<node CREATED="1457362890345" ID="ID_1929259284" MODIFIED="1457362902746" TEXT=" For instance, in the Android themes&#xa; source code, you&apos;ll find a declaration&#xa; for &lt;style name=&quot;Theme.Dialog&quot;&gt;. &#xa;In this definition, you&apos;ll see all of the&#xa; properties that are used to style dialogs&#xa; that are used by the Android framework."/>
+</node>
+</node>
+<node CREATED="1457362917668" ID="ID_1930048412" LINK="http://developer.android.com/guide/topics/resources/style-resource.html" MODIFIED="1457362931557" TEXT="&#x53c2;&#x770b; Style Resource"/>
+<node CREATED="1457362969648" ID="ID_1234194968" MODIFIED="1457362975704" TEXT=" see R.attr or the respective View &#xa;class for which you are creating a style.">
+<node CREATED="1457362980309" ID="ID_571368762" LINK="http://developer.android.com/reference/android/R.attr.html" MODIFIED="1457362988111" TEXT="R.attr"/>
+</node>
 </node>
 </node>
 </node>
@@ -29568,7 +29643,7 @@
 <node CREATED="1423151710635" FOLDED="true" ID="ID_778099762" MODIFIED="1456997629644" TEXT="Patterns">
 <node CREATED="1423151715911" ID="ID_1945607719" LINK="http://developer.android.com/design/patterns/swipe-views.html" MODIFIED="1423151721157" TEXT="Swipe Views"/>
 </node>
-<node CREATED="1423151623681" FOLDED="true" ID="ID_965786689" MODIFIED="1456997629645" TEXT="Interaction &amp; Engagement">
+<node CREATED="1423151623681" FOLDED="true" ID="ID_965786689" MODIFIED="1457342731192" TEXT="Interaction &amp; Engagement">
 <node CREATED="1423151650369" ID="ID_1363108232" LINK="http://developer.android.com/training/design-navigation/descendant-lateral.html" MODIFIED="1423151655932" TEXT="Providing Descendant and Lateral Navigation"/>
 </node>
 </node>
@@ -31319,7 +31394,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435222543108" FOLDED="true" ID="ID_313758430" MODIFIED="1457084204088" TEXT="Android Developer Blog">
+<node CREATED="1435222543108" FOLDED="true" ID="ID_313758430" MODIFIED="1457348454891" TEXT="Android Developer Blog">
 <node CREATED="1434991355871" FOLDED="true" ID="ID_746380783" LINK="http://android-developers.blogspot.fr/2011/03/memory-analysis-for-android.html" MODIFIED="1456997630019" TEXT="Memory Analysis for &#xa;Android Applications">
 <node CREATED="1435007343214" FOLDED="true" ID="ID_1156368103" MODIFIED="1456997629885" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1435007349317" ID="ID_549535713" MODIFIED="1435007391434" TEXT="Dalvik runtime &#x53ef;&#x4ee5;&#x662f; garbage-collected&#xa;&#x4f46;&#x4e0d;&#x53ef;&#x4ee5;&#x5ffd;&#x89c6; memory management"/>
@@ -32106,18 +32181,18 @@
 </node>
 </node>
 </node>
-<node CREATED="1454604282972" FOLDED="true" ID="ID_1301327035" MODIFIED="1456997630031" TEXT="performance">
-<node CREATED="1454604297419" FOLDED="true" ID="ID_1732918723" LINK="http://android-developers.blogspot.fr/2015/04/new-course-take-android-app-performance.html" MODIFIED="1456997629911" TEXT="New course: Take Android app &#xa;performance to the next level">
-<node CREATED="1454604367096" FOLDED="true" ID="ID_125370708" MODIFIED="1456997629721" TEXT="Udacity &#x8bfe;&#x7a0b;">
-<node CREATED="1454604356768" FOLDED="true" ID="ID_1911993289" LINK="https://www.udacity.com/courses/ud825?utm_campaign=androidperformance-udacity-415&amp;utm_source=dac&amp;utm_medium=blog" MODIFIED="1456830332562" TEXT="Android Performance&#xa;Optimizing Apps for Speed and Usability">
+<node CREATED="1454604282972" ID="ID_1301327035" MODIFIED="1457344288506" TEXT="performance">
+<node CREATED="1454604297419" ID="ID_1732918723" LINK="http://android-developers.blogspot.fr/2015/04/new-course-take-android-app-performance.html" MODIFIED="1457344288517" TEXT="New course: Take Android app &#xa;performance to the next level">
+<node CREATED="1454604367096" ID="ID_125370708" MODIFIED="1457344291253" TEXT="Udacity &#x8bfe;&#x7a0b;">
+<node CREATED="1454604356768" ID="ID_1911993289" LINK="https://www.udacity.com/courses/ud825?utm_campaign=androidperformance-udacity-415&amp;utm_source=dac&amp;utm_medium=blog" MODIFIED="1457344293735" TEXT="Android Performance&#xa;Optimizing Apps for Speed and Usability">
 <node CREATED="1454607521718" FOLDED="true" ID="ID_1350358895" MODIFIED="1456830331094" TEXT="&#x7b80;&#x4ecb;">
 <node CREATED="1454604422011" ID="ID_827264888" MODIFIED="1454604422467" TEXT="perform exploratory tests"/>
 <node CREATED="1454604427454" ID="ID_960681610" MODIFIED="1454604427750" TEXT="profiling tools"/>
 <node CREATED="1454604435915" ID="ID_1393856326" MODIFIED="1454604436345" TEXT="use outputs to navigate to problematic code"/>
 <node CREATED="1454604448269" ID="ID_1476546502" MODIFIED="1454604448890" TEXT="design a plan of attack to mitigate poor performance"/>
 </node>
-<node CREATED="1454607537258" FOLDED="true" ID="ID_1646276308" LINK="https://www.udacity.com/course/viewer#!/c-ud825/l-3729268966/m-3785788694" MODIFIED="1456830331094" TEXT="Lesson 0 Welcom&#xa; What You&apos;ll Do in this Course">
-<node CREATED="1454607608678" FOLDED="true" ID="ID_98003915" MODIFIED="1456321593928" TEXT="three steps">
+<node CREATED="1454607537258" FOLDED="true" ID="ID_1646276308" LINK="https://www.udacity.com/course/viewer#!/c-ud825/l-3729268966/m-3785788694" MODIFIED="1457344300177" TEXT="Lesson 0 Welcom&#xa; What You&apos;ll Do in this Course">
+<node CREATED="1454607608678" ID="ID_98003915" MODIFIED="1457344297369" TEXT="three steps">
 <node CREATED="1454607614337" FOLDED="true" ID="ID_387091446" MODIFIED="1456321593928" TEXT="gather information">
 <node CREATED="1454607634656" ID="ID_1548456380" MODIFIED="1454607660803" TEXT="run the profiling / feedback tools to &#xa;collect information"/>
 </node>
@@ -32127,14 +32202,14 @@
 </node>
 </node>
 </node>
-<node CREATED="1454682959386" FOLDED="true" ID="ID_155493041" MODIFIED="1456830331095" TEXT="Lessn 1 Render">
+<node CREATED="1454682959386" FOLDED="true" ID="ID_155493041" MODIFIED="1457344312574" TEXT="Lessn 1 Render">
 <node CREATED="1454682967898" ID="ID_1466561493" MODIFIED="1454682989890" TEXT="Why rendering performance matters"/>
-<node CREATED="1454683000839" FOLDED="true" ID="ID_469708237" MODIFIED="1456321593929" TEXT="Defining Jank">
+<node CREATED="1454683000839" FOLDED="true" ID="ID_469708237" MODIFIED="1457344305971" TEXT="Defining Jank">
 <node CREATED="1454683071518" ID="ID_1592397420" MODIFIED="1454683099009" TEXT="&#x7cfb;&#x7edf; redraw activity / 16ms"/>
 <node CREATED="1454683165477" ID="ID_1676414637" MODIFIED="1454683314732" TEXT="&#x5982;&#x679c;&#x6ca1;&#x6709;&#x5728; 16 ms &#x5185;&#x5b8c;&#x6210;&#x8ba1;&#x7b97;&#xa;&#x4e0d;&#x80fd;&#x5373;&#x4f7f; redraw == &#xa;drapped frame, &#x4e0d;&#x4f1a;&#x88ab; redraw&#xa;&#x53ea;&#x80fd;&#x5728;&#x4e0b;&#x4e00;&#x4e2a; 16ms &#x624d;&#x80fd;&#x88ab;&#x6e32;&#x67d3;"/>
 </node>
-<node CREATED="1454683373131" FOLDED="true" ID="ID_1274665411" MODIFIED="1456321593933" TEXT="Rendering Pipeline: Common Problems">
-<node CREATED="1454683395785" FOLDED="true" ID="ID_1783500328" MODIFIED="1456321593933" TEXT="Android rendering pipeline &#x88ab;&#x5206;&#x6210; 2 &#xa;&#x4e2a; section, CPU &#x548c; GPU ">
+<node CREATED="1454683373131" ID="ID_1274665411" MODIFIED="1457344307021" TEXT="Rendering Pipeline: Common Problems">
+<node CREATED="1454683395785" ID="ID_1783500328" MODIFIED="1457344309133" TEXT="Android rendering pipeline &#x88ab;&#x5206;&#x6210; 2 &#xa;&#x4e2a; section, CPU &#x548c; GPU ">
 <node CREATED="1454683478204" FOLDED="true" ID="ID_1618586847" MODIFIED="1456321593930" TEXT="CPU &#x5904;&#x7406;">
 <node CREATED="1454683485256" ID="ID_1141983089" MODIFIED="1454683492353" TEXT="MEASURE"/>
 <node CREATED="1454683492663" ID="ID_361900125" MODIFIED="1454683494361" TEXT="LAYOUT"/>
@@ -35548,7 +35623,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1450476806293" FOLDED="true" ID="ID_556802227" MODIFIED="1456997630068" TEXT="tuto">
+<node CREATED="1450476806293" FOLDED="true" ID="ID_556802227" MODIFIED="1457344288442" TEXT="tuto">
 <node CREATED="1432068091773" FOLDED="true" ID="ID_213335071" MODIFIED="1456997630042" TEXT="Tuto sur Developpez">
 <node CREATED="1432068202572" FOLDED="true" ID="ID_1841953288" LINK="http://nbenbourahla.developpez.com/tutoriels/android/comprendre-corriger-erreurs-application/#LI" MODIFIED="1456997629949" TEXT="Comprendre et corriger les &#xa;erreurs dans votre application">
 <node CREATED="1432068106567" ID="ID_497258656" MODIFIED="1432068158526" TEXT="LogCat"/>
@@ -35635,8 +35710,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1450476816740" FOLDED="true" ID="ID_1086502359" MODIFIED="1456997630042" TEXT="udacity">
-<node CREATED="1450476823858" FOLDED="true" ID="ID_547738171" LINK="https://www.udacity.com/course/viewer#!/c-ud853/l-1395568821/m-3478699562" MODIFIED="1456997629957" TEXT="Developping Android Apps">
+<node CREATED="1450476816740" FOLDED="true" ID="ID_1086502359" MODIFIED="1457344285071" TEXT="udacity">
+<node CREATED="1450476823858" ID="ID_547738171" LINK="https://www.udacity.com/course/viewer#!/c-ud853/l-1395568821/m-3478699562" MODIFIED="1457344282719" TEXT="Developping Android Apps">
 <node CREATED="1450476863913" ID="ID_1185898608" LINK="https://github.com/udacity/Sunshine-Version-2" MODIFIED="1450476874313" TEXT="GitHub Codebase"/>
 </node>
 </node>
