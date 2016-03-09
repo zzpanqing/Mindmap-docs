@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node COLOR="#ff0000" CREATED="1418423514471" ID="ID_1850581778" MODIFIED="1457342573572" TEXT="Android Project">
-<node CREATED="1418981282447" FOLDED="true" ID="ID_1603616679" MODIFIED="1457437238797" POSITION="right" TEXT="projects">
+<node CREATED="1418981282447" ID="ID_1603616679" MODIFIED="1457519456194" POSITION="right" TEXT="projects">
 <node CREATED="1418981285945" ID="ID_1122925823" MODIFIED="1457436438099" TEXT="iVisit3D">
 <node CREATED="1418981306746" FOLDED="true" ID="ID_1872786123" MODIFIED="1456997629998" TEXT="bugs">
 <node CREATED="1418981320200" FOLDED="true" ID="ID_1958258670" MODIFIED="1456997629825" TEXT="&#x5728; emulator &#x4e0a;&#xff0c;&#x4e0b;&#x8f7d; .pno &#x540e;&#xff0c;&#x6253;&#x4e0d;&#x5f00;&#xff0c;&#xa;&#x663e;&#x793a; Device not compatible with OpenGL ES 2.0">
@@ -18024,7 +18024,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435660554276" ID="ID_1446294098" MODIFIED="1456997634412" POSITION="right" TEXT="&#x5b66;&#x4e60;">
+<node CREATED="1435660554276" ID="ID_1446294098" MODIFIED="1457519459826" POSITION="right" TEXT="&#x5b66;&#x4e60;">
 <node CREATED="1418423514471" FOLDED="true" ID="ID_1530247130" MODIFIED="1457437205986" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423520471" FOLDED="true" ID="ID_1061945990" MODIFIED="1456997630010" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423530671" FOLDED="true" ID="ID_1813456615" MODIFIED="1456997629851" TEXT="&#x5de5;&#x5177;&#x548c;&#x57fa;&#x7840;">
@@ -33354,7 +33354,20 @@
 <node CREATED="1456845722673" ID="ID_1273801187" MODIFIED="1456845723108" TEXT="Toolbar is coming..."/>
 <node CREATED="1456845746284" ID="ID_1797772816" MODIFIED="1456845746513" TEXT="FAQ"/>
 </node>
-<node CREATED="1456845935692" ID="ID_1807601102" MODIFIED="1456845936157" TEXT="Android Support Library 22.1"/>
+<node CREATED="1456845935692" FOLDED="true" ID="ID_1807601102" LINK="http://android-developers.blogspot.fr/2015/05/android-design-support-library.html" MODIFIED="1457519753386" TEXT="Android Design Support Library">
+<node CREATED="1457517449185" ID="ID_324409089" MODIFIED="1457517452535" TEXT="&#x4ecb;&#x7ecd;">
+<node CREATED="1457517452536" ID="ID_948097688" MODIFIED="1457517460859" TEXT="&#x5168;&#x65b0;&#x754c;&#x9762;&#x8bed;&#x8a00;"/>
+<node CREATED="1457517461191" ID="ID_111652285" LINK="http://www.google.com/design/spec/material-design/introduction.html?utm_campaign=io15&amp;utm_source=dac&amp;utm_medium=blog" MODIFIED="1457517470643" TEXT="detailed spec"/>
+<node CREATED="1457517513023" ID="ID_61958639" MODIFIED="1457517542710" TEXT="Support Library &#x63d0;&#x4f9b;&#x4ee5;&#x4e0b;&#x529f;&#x80fd;&#x7684;&#x517c;&#x5bb9;">
+<node CREATED="1457517556998" ID="ID_889875317" MODIFIED="1457517557319" TEXT="navigation drawer view"/>
+<node CREATED="1457517563947" ID="ID_1321008474" MODIFIED="1457517572204" TEXT="floating labels for editing text"/>
+<node CREATED="1457517577570" ID="ID_388128302" MODIFIED="1457517577935" TEXT="a floating action button"/>
+<node CREATED="1457517581408" ID="ID_667027420" MODIFIED="1457517582030" TEXT="snackbar"/>
+<node CREATED="1457517585121" ID="ID_780744718" MODIFIED="1457517585439" TEXT="tabs"/>
+<node CREATED="1457517593920" ID="ID_1798014719" MODIFIED="1457517594506" TEXT="motion and scroll framework to tie them together."/>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1456908220200" FOLDED="true" ID="ID_248659583" LINK="https://play.google.com/about/developer-content-policy.html" MODIFIED="1456997630034" TEXT="Google Play Developer Program">
 <node CREATED="1456908267428" FOLDED="true" ID="ID_974155857" LINK="http://android-developers.blogspot.fr/2016/03/explore-new-google-play-developer.html" MODIFIED="1456997629932" TEXT="Explore the new Google Play &#xa;Developer Policy Center">
@@ -33408,7 +33421,7 @@
 </node>
 </node>
 <node CREATED="1457428042399" ID="ID_955770243" MODIFIED="1457437291433" TEXT="material design">
-<node CREATED="1457428062040" FOLDED="true" ID="ID_1428826862" LINK="http://android-developers.blogspot.fr/2014/10/implementing-material-design-in-your.html" MODIFIED="1457517273185" TEXT="Implementing Material Design in Your Android app">
+<node CREATED="1457428062040" FOLDED="true" ID="ID_1428826862" LINK="http://android-developers.blogspot.fr/2014/10/implementing-material-design-in-your.html" MODIFIED="1457517354089" TEXT="Implementing Material Design in Your Android app">
 <node CREATED="1457428094037" FOLDED="true" ID="ID_1290561778" MODIFIED="1457430510795" TEXT="&#x7b80;&#x4ecb;">
 <node CREATED="1457428102263" ID="ID_1288129114" MODIFIED="1457428112432" TEXT="Android 5.0 Lollipop and the &#xa;updated support libraries help&#xa; you to create material UIs"/>
 </node>
@@ -33640,7 +33653,7 @@
 </node>
 <node CREATED="1457433704858" ID="ID_1215282876" MODIFIED="1457433705465" TEXT="Go Forth and Materialize"/>
 </node>
-<node CREATED="1457515390662" FOLDED="true" ID="ID_1249848909" LINK="http://android-developers.blogspot.fr/2014/10/material-design-on-android-checklist.html" MODIFIED="1457517130750" TEXT="Material Design on Android Checklist">
+<node CREATED="1457515390662" FOLDED="true" ID="ID_1249848909" LINK="http://android-developers.blogspot.fr/2014/10/material-design-on-android-checklist.html" MODIFIED="1457517352056" TEXT="Material Design on Android Checklist">
 <node CREATED="1457516560964" ID="ID_623855380" MODIFIED="1457516563236" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1457516563503" ID="ID_797638370" MODIFIED="1457516563945" TEXT="Photoshop, Illustrator and Sketch templates"/>
 </node>
