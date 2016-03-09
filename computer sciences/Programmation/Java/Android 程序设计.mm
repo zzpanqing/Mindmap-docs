@@ -1,8 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node COLOR="#ff0000" CREATED="1418423514471" ID="ID_1850581778" MODIFIED="1457342573572" TEXT="Android Project">
-<node CREATED="1418981282447" FOLDED="true" ID="ID_1603616679" MODIFIED="1456997630075" POSITION="right" TEXT="projects">
-<node CREATED="1418981285945" FOLDED="true" ID="ID_1122925823" MODIFIED="1456997630058" TEXT="iVisit3D">
+<node CREATED="1418981282447" FOLDED="true" ID="ID_1603616679" MODIFIED="1457437238797" POSITION="right" TEXT="projects">
+<node CREATED="1418981285945" ID="ID_1122925823" MODIFIED="1457436438099" TEXT="iVisit3D">
 <node CREATED="1418981306746" FOLDED="true" ID="ID_1872786123" MODIFIED="1456997629998" TEXT="bugs">
 <node CREATED="1418981320200" FOLDED="true" ID="ID_1958258670" MODIFIED="1456997629825" TEXT="&#x5728; emulator &#x4e0a;&#xff0c;&#x4e0b;&#x8f7d; .pno &#x540e;&#xff0c;&#x6253;&#x4e0d;&#x5f00;&#xff0c;&#xa;&#x663e;&#x793a; Device not compatible with OpenGL ES 2.0">
 <node CREATED="1418981451450" FOLDED="true" ID="ID_1971980886" MODIFIED="1456997629552" TEXT="&#x5728; strings.xml &#x4e2d;&#x627e;&#x5230; message &#x5bf9;&#x5e94;&#x7684;&#x8d44;&#x6e90;&#xa;&lt;string name=&quot;message_opengles2_error&quot;&gt;&#xa;Device not compatible with OpenGL ES 2.0&lt;/string&gt;&#xa;">
@@ -803,9 +803,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1438935690380" FOLDED="true" ID="ID_934841565" MODIFIED="1456997630000" TEXT="android &#x7248;">
-<node CREATED="1419255655891" FOLDED="true" ID="ID_167369952" MODIFIED="1456997629829" TEXT="&#x5f00;&#x53d1;">
-<node CREATED="1429517766224" FOLDED="true" ID="ID_487449090" MODIFIED="1456997629560" TEXT="&#x6309;&#x529f;&#x80fd;">
+<node CREATED="1438935690380" ID="ID_934841565" MODIFIED="1457436440819" TEXT="android &#x7248;">
+<node CREATED="1419255655891" ID="ID_167369952" MODIFIED="1457436449081" TEXT="&#x5f00;&#x53d1;">
+<node CREATED="1429517766224" FOLDED="true" ID="ID_487449090" MODIFIED="1457437238795" TEXT="&#x6309;&#x529f;&#x80fd;">
 <node CREATED="1419255662447" FOLDED="true" ID="ID_619994092" MODIFIED="1456830332332" TEXT="&#x6253;&#x5f00;&#x6587;&#x4ef6;">
 <node CREATED="1419255673349" FOLDED="true" ID="ID_233128292" MODIFIED="1456830330771" TEXT="&#x65b0;&#x7248;&#x548c;&#x65e7;&#x7248;&#x7684;&#x6587;&#x4ef6;">
 <node CREATED="1419282579430" FOLDED="true" ID="ID_1095891736" MODIFIED="1456321591777" TEXT="&#x6253;&#x5f00;.pno">
@@ -3575,7 +3575,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1421082716587" FOLDED="true" ID="ID_1472246312" MODIFIED="1456925037658" TEXT="annotation">
+<node CREATED="1421082716587" FOLDED="true" ID="ID_1472246312" MODIFIED="1457437238794" TEXT="annotation">
 <node CREATED="1421082740670" FOLDED="true" ID="ID_290572342" MODIFIED="1456830330774" TEXT="&#x8bfb;&#x53d6; annotation &#x6570;&#x636e;">
 <node CREATED="1421082970808" FOLDED="true" ID="ID_1633776883" MODIFIED="1456321591947" TEXT="EditorPanoramaAnnotation">
 <node CREATED="1421083495999" ID="ID_1915397209" MODIFIED="1421228549349" TEXT="mDeltaFromNode"/>
@@ -5306,8 +5306,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1429538480406" FOLDED="true" ID="ID_1380599927" MODIFIED="1456830330775" TEXT="&#x663e;&#x793a; video/image annotation">
-<node CREATED="1430387371798" FOLDED="true" ID="ID_1849972686" MODIFIED="1456830323358" TEXT="&#x5b9e;&#x73b0; ">
+<node CREATED="1429538480406" FOLDED="true" ID="ID_1380599927" MODIFIED="1457437238793" TEXT="&#x663e;&#x793a; video/image annotation">
+<node CREATED="1430387371798" FOLDED="true" ID="ID_1849972686" MODIFIED="1457437238793" TEXT="&#x5b9e;&#x73b0; ">
 <node CREATED="1430387376690" FOLDED="true" ID="ID_891825019" MODIFIED="1456321592090" TEXT="&#x5728; Cube &#x753b;&#x4e00;&#x4e2a; Texture, &#x4f7f;&#x7528; &#xa;iVisit3d.xml &#x4e2d; annotation &#x7684;&#x5750;&#x6807;">
 <node CREATED="1430387923105" ID="ID_539532362" MODIFIED="1430388141182" TEXT="EditorPanoramaAnnotation.mQuadVertexDeltaFromNode&#xa;&#x5b58;&#x653e; &#x4ece; iVisit3d.xml &#x8bfb;&#x5165;&#x7684;&#x56db;&#x4e2a;&#x70b9;&#x7684;&#x5750;&#x6807;&#x503c;"/>
 <node CREATED="1430389873425" FOLDED="true" ID="ID_561797336" MODIFIED="1456321592089" TEXT="&#x67e5;&#x770b;iVisit3d.xml &#x4e2d; annotInfos&#xa;(&#x5b58;&#x653e;&#x5728; EditorPanoramaAnnotation.&#xa;mInfos &#x4e2d;) &#x6307;&#x793a;&#x7684;&#x8d44;&#x6e90;&#x6587;&#x4ef6;&#x7c7b;&#x578b;&#xa;">
@@ -5456,9 +5456,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1430515093374" FOLDED="true" ID="ID_1444917625" MODIFIED="1456830323357" TEXT="drawAnnotationVideo">
+<node CREATED="1430515093374" FOLDED="true" ID="ID_1444917625" MODIFIED="1457437238792" TEXT="drawAnnotationVideo">
 <node CREATED="1430515736180" ID="ID_1236327994" MODIFIED="1430515971138" TEXT="&#x5c06; video &#x753b;&#x5230; OpenGL"/>
-<node CREATED="1430224378311" FOLDED="true" ID="ID_476271771" MODIFIED="1456830323356" TEXT="&#x5b66;&#x4e60;">
+<node CREATED="1430224378311" FOLDED="true" ID="ID_476271771" MODIFIED="1457437238791" TEXT="&#x5b66;&#x4e60;">
 <node CREATED="1430224381686" FOLDED="true" ID="ID_639217292" LINK="http://stackoverflow.com/questions/27375544/android-how-to-renderer-video-texture-on-3d-cube-with-opengl-es" MODIFIED="1456830323351" TEXT="Android - How to renderer video &#xa;texture on 3D cube with opengl-es?">
 <node CREATED="1430225068801" FOLDED="true" ID="ID_133336466" MODIFIED="1456830323350" TEXT="java">
 <node CREATED="1430225077734" FOLDED="true" ID="ID_1170565411" MODIFIED="1456321592102" TEXT="VideoTextureRender">
@@ -6817,8 +6817,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1431014702882" FOLDED="true" ID="ID_101902195" MODIFIED="1456321592239" TEXT="mediaPlayer &#x64ad;&#x653e; youtube">
-<node CREATED="1431330553868" FOLDED="true" ID="ID_143587061" LINK="http://www.truiton.com/2013/08/android-videoview-example-with-youtube-playback/" MODIFIED="1456321592230" TEXT="Android VideoView Example&#xa;With Youtube Playback">
+<node CREATED="1431014702882" FOLDED="true" ID="ID_101902195" MODIFIED="1457437238790" TEXT="mediaPlayer &#x64ad;&#x653e; youtube">
+<node CREATED="1431330553868" FOLDED="true" ID="ID_143587061" LINK="http://www.truiton.com/2013/08/android-videoview-example-with-youtube-playback/" MODIFIED="1457437238788" TEXT="Android VideoView Example&#xa;With Youtube Playback">
 <node CREATED="1431330729015" FOLDED="true" ID="ID_1171859447" MODIFIED="1456321592212" TEXT="VideoView streaming YouTube videos &#x7684;&#x7f3a;&#x70b9;&#xa;&#xa;">
 <node CREATED="1431330776040" ID="ID_58735887" MODIFIED="1431330824909" TEXT="video resolution &#x53ea;&#x6709; 176 x 144 px"/>
 <node CREATED="1431330826587" ID="ID_939478372" MODIFIED="1431330838340" TEXT="&#x683c;&#x5f0f;&#x662f; 3gp "/>
@@ -7046,11 +7046,11 @@
 </node>
 </node>
 </node>
-<node CREATED="1431356210733" FOLDED="true" ID="ID_997405772" MODIFIED="1456321592229" TEXT="&#x9047;&#x5230;&#x9519;&#x8bef;">
+<node CREATED="1431356210733" FOLDED="true" ID="ID_997405772" MODIFIED="1457437238787" TEXT="&#x9047;&#x5230;&#x9519;&#x8bef;">
 <node CREATED="1431356226475" ID="ID_415889187" MODIFIED="1431356226475" TEXT="05-11 16:47:36.937: E/MediaPlayer(10152): Error (1,-2147483648)"/>
-<node CREATED="1431356274867" FOLDED="true" ID="ID_1888329878" MODIFIED="1456321592229" TEXT="&#x9519;&#x8bef;&#x5206;&#x6790;">
+<node CREATED="1431356274867" FOLDED="true" ID="ID_1888329878" MODIFIED="1457437238787" TEXT="&#x9519;&#x8bef;&#x5206;&#x6790;">
 <node CREATED="1431356233107" ID="ID_913878782" MODIFIED="1431356268616" TEXT="1 &#x4ee3;&#x8868; MediaPlayer.MEDIA_ERROR_UNKNOWN"/>
-<node CREATED="1431356271980" FOLDED="true" ID="ID_1537739657" MODIFIED="1456321592228" TEXT="&#xff0d;2147483648 ">
+<node CREATED="1431356271980" FOLDED="true" ID="ID_1537739657" MODIFIED="1457437238786" TEXT="&#xff0d;2147483648 ">
 <node CREATED="1431356288220" ID="ID_212751905" MODIFIED="1431356294862" TEXT="&#xff1d;&#xff1d; 0x80000000"/>
 <node CREATED="1431356298232" ID="ID_442293975" MODIFIED="1431356298698" TEXT="UNKNOWN_ERROR "/>
 <node CREATED="1431356309243" ID="ID_1065569739" MODIFIED="1431356309717" TEXT=" frameworks/native/include/utils/Errors.h"/>
@@ -8648,7 +8648,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1420039413830" FOLDED="true" ID="ID_185094" MODIFIED="1456997629560" TEXT="&#x5206;&#x6790;">
+<node CREATED="1420039413830" FOLDED="true" ID="ID_185094" MODIFIED="1457436460100" TEXT="&#x5206;&#x6790;">
 <node CREATED="1420039416663" FOLDED="true" ID="ID_603741855" MODIFIED="1456830332347" TEXT="&#x65e7;&#x7248;&#x672c;&#x548c;&#x65b0;&#x7248;&#x672c;&#x7684;&#x533a;&#x522b;">
 <node CREATED="1420039441833" ID="ID_999949019" MODIFIED="1420039448748" TEXT="&#x4f7f;&#x7528;&#x7684;&#x5750;&#x6807;&#x7cfb;&#x4e0d;&#x540c;"/>
 <node CREATED="1420039470517" ID="ID_1918242725" MODIFIED="1420039482429" TEXT="annotation"/>
@@ -8713,7 +8713,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422372738467" FOLDED="true" ID="ID_557274031" MODIFIED="1456997629561" TEXT="thmes.xml">
+<node CREATED="1422372738467" FOLDED="true" ID="ID_557274031" MODIFIED="1457436464061" TEXT="thmes.xml">
 <node CREATED="1422372744778" FOLDED="true" ID="ID_1258624397" MODIFIED="1456830332348" TEXT="Theme.iVisit">
 <node CREATED="1422372752564" FOLDED="true" ID="ID_1433683297" MODIFIED="1456830330785" TEXT="&#x7ee7;&#x627f; Theme.Sherlock">
 <node CREATED="1422372775141" FOLDED="true" ID="ID_1627167442" MODIFIED="1456321592340" TEXT="&#x7ee7;&#x627f; Sherlock.__Theme">
@@ -8724,7 +8724,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1420035123867" FOLDED="true" ID="ID_1584623454" MODIFIED="1456997629562" TEXT="Benjamin &#x4ee3;&#x7801;&#x7c7b;">
+<node CREATED="1420035123867" FOLDED="true" ID="ID_1584623454" MODIFIED="1457436467009" TEXT="Benjamin &#x4ee3;&#x7801;&#x7c7b;">
 <node CREATED="1420035208318" FOLDED="true" ID="ID_581654091" MODIFIED="1456830332349" TEXT="activities">
 <node CREATED="1420035155686" ID="ID_402937784" MODIFIED="1420035160989" TEXT="AboutActivity"/>
 <node CREATED="1420035230852" ID="ID_890930654" MODIFIED="1420035235203" TEXT="BoxActivity"/>
@@ -9132,7 +9132,7 @@
 </node>
 </node>
 <node CREATED="1432647018159" ID="ID_1430222710" MODIFIED="1432647045980" TEXT="projects list&#xff0c;delete one file, toast stay"/>
-<node CREATED="1433155195985" FOLDED="true" ID="ID_1279986167" MODIFIED="1456997629564" TEXT="Distribution">
+<node CREATED="1433155195985" FOLDED="true" ID="ID_1279986167" MODIFIED="1457437237264" TEXT="Distribution">
 <node CREATED="1433326410324" FOLDED="true" ID="ID_1846236637" MODIFIED="1456830332353" TEXT="&#x5173;&#x4e8e; crashlytics">
 <icon BUILTIN="messagebox_warning"/>
 <node CREATED="1433326414079" FOLDED="true" ID="ID_962530003" MODIFIED="1456830330795" TEXT="&#x5728;&#x9879;&#x76ee;&#x4e2d;&#x641c;&#x67e5; crashlytics">
@@ -9727,7 +9727,7 @@
 <node CREATED="1433428500476" ID="ID_194385482" MODIFIED="1433429373614" TEXT="layout xml &#x5982;&#x679c;&#x8bbe;&#x7f6e;&#x4e86; root&#xa;view &#x7684; background drawable&#xa;&#x5e94;&#x8be5;&#x4f7f;&#x7528;&#x4e00;&#x4e2a; background &#x662f;&#xa;null &#x7684; theme, &#x5426;&#x5219; theme &#x7684;&#xa;background &#x5148;&#x88ab; paint, &#x4f60;&#x7684; &#xa;background &#x8986;&#x76d6;&#x4e0a;&#x5176;&#x4e0a;&#xa;"/>
 </node>
 </node>
-<node CREATED="1433188084356" FOLDED="true" ID="ID_529379710" MODIFIED="1456925027081" TEXT="ToDo">
+<node CREATED="1433188084356" FOLDED="true" ID="ID_529379710" MODIFIED="1457437237263" TEXT="ToDo">
 <node CREATED="1433155345437" FOLDED="true" ID="ID_518030233" MODIFIED="1456830330799" TEXT="application &#x7684;&#x540d;&#x5b57;">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1433162514392" FOLDED="true" ID="ID_1175028898" MODIFIED="1456321592420" TEXT="AndroidManifest.xml &#x4e2d;&#x7684;&#xa;android:label">
@@ -9738,18 +9738,18 @@
 <icon BUILTIN="button_ok"/>
 <node CREATED="1433168191811" ID="ID_1525819025" MODIFIED="1433168255090" TEXT="&lt;manifest&gt; &#x7684; &#xa;android:versionCode = 12 &#x4ee5;&#x524d;&#x662f; 11&#xa;android:versionName = 2.0.0 &#x4ee5;&#x524d;&#x662f; 1.3.2 "/>
 </node>
-<node CREATED="1433279295993" FOLDED="true" ID="ID_887486206" MODIFIED="1456830330799" TEXT="&#x8981;&#x5728; Google play &#x4e0a; &#x53d1;&#x8868;&#xff0c;&#xa;&#x9700;&#x8981;&#x68c0;&#x67e5; minSdkVersion&#xa;&#x548c; targetSdkVersion">
+<node CREATED="1433279295993" FOLDED="true" ID="ID_887486206" MODIFIED="1457437237260" TEXT="&#x8981;&#x5728; Google play &#x4e0a; &#x53d1;&#x8868;&#xff0c;&#xa;&#x9700;&#x8981;&#x68c0;&#x67e5; minSdkVersion&#xa;&#x548c; targetSdkVersion">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1433279324563" ID="ID_146002992" MODIFIED="1433279325028" TEXT="android:minSdkVersion"/>
 <node CREATED="1433279329352" ID="ID_235052584" MODIFIED="1433279329680" TEXT="android:targetSdkVersion"/>
-<node CREATED="1433279345180" FOLDED="true" ID="ID_69902624" LINK="http://developer.android.com/google/play/filters.html" MODIFIED="1456321592421" TEXT="&#x53c2;&#x770b; Filters on Google Play">
-<node CREATED="1433317002328" FOLDED="true" ID="ID_502557701" MODIFIED="1456321592421" TEXT="&#x5173;&#x4e8e; minSDK &#x548c; targetSDK &#x7684;&#x90e8;&#x5206;">
-<node CREATED="1433317023225" FOLDED="true" ID="ID_1352126082" MODIFIED="1456321592421" TEXT="Filtering based on the App Manifest">
-<node CREATED="1433317210818" FOLDED="true" ID="ID_1385951979" MODIFIED="1456321592421" TEXT="&#x7ed3;&#x5408; &lt;supports-screens&gt;">
+<node CREATED="1433279345180" FOLDED="true" ID="ID_69902624" LINK="http://developer.android.com/google/play/filters.html" MODIFIED="1457437237259" TEXT="&#x53c2;&#x770b; Filters on Google Play">
+<node CREATED="1433317002328" FOLDED="true" ID="ID_502557701" MODIFIED="1457437237259" TEXT="&#x5173;&#x4e8e; minSDK &#x548c; targetSDK &#x7684;&#x90e8;&#x5206;">
+<node CREATED="1433317023225" FOLDED="true" ID="ID_1352126082" MODIFIED="1457437237258" TEXT="Filtering based on the App Manifest">
+<node CREATED="1433317210818" FOLDED="true" ID="ID_1385951979" MODIFIED="1457437237257" TEXT="&#x7ed3;&#x5408; &lt;supports-screens&gt;">
 <node CREATED="1433317080925" ID="ID_1760435693" MODIFIED="1433317203011" TEXT="&#x5982;&#x679c; minSDKVersion &#x6216;&#x8005; targetSdkVersion &lt;= 3&#xa;&#x800c; &lt;supports-screens&gt; &#x6ca1;&#x6709;&#x5b9a;&#x4e49;&#xff0c;Google Play &#xa;&#x5219;&#x8ba4;&#x4e3a;&#x8be5; application &#x662f;&#x4e3a; normal-szie screens &#xa;&#x8bbe;&#x8ba1;&#x7684;&#xff0c;&#x53ea;&#x4f1a;&#x663e;&#x793a;&#x7ed9; normal &#x548c; larger screen"/>
 <node CREATED="1433317218972" ID="ID_1884441300" MODIFIED="1433317341968" TEXT="minSdkVerion &#x6216; targetSdkVersion  &gt;= 4&#xa;Google Play &#x8ba4;&#x4e3a; application &#x652f;&#x6301;&#x6240;&#x6709; screen &#xa;size"/>
-<node CREATED="1433317348122" FOLDED="true" ID="ID_815404075" MODIFIED="1456321592421" TEXT="&#x4f8b;&#x5b50;">
-<node CREATED="1433317589653" FOLDED="true" ID="ID_786934741" MODIFIED="1456321592421" TEXT="&#x4f8b;2">
+<node CREATED="1433317348122" FOLDED="true" ID="ID_815404075" MODIFIED="1457437237256" TEXT="&#x4f8b;&#x5b50;">
+<node CREATED="1433317589653" FOLDED="true" ID="ID_786934741" MODIFIED="1457437237256" TEXT="&#x4f8b;2">
 <node CREATED="1433317600150" ID="ID_177086416" MODIFIED="1433317600609" TEXT=":minSdkVersion=&quot;3&quot; "/>
 <node CREATED="1433317606774" ID="ID_1492300681" MODIFIED="1433317607228" TEXT="not include a &lt;supports-screens&gt; element"/>
 <node CREATED="1433317610948" ID="ID_1010572881" MODIFIED="1433317625464" TEXT="&#x6240;&#x6709; device &#x53ef;&#x89c1;"/>
@@ -10585,8 +10585,8 @@
 <node CREATED="1436970452226" ID="ID_1165976621" MODIFIED="1436970454203" TEXT="text"/>
 </node>
 </node>
-<node CREATED="1432645456005" FOLDED="true" ID="ID_1932355307" MODIFIED="1456997629566" TEXT="bugs">
-<node CREATED="1435564365536" FOLDED="true" ID="ID_440678243" MODIFIED="1456830332360" TEXT="corrig&#xe9;">
+<node CREATED="1432645456005" FOLDED="true" ID="ID_1932355307" MODIFIED="1457437193903" TEXT="bugs">
+<node CREATED="1435564365536" FOLDED="true" ID="ID_440678243" MODIFIED="1457437193901" TEXT="corrig&#xe9;">
 <node CREATED="1432645462925" FOLDED="true" ID="ID_251739587" MODIFIED="1456830330807" TEXT="preview not displayed&#xa;&#x4e0d;&#x662f; bug">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1432645479606" FOLDED="true" ID="ID_1544759377" MODIFIED="1456321592474" TEXT="housev3-demo.pno">
@@ -10906,7 +10906,7 @@
 <node CREATED="1435158238574" ID="ID_541398868" MODIFIED="1435158854038" TEXT="View():&#xa; requestLayout() improperly called by android.widget.TextClock&#xa; app:id/large_time_component_1} &#xa;during layout: running second layout pass">
 <icon BUILTIN="button_ok"/>
 </node>
-<node CREATED="1435053607443" FOLDED="true" ID="ID_1387519589" MODIFIED="1456830330819" TEXT="crash : (device &#x548c; emulator &#x4e0a;&#x90fd;&#x6709;)&#xa;A/libc Fatal signal 11 (SIGSEGV)&#xa; code=1 FinalizerDaemon">
+<node CREATED="1435053607443" FOLDED="true" ID="ID_1387519589" MODIFIED="1457437193898" TEXT="crash : (device &#x548c; emulator &#x4e0a;&#x90fd;&#x6709;)&#xa;A/libc Fatal signal 11 (SIGSEGV)&#xa; code=1 FinalizerDaemon">
 <icon BUILTIN="stop-sign"/>
 <icon BUILTIN="stop-sign"/>
 <icon BUILTIN="stop-sign"/>
@@ -11213,8 +11213,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1440597305926" FOLDED="true" ID="ID_95226715" MODIFIED="1456321592530" TEXT="&#x7528; GDB &#x8c03;&#x8bd5;">
-<node CREATED="1440579710784" FOLDED="true" ID="ID_944527206" MODIFIED="1456321592529" TEXT="&#x7528; GDB &#x770b;&#x5230;&#x7684; callstack">
+<node CREATED="1440597305926" FOLDED="true" ID="ID_95226715" MODIFIED="1457437193897" TEXT="&#x7528; GDB &#x8c03;&#x8bd5;">
+<node CREATED="1440579710784" FOLDED="true" ID="ID_944527206" MODIFIED="1457437193896" TEXT="&#x7528; GDB &#x770b;&#x5230;&#x7684; callstack">
 <node CREATED="1440579743926" FOLDED="true" ID="ID_387152861" MODIFIED="1456321592528" TEXT="#0  pthread_mutex_lock (mutex=0x41c)&#xa;    at bionic/libc/bionic/pthread_mutex.cpp:451&#xa;#1  0xb6bbc0ea in android::Mutex::lock (this=0x41c)&#xa;    at system/core/include/utils/Mutex.h:112&#xa;#2  0xb6bbc0ac in android::Mutex::Autolock::Autolock (this=0xb474ba74, &#xa;    mutex=...) at system/core/include/utils/Mutex.h:65&#xa;#3  0xb6bc4662 in android::ConsumerBase::abandon (this=0x0)&#xa;    at frameworks/native/libs/gui/ConsumerBase.cpp:140&#xa;#4  0xb6f8785e in android::SurfaceTexture_release (env=&lt;optimized out&gt;, &#xa;    thiz=&lt;optimized out&gt;)&#xa;    at frameworks/base/core/jni/android/graphics/SurfaceTexture.cpp:341&#xa;#5  0x7172f3e0 in ?? ()&#xa;#6  0x7172f3e0 in ?? ()">
 <node CREATED="1440579778610" FOLDED="true" ID="ID_1683496944" MODIFIED="1456321592521" TEXT="#4 surfaceTexture &#x4e3a;&#x7a7a;">
 <node CREATED="1440579817533" FOLDED="true" ID="ID_313854200" MODIFIED="1456321592520" TEXT="surfaceTexture &#x662f; &#xa;android::sp&lt;android::GLConsumer&gt;&#xa;&#x7c7b;&#x578b;">
@@ -12186,7 +12186,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1453815091196" FOLDED="true" ID="ID_556173232" MODIFIED="1456997629567" TEXT="&#x6539;&#x5199;">
+<node CREATED="1453815091196" ID="ID_556173232" MODIFIED="1457436478170" TEXT="&#x6539;&#x5199;">
 <node CREATED="1453815095636" FOLDED="true" ID="ID_21279296" MODIFIED="1456830332691" TEXT="&#x5c06; shader &#x63d0;&#x51fa;&#x6765;">
 <node CREATED="1453815105372" FOLDED="true" ID="ID_1409908212" MODIFIED="1456830332371" TEXT="&#x95ee;&#x9898; ">
 <node CREATED="1453815110806" FOLDED="true" ID="ID_496255437" MODIFIED="1456830330837" TEXT="AnnotationVideoInScene &#x4e2d;&#xa;&#x4f7f;&#x7528; ShaderVideoTexture mShader,&#xa;&#x4f55;&#x65f6;&#x5220;&#x9664; mShader">
@@ -12195,11 +12195,10 @@
 </node>
 </node>
 </node>
-</node>
-<node CREATED="1456920336677" FOLDED="true" ID="ID_908522781" MODIFIED="1456997629568" TEXT="&#x53bb;&#x6389; actionSherlock">
+<node CREATED="1456920336677" ID="ID_908522781" MODIFIED="1457436481542" TEXT="&#x53bb;&#x6389; actionSherlock">
 <node CREATED="1456924711543" ID="ID_1290516161" MODIFIED="1456924723150" TEXT="&#x6240;&#x6709; activity extend AppCompatActivity"/>
-<node CREATED="1456920352301" ID="ID_464783469" MODIFIED="1456924719321" TEXT="theme parent &#x4f7f;&#x7528; Theme.AppCompat&#xa;"/>
-<node CREATED="1456925341891" FOLDED="true" ID="ID_424249485" MODIFIED="1456997626326" TEXT="&#x95ee;&#x9898;">
+<node CREATED="1456920352301" ID="ID_464783469" MODIFIED="1457436488755" TEXT="theme parent &#x4f7f;&#x7528; Theme.AppCompat "/>
+<node CREATED="1456925341891" ID="ID_424249485" MODIFIED="1457436493886" TEXT="&#x95ee;&#x9898;">
 <node CREATED="1456925344524" FOLDED="true" ID="ID_1075231025" MODIFIED="1456997626325" TEXT="&#x6240;&#x6709;  activity &#x7684; logo &#x90fd;&#x6ca1;&#x4e86;">
 <node CREATED="1456941017904" FOLDED="true" ID="ID_1635689670" MODIFIED="1456997626325" TEXT="&#x89e3;&#x51b3;&#xff0c;">
 <node CREATED="1456941181636" ID="ID_1091124504" MODIFIED="1456941186979" TEXT="theme &#x4e2d;&#x7684; actionbarStyle &#x4e2d;&#x7684;&#xa;displayOptions &#x8981;&#x88ab;&#x8bbe;&#x6210; &#xa;showHome|homeAsUp|showTitle&#xa;"/>
@@ -12210,6 +12209,12 @@
 </node>
 </node>
 <node CREATED="1456925359422" ID="ID_1155320274" MODIFIED="1456925373303" TEXT="&#x4e0b;&#x8f7d;&#x6587;&#x4ef6;&#x7684; progress bar &#x4e0d;&#x663e;&#x793a;"/>
+<node CREATED="1457436493887" ID="ID_1699112215" MODIFIED="1457436524869" TEXT="home button &#x4e0d;&#x663e;&#x793a;">
+<node CREATED="1457436530393" ID="ID_944503314" LINK="http://stackoverflow.com/questions/26732952/how-to-enable-homeasup-or-call-setdisplayhomeasupenabled-on-standalone-toolbar" MODIFIED="1457436541877" TEXT="How to enable homeAsUp or call &#xa;setDisplayHomeAsUpEnabled() on&#xa;standalone toolbar with appcompat v21">
+<node CREATED="1457436565709" ID="ID_279215285" MODIFIED="1457436616105" TEXT="&#x95ee;&#x9898;"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>
@@ -18020,7 +18025,7 @@
 </node>
 </node>
 <node CREATED="1435660554276" ID="ID_1446294098" MODIFIED="1456997634412" POSITION="right" TEXT="&#x5b66;&#x4e60;">
-<node CREATED="1418423514471" FOLDED="true" ID="ID_1530247130" MODIFIED="1457087502269" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
+<node CREATED="1418423514471" FOLDED="true" ID="ID_1530247130" MODIFIED="1457437205986" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423520471" FOLDED="true" ID="ID_1061945990" MODIFIED="1456997630010" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423530671" FOLDED="true" ID="ID_1813456615" MODIFIED="1456997629851" TEXT="&#x5de5;&#x5177;&#x548c;&#x57fa;&#x7840;">
 <node CREATED="1418423536287" FOLDED="true" ID="ID_1778555361" MODIFIED="1456997629594" TEXT="Android SDK&#x7684;&#x5b89;&#x88c5;">
@@ -19362,18 +19367,18 @@
 </node>
 </node>
 </node>
-<node CREATED="1452760969941" FOLDED="true" ID="ID_1443895694" MODIFIED="1456997630011" TEXT="Android studio">
-<node CREATED="1452760974633" FOLDED="true" ID="ID_1774653947" MODIFIED="1456997629867" TEXT="&#x5c06; project import &#x5230; Android Studio&#x4e2d;">
-<node CREATED="1452761077221" FOLDED="true" ID="ID_1765891628" MODIFIED="1456997629601" TEXT="&#x9519;&#x8bef;">
-<node CREATED="1452761046371" FOLDED="true" ID="ID_304028572" LINK="http://stackoverflow.com/questions/30198911/android-studio-android-library-with-resources" MODIFIED="1456925065379" TEXT="Android Studio Android Library with resources">
-<node CREATED="1452761296955" FOLDED="true" ID="ID_129263973" MODIFIED="1456925065378" TEXT="&#x95ee;&#x9898;">
+<node CREATED="1452760969941" FOLDED="true" ID="ID_1443895694" MODIFIED="1457437205985" TEXT="Android studio">
+<node CREATED="1452760974633" FOLDED="true" ID="ID_1774653947" MODIFIED="1457437205985" TEXT="&#x5c06; project import &#x5230; Android Studio&#x4e2d;">
+<node CREATED="1452761077221" FOLDED="true" ID="ID_1765891628" MODIFIED="1457437205984" TEXT="&#x9519;&#x8bef;">
+<node CREATED="1452761046371" FOLDED="true" ID="ID_304028572" LINK="http://stackoverflow.com/questions/30198911/android-studio-android-library-with-resources" MODIFIED="1457437205983" TEXT="Android Studio Android Library with resources">
+<node CREATED="1452761296955" FOLDED="true" ID="ID_129263973" MODIFIED="1457437205982" TEXT="&#x95ee;&#x9898;">
 <node CREATED="1452761305954" FOLDED="true" ID="ID_937783442" MODIFIED="1456321593046" TEXT="&#x751f;&#x6210;&#x4e86;&#x4e00;&#x4e2a; Android Library,&#xa;&#x5b83;&#x7528;&#x5230;">
 <node CREATED="1452761352833" ID="ID_1427216485" MODIFIED="1452761358540" TEXT="jar &#x6587;&#x4ef6;"/>
 <node CREATED="1452761358968" ID="ID_727836428" MODIFIED="1452761369914" TEXT="&#x6ca1;&#x6709; source &#x7684; resources"/>
 </node>
-<node CREATED="1452761372626" FOLDED="true" ID="ID_1072561955" MODIFIED="1456321593047" TEXT="Dependency structure">
-<node CREATED="1452761384754" FOLDED="true" ID="ID_367602606" MODIFIED="1456321593047" TEXT="Android Library Sample">
-<node CREATED="1452761392112" FOLDED="true" ID="ID_1492290322" MODIFIED="1456321593047" TEXT="depends on">
+<node CREATED="1452761372626" FOLDED="true" ID="ID_1072561955" MODIFIED="1457437205981" TEXT="Dependency structure">
+<node CREATED="1452761384754" FOLDED="true" ID="ID_367602606" MODIFIED="1457437205980" TEXT="Android Library Sample">
+<node CREATED="1452761392112" FOLDED="true" ID="ID_1492290322" MODIFIED="1457437205979" TEXT="depends on">
 <node CREATED="1452761395903" ID="ID_662799480" MODIFIED="1452761396351" TEXT="support v4"/>
 <node CREATED="1452761400651" ID="ID_1654634621" MODIFIED="1452761408885" TEXT="support v7"/>
 <node CREATED="1452761417211" ID="ID_1467634269" MODIFIED="1452761417885" TEXT="some jars included"/>
@@ -19397,7 +19402,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1452770424875" FOLDED="true" ID="ID_80949832" MODIFIED="1456830330867" TEXT="&#x89e3;&#x51b3;">
+<node CREATED="1452770424875" FOLDED="true" ID="ID_80949832" MODIFIED="1457437157017" TEXT="&#x89e3;&#x51b3;">
 <node CREATED="1452770428046" FOLDED="true" ID="ID_1016251573" MODIFIED="1456321593049" TEXT="&#x4ece; library project &#x4e2d;excluded&#xa;&#x4e0d;&#x9700;&#x8981;&#x7684; &apos;appcompat-v7&apos; dependency&#xa;">
 <node CREATED="1452770510480" ID="ID_1198924817" MODIFIED="1452770524734" TEXT="dependencies {&#xa;   // App dependencies&#xa;   compile &apos;com.android.support:appcompat-v7:21.0.3&apos;&#xa;&#xa;   //Library dependency&#xa;   compile (project(&apos;:library&apos;)) {&#xa;      exclude group: &apos;com.android.support&apos; module: &apos;appcompat-v7&apos; &#xa;   }&#xa;}"/>
 </node>
@@ -19415,7 +19420,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1418425034962" FOLDED="true" ID="ID_987499775" LINK="http://developer.android.com/" MODIFIED="1457428007692" TEXT="android &#x7a0b;&#x5e8f;&#x5458;&#x5f00;&#x53d1;&#x7f51;&#x7ad9;">
+<node CREATED="1418425034962" FOLDED="true" ID="ID_987499775" LINK="http://developer.android.com/" MODIFIED="1457437235997" TEXT="android &#x7a0b;&#x5e8f;&#x5458;&#x5f00;&#x53d1;&#x7f51;&#x7ad9;">
 <node CREATED="1418425447009" FOLDED="true" ID="ID_77937301" MODIFIED="1456997630012" TEXT="About">
 <node CREATED="1418425452680" FOLDED="true" ID="ID_1407088298" MODIFIED="1456997629867" TEXT="Welcom">
 <node CREATED="1418425460589" FOLDED="true" ID="ID_34783863" MODIFIED="1456997629602" TEXT="android, &#x4e16;&#x4e0a;&#x6700;&#x6d41;&#x884c;">
@@ -19595,9 +19600,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1418565860368" FOLDED="true" ID="ID_614402683" MODIFIED="1457342698412" TEXT="Develop">
-<node CREATED="1418565868056" FOLDED="true" ID="ID_1548436771" MODIFIED="1457087499480" TEXT="Tools">
-<node CREATED="1432550536232" FOLDED="true" ID="ID_1457498735" LINK="http://developer.android.com/tools/workflow/index.html" MODIFIED="1456997629604" TEXT="Workflow">
+<node CREATED="1418565860368" FOLDED="true" ID="ID_614402683" MODIFIED="1457437235995" TEXT="Develop">
+<node CREATED="1418565868056" FOLDED="true" ID="ID_1548436771" MODIFIED="1457437235994" TEXT="Tools">
+<node CREATED="1432550536232" FOLDED="true" ID="ID_1457498735" LINK="http://developer.android.com/tools/workflow/index.html" MODIFIED="1457437212137" TEXT="Workflow">
 <node CREATED="1439210475114" FOLDED="true" ID="ID_1003806711" LINK="http://developer.android.com/tools/devices/index.html" MODIFIED="1456830332423" TEXT="Using Hardeware Devices">
 <node CREATED="1439210514061" FOLDED="true" ID="ID_151882376" LINK="http://developer.android.com/tools/extras/oem-usb.html" MODIFIED="1456830330869" TEXT="USB Drivers">
 <node CREATED="1439210064935" FOLDED="true" ID="ID_1354404685" LINK="http://developer.android.com/tools/extras/oem-usb.html" MODIFIED="1456321593061" TEXT="&#x9700;&#x8981;&#x5b89;&#x88c5; OEM USB Drivers&#xa;(Original equipment manufactures)">
@@ -19630,7 +19635,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1433255355911" FOLDED="true" ID="ID_82202926" LINK="http://developer.android.com/tools/projects/index.html" MODIFIED="1456830332424" TEXT="Managing Projects">
+<node CREATED="1433255355911" FOLDED="true" ID="ID_82202926" LINK="http://developer.android.com/tools/projects/index.html" MODIFIED="1457437179173" TEXT="Managing Projects">
 <node CREATED="1433255525851" FOLDED="true" ID="ID_1300588089" MODIFIED="1456830330869" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1433255417650" ID="ID_629826374" MODIFIED="1433255517841" TEXT="SDK tool &#x5bf9; project &#x7684;&#x6587;&#x4ef6;&#x7ed3;&#x6784;&#x6709;&#x8981;&#x6c42;&#xa;&#x624d;&#x80fd;&#x6b63;&#x786e; compile &#x548c; package &#x4f60;&#x7684; &#xa;application"/>
 <node CREATED="1433255607614" FOLDED="true" ID="ID_1010883740" MODIFIED="1456321593065" TEXT="project &gt; &#xa;module &gt;&#xa;source &#x548c; resources">
@@ -19886,7 +19891,7 @@
 <node CREATED="1433259998014" ID="ID_1821277142" MODIFIED="1433260002964" TEXT="&lt;application android:name=&quot;ApplicationTitle&quot;&#xa;         android:label=&quot;@string/app_label&quot;&#xa;         android:icon=&quot;@mipmap/ic_launcher&quot; &gt;"/>
 </node>
 </node>
-<node CREATED="1433260012841" FOLDED="true" ID="ID_136452539" MODIFIED="1456830330871" TEXT="Library Module">
+<node CREATED="1433260012841" FOLDED="true" ID="ID_136452539" MODIFIED="1457437179172" TEXT="Library Module">
 <node CREATED="1433260163106" FOLDED="true" ID="ID_97427568" MODIFIED="1456321593073" TEXT="&#x4f7f;&#x7528; new library module feature&#xa;&#x9700;&#x8981; SDK Tools r14">
 <node CREATED="1433260193063" ID="ID_1515454385" MODIFIED="1433260343889" TEXT="new library module feature &#x5c06; &#x6bcf;&#x4e2a;&#xa;library module &#x653e;&#x8fdb;&#x81ea;&#x5df1;&#x7684; JAR &#x6587;&#x4ef6;"/>
 <node CREATED="1433260355952" ID="ID_35896926" LINK="http://developer.android.com/tools/help/sdk-manager.html" MODIFIED="1433260364024" TEXT="&#x53c2;&#x8003; SDK tools help"/>
@@ -19926,7 +19931,7 @@
 <node CREATED="1433262356365" ID="ID_1752304482" MODIFIED="1433262392105" TEXT="&#x9700;&#x8981;&#x6307;&#x5b9a; library &#x7684; resource &#x7684;&#x76f8;&#x5bf9;&#x4f18;&#x5148;&#x6743;"/>
 </node>
 <node CREATED="1433262416272" ID="ID_66604143" MODIFIED="1433262478582" TEXT="library module &#x53ef;&#x4ee5;&#x5f15;&#x7528;&#x5176;&#x4ed6; library modules,&#xa;&#x53ef;&#x4ee5; import &#x5916;&#x90e8;&#x7684; JAR"/>
-<node CREATED="1433262492172" FOLDED="true" ID="ID_542284824" MODIFIED="1456321593079" TEXT="Development considerations">
+<node CREATED="1433262492172" FOLDED="true" ID="ID_542284824" MODIFIED="1457437179170" TEXT="Development considerations">
 <node CREATED="1433262504480" FOLDED="true" ID="ID_1923562349" MODIFIED="1456321593076" TEXT="Resource conflicts">
 <node CREATED="1433262574498" ID="ID_825771896" MODIFIED="1433262585938" TEXT="&#x76f8;&#x540c;&#x7684; Resource ID"/>
 </node>
@@ -19994,7 +19999,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1432550560605" FOLDED="true" ID="ID_1248375226" LINK="http://developer.android.com/tools/debugging/index.html" MODIFIED="1456925074358" TEXT="Debugging">
+<node CREATED="1432550560605" FOLDED="true" ID="ID_1248375226" LINK="http://developer.android.com/tools/debugging/index.html" MODIFIED="1457437212136" TEXT="Debugging">
 <node CREATED="1432550581780" FOLDED="true" ID="ID_354038426" LINK="http://developer.android.com/tools/debugging/improving-w-lint.html" MODIFIED="1456830330872" TEXT="Improving Your Code with lint">
 <node CREATED="1432550600431" FOLDED="true" ID="ID_722059743" MODIFIED="1456321593082" TEXT="&#x63cf;&#x8ff0;">
 <node CREATED="1432550613199" FOLDED="true" ID="ID_1603295663" MODIFIED="1456321593082" TEXT="&#x4fdd;&#x8bc1;&#x4f60;&#x7684;&#x7a0b;&#x5e8f;&#x6ca1;&#x6709; structural problems">
@@ -20208,11 +20213,11 @@
 </node>
 </node>
 </node>
-<node CREATED="1435236778391" FOLDED="true" ID="ID_357823172" LINK="http://developer.android.com/tools/debugging/debugging-memory.html" MODIFIED="1456925074357" TEXT="Investigating Your RAM Usage">
-<node CREATED="1435322655088" FOLDED="true" ID="ID_267084684" MODIFIED="1456321593099" TEXT="Viewing Overall Memory Allocations">
+<node CREATED="1435236778391" FOLDED="true" ID="ID_357823172" LINK="http://developer.android.com/tools/debugging/debugging-memory.html" MODIFIED="1457437212135" TEXT="Investigating Your RAM Usage">
+<node CREATED="1435322655088" FOLDED="true" ID="ID_267084684" MODIFIED="1457437212134" TEXT="Viewing Overall Memory Allocations">
 <node CREATED="1435322664301" ID="ID_611198784" MODIFIED="1435322677801" TEXT="&#x547d;&#x4ee4;&#x884c; adb shell dumpsys meminfo &lt;package_name|pid&gt; [-d]"/>
-<node CREATED="1435322686936" FOLDED="true" ID="ID_824517211" MODIFIED="1456321593099" TEXT="&#x67e5;&#x770b;&#x7ed3;&#x679c;">
-<node CREATED="1435322702093" FOLDED="true" ID="ID_1020838360" MODIFIED="1456321593094" TEXT=".Heap (only with -d flag)">
+<node CREATED="1435322686936" FOLDED="true" ID="ID_824517211" MODIFIED="1457437212134" TEXT="&#x67e5;&#x770b;&#x7ed3;&#x679c;">
+<node CREATED="1435322702093" FOLDED="true" ID="ID_1020838360" MODIFIED="1457437210749" TEXT=".Heap (only with -d flag)">
 <node CREATED="1435322705158" ID="ID_360810322" MODIFIED="1435323429919" TEXT="heap memory for your app"/>
 <node CREATED="1435323435157" FOLDED="true" ID="ID_1247699806" MODIFIED="1456321593094" TEXT="excludes">
 <node CREATED="1435323441323" ID="ID_327030360" MODIFIED="1435323441698" TEXT="objects in the image "/>
@@ -20223,7 +20228,7 @@
 <node CREATED="1435323459278" ID="ID_920292875" MODIFIED="1435323459636" TEXT="non-moving space"/>
 </node>
 </node>
-<node CREATED="1435323466207" FOLDED="true" ID="ID_512567375" MODIFIED="1456321593095" TEXT=".LOS (only with -d flag)">
+<node CREATED="1435323466207" FOLDED="true" ID="ID_512567375" MODIFIED="1457437212132" TEXT=".LOS (only with -d flag)">
 <node CREATED="1435323471439" ID="ID_1790475518" MODIFIED="1435323471858" TEXT="RAM used by the ART large object space."/>
 <node CREATED="1435323475589" FOLDED="true" ID="ID_692158491" MODIFIED="1456321593094" TEXT="includes">
 <node CREATED="1435323479103" FOLDED="true" ID="ID_863526331" MODIFIED="1456321593094" TEXT="zygote large objects">
@@ -20879,7 +20884,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1432286434931" FOLDED="true" ID="ID_1163616698" LINK="http://developer.android.com/tools/help/index.html" MODIFIED="1456997629605" TEXT="Tools Help">
+<node CREATED="1432286434931" FOLDED="true" ID="ID_1163616698" LINK="http://developer.android.com/tools/help/index.html" MODIFIED="1457437226182" TEXT="Tools Help">
 <node CREATED="1439997790679" FOLDED="true" ID="ID_384578957" LINK="https://developer.android.com/tools/help/index.html#tools-sdk" MODIFIED="1456830332425" TEXT="Tools Help">
 <node CREATED="1439997806240" FOLDED="true" ID="ID_1767597517" MODIFIED="1456830330874" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1439997817548" FOLDED="true" ID="ID_542839278" MODIFIED="1456321593137" TEXT="Android SDK &#x63d0;&#x4f9b;&#x7684; tools&#x5206;&#x4e3a;&#x4e24;&#x7c7b;">
@@ -20909,7 +20914,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1432286450737" FOLDED="true" ID="ID_1070631656" LINK="http://developer.android.com/tools/help/proguard.html" MODIFIED="1456830332426" TEXT="ProGuard">
+<node CREATED="1432286450737" FOLDED="true" ID="ID_1070631656" LINK="http://developer.android.com/tools/help/proguard.html" MODIFIED="1457437226181" TEXT="ProGuard">
 <node CREATED="1432286465812" ID="ID_1320090189" LINK="http://proguard.sourceforge.net/" MODIFIED="1432286518629" TEXT="&#x5f00;&#x6e90;&#x8f6f;&#x4ef6; ProGuard"/>
 <node CREATED="1432286496736" FOLDED="true" ID="ID_1936609070" MODIFIED="1456830330875" TEXT="&#x63cf;&#x8ff0;">
 <node CREATED="1432286547564" FOLDED="true" ID="ID_1281012952" MODIFIED="1456321593139" TEXT="&#x529f;&#x80fd; shrinks, optimizes, &#xa;and obfuscates your code ">
@@ -20989,18 +20994,18 @@
 <node CREATED="1433365704880" ID="ID_218469040" MODIFIED="1433365715651" TEXT="&#x4f7f;&#x7528; Eclipse&#xa;&lt;project_root&gt;/proguard"/>
 </node>
 </node>
-<node CREATED="1433340754098" FOLDED="true" ID="ID_340989103" MODIFIED="1456830330877" TEXT="iVisit &#x539f;&#x6709;&#x7684; proguard-project.txt">
-<node CREATED="1433340821903" FOLDED="true" ID="ID_1960378149" MODIFIED="1456321593145" TEXT="&#x81ea;&#x52a8;&#x751f;&#x6210;&#x7684; comments">
+<node CREATED="1433340754098" FOLDED="true" ID="ID_340989103" MODIFIED="1457437226180" TEXT="iVisit &#x539f;&#x6709;&#x7684; proguard-project.txt">
+<node CREATED="1433340821903" FOLDED="true" ID="ID_1960378149" MODIFIED="1457437226180" TEXT="&#x81ea;&#x52a8;&#x751f;&#x6210;&#x7684; comments">
 <node CREATED="1433340833040" FOLDED="true" ID="ID_541552533" MODIFIED="1456321593144" TEXT="enable ProGuard">
 <node CREATED="1433340849790" FOLDED="true" ID="ID_1875438035" MODIFIED="1456321593143" TEXT="&#x7f16;&#x8f91; project.properties &#x5b9a;&#x4e49;&#xa;proguard.config &#x5c5e;&#x6027;">
 <node CREATED="1433340914836" ID="ID_1234921006" MODIFIED="1433340915827" TEXT="proguard.config=${sdk.dir}/tools/proguard/proguard-android.txt:proguard-project.txt"/>
 </node>
 </node>
-<node CREATED="1433344117464" FOLDED="true" ID="ID_1141183181" MODIFIED="1456321593145" TEXT="project.properties &#x4e2d;&#x5b9a;&#x4e49;&#x7684; proguard.config&#xa;&#x662f;&#x8fd9;&#x6837;&#x7684;&#xa;proguard.config=&#xa;${sdk.dir}/tools/proguard/proguard-android.txt&#xa;:proguard-project.txt">
+<node CREATED="1433344117464" FOLDED="true" ID="ID_1141183181" MODIFIED="1457437226177" TEXT="project.properties &#x4e2d;&#x5b9a;&#x4e49;&#x7684; proguard.config&#xa;&#x662f;&#x8fd9;&#x6837;&#x7684;&#xa;proguard.config=&#xa;${sdk.dir}/tools/proguard/proguard-android.txt&#xa;:proguard-project.txt">
 <node CREATED="1433344164228" ID="ID_1011645212" MODIFIED="1433344275770" TEXT="&#x8fd9;&#x53e5;&#x8bdd;&#x7684;&#x610f;&#x601d;&#x662f;&#xff1a;&#x4f7f;&#x7528;&#xa;${sdk.dir}/tools/proguard/proguard-android.txt&#xa;&#xff0b;&#x672c; project &#x7684; proguard-project.txt&#xa;&#x4f5c;&#x4e3a; proguard &#x7684; rules"/>
 <node CREATED="1433343533509" ID="ID_1178174780" MODIFIED="1433344352697" TEXT="&#x5728;proguard-project.txt &#x4e2d;&#x6dfb;&#x52a0;&#x7684; ProGuard rules,&#xa;&#x88ab;&#x653e;&#x5728;${sdk.dir}/tools/proguard/proguard-android.txt&#xa;&#x4e2d;&#x5b9a;&#x4e49;&#x7684; rule &#x7684;&#x540e;&#x9762;&#xa;"/>
-<node CREATED="1433343646343" FOLDED="true" ID="ID_1760839037" MODIFIED="1456321593144" TEXT="&#x6211;&#x7684; mac &#x4e0a;&#xff0c;&#x5728; &#xa;/Users/Qing/Library/Android/sdk/tools/proguard/&#xa;proguard-android.txt&#xa;">
-<node CREATED="1433343791850" FOLDED="true" ID="ID_1224683127" MODIFIED="1456321593144" TEXT="&#x5185;&#x5bb9;">
+<node CREATED="1433343646343" FOLDED="true" ID="ID_1760839037" MODIFIED="1457437226175" TEXT="&#x6211;&#x7684; mac &#x4e0a;&#xff0c;&#x5728; &#xa;/Users/Qing/Library/Android/sdk/tools/proguard/&#xa;proguard-android.txt&#xa;">
+<node CREATED="1433343791850" FOLDED="true" ID="ID_1224683127" MODIFIED="1457437226174" TEXT="&#x5185;&#x5bb9;">
 <node CREATED="1433343798531" ID="ID_884436995" MODIFIED="1433343809602" TEXT="# This is a configuration file for ProGuard.&#xa;# http://proguard.sourceforge.net/index.html#manual/usage.html&#xa;&#xa;-dontusemixedcaseclassnames&#xa;-dontskipnonpubliclibraryclasses&#xa;-verbose&#xa;&#xa;# Optimization is turned off by default. Dex does not like code run&#xa;# through the ProGuard optimize and preverify steps (and performs some&#xa;# of these optimizations on its own).&#xa;-dontoptimize&#xa;-dontpreverify&#xa;# Note that if you want to enable optimization, you cannot just&#xa;# include optimization flags in your own project configuration file;&#xa;# instead you will need to point to the&#xa;# &quot;proguard-android-optimize.txt&quot; file instead of this one from your&#xa;# project.properties file.&#xa;&#xa;-keepattributes *Annotation*&#xa;-keep public class com.google.vending.licensing.ILicensingService&#xa;-keep public class com.android.vending.licensing.ILicensingService&#xa;&#xa;# For native methods, see http://proguard.sourceforge.net/manual/examples.html#native&#xa;-keepclasseswithmembernames class * {&#xa;    native &lt;methods&gt;;&#xa;}&#xa;&#xa;# keep setters in Views so that animations can still work.&#xa;# see http://proguard.sourceforge.net/manual/examples.html#beans&#xa;-keepclassmembers public class * extends android.view.View {&#xa;   void set*(***);&#xa;   *** get*();&#xa;}&#xa;&#xa;# We want to keep methods in Activity that could be used in the XML attribute onClick&#xa;-keepclassmembers class * extends android.app.Activity {&#xa;   public void *(android.view.View);&#xa;}&#xa;&#xa;# For enumeration classes, see http://proguard.sourceforge.net/manual/examples.html#enumerations&#xa;-keepclassmembers enum * {&#xa;    public static **[] values();&#xa;    public static ** valueOf(java.lang.String);&#xa;}&#xa;&#xa;-keep class * implements android.os.Parcelable {&#xa;  public static final android.os.Parcelable$Creator *;&#xa;}&#xa;&#xa;-keepclassmembers class **.R$* {&#xa;    public static &lt;fields&gt;;&#xa;}&#xa;&#xa;# The support library contains references to newer platform versions.&#xa;# Don&apos;t warn about those in case this app is linking against an older&#xa;# platform version.  We know about them, and they are safe.&#xa;-dontwarn android.support.**&#xa;"/>
 </node>
 </node>
@@ -21524,7 +21529,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1441117286283" FOLDED="true" ID="ID_1569155838" LINK="https://developer.android.com/sdk/installing/studio-build.html" MODIFIED="1456997629605" TEXT="Build System">
+<node CREATED="1441117286283" FOLDED="true" ID="ID_1569155838" LINK="https://developer.android.com/sdk/installing/studio-build.html" MODIFIED="1457437195715" TEXT="Build System">
 <node CREATED="1441199938504" FOLDED="true" ID="ID_1045481365" LINK="https://developer.android.com/sdk/installing/studio-build.html" MODIFIED="1456830332428" TEXT="Build System Overview">
 <node CREATED="1441199990545" FOLDED="true" ID="ID_759707622" MODIFIED="1456830330920" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1441200000980" FOLDED="true" ID="ID_1210415919" MODIFIED="1456321593178" TEXT="&#x8fd0;&#x884c; build system ">
@@ -21570,7 +21575,7 @@
 <node CREATED="1441117357164" ID="ID_45282975" MODIFIED="1441117952656" TEXT="&#x4ecb;&#x7ecd; how to use build variants &#xa;based on product flavors and&#xa; build types"/>
 </node>
 <node CREATED="1441201209700" ID="ID_375412614" LINK="https://developer.android.com/tools/building/building-studio.html" MODIFIED="1441201275000" TEXT="Building and Running from Android Studio"/>
-<node CREATED="1455613268623" FOLDED="true" ID="ID_228124265" LINK="https://developer.android.com/tools/building/multidex.html" MODIFIED="1456830332429" TEXT="Building Apps with Over 65K Methods">
+<node CREATED="1455613268623" FOLDED="true" ID="ID_228124265" LINK="https://developer.android.com/tools/building/multidex.html" MODIFIED="1457437195713" TEXT="Building Apps with Over 65K Methods">
 <node CREATED="1455613280230" FOLDED="true" ID="ID_922938431" MODIFIED="1456830330921" TEXT="&#x8d85;&#x51fa;&#x5355;&#x4e2a; Dalvik Executable (dex) &#xa;65536 &#x4e2a; method reference &#x7684;&#x9650;&#x5236;&#xa;&#x51fa;&#x9519;">
 <node CREATED="1455613364353" FOLDED="true" ID="ID_1813170425" MODIFIED="1456321593180" TEXT="Earlier versions of the build system">
 <node CREATED="1455613367883" ID="ID_476080827" MODIFIED="1455613370760" TEXT="Conversion to Dalvik format failed:&#xa;Unable to execute dex: method ID not in [0, 0xffff]: 65536"/>
@@ -21599,9 +21604,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1455614522426" FOLDED="true" ID="ID_1505919764" LINK="https://developer.android.com/tools/building/multidex.html#avoid" MODIFIED="1456830330922" TEXT="Avoiding the 65K Limit ">
-<node CREATED="1455614565537" FOLDED="true" ID="ID_1102901990" MODIFIED="1456321593182" TEXT="strategies">
-<node CREATED="1455614579307" FOLDED="true" ID="ID_364013472" MODIFIED="1456321593182" TEXT="app&apos;s direct and transitive dependencies ">
+<node CREATED="1455614522426" FOLDED="true" ID="ID_1505919764" LINK="https://developer.android.com/tools/building/multidex.html#avoid" MODIFIED="1457437194820" TEXT="Avoiding the 65K Limit ">
+<node CREATED="1455614565537" FOLDED="true" ID="ID_1102901990" MODIFIED="1457437194820" TEXT="strategies">
+<node CREATED="1455614579307" FOLDED="true" ID="ID_364013472" MODIFIED="1457437194819" TEXT="app&apos;s direct and transitive dependencies ">
 <node CREATED="1455614658722" ID="ID_655057973" MODIFIED="1455614668240" TEXT="&#x907f;&#x514d; include a very large library because&#xa; a few utility methods were useful"/>
 </node>
 <node CREATED="1455614680287" FOLDED="true" ID="ID_662462062" MODIFIED="1456321593182" TEXT="Remove unused code with ProGuard ">
@@ -21611,10 +21616,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1455614783734" FOLDED="true" ID="ID_1295552249" LINK="https://developer.android.com/tools/building/multidex.html#mdex-gradle" MODIFIED="1456830330923" TEXT="Configuring Your App for Multidex with Gradle">
+<node CREATED="1455614783734" FOLDED="true" ID="ID_1295552249" LINK="https://developer.android.com/tools/building/multidex.html#mdex-gradle" MODIFIED="1457437195712" TEXT="Configuring Your App for Multidex with Gradle">
 <node CREATED="1455614827991" ID="ID_573660473" MODIFIED="1455614841694" TEXT="&#x9700;&#x8981;&#x4f7f;&#x7528;Android SDK Build Tools 21.1&#x4ee5;&#x4e0a;&#x7684;&#x7248;&#x672c;&#xa;"/>
-<node CREATED="1455615010342" FOLDED="true" ID="ID_743448991" MODIFIED="1456321593184" TEXT="&#x4f7f;&#x7528; multidex configuration &#x4e4b;&#x524d;&#xff0c;&#xa;&#x9700;&#x8981;&#x5bf9; project &#x8fdb;&#x884c;&#x4fee;&#x6539;&#xff0c;&#x6b65;&#x9aa4;&#x5982;&#x4e0b;">
-<node CREATED="1455615052690" FOLDED="true" ID="ID_812795095" MODIFIED="1456321593183" TEXT="Change your Gradle build &#xa;configuration to enable multidex">
+<node CREATED="1455615010342" FOLDED="true" ID="ID_743448991" MODIFIED="1457437195710" TEXT="&#x4f7f;&#x7528; multidex configuration &#x4e4b;&#x524d;&#xff0c;&#xa;&#x9700;&#x8981;&#x5bf9; project &#x8fdb;&#x884c;&#x4fee;&#x6539;&#xff0c;&#x6b65;&#x9aa4;&#x5982;&#x4e0b;">
+<node CREATED="1455615052690" FOLDED="true" ID="ID_812795095" MODIFIED="1457437195707" TEXT="Change your Gradle build &#xa;configuration to enable multidex">
 <node CREATED="1455615121146" ID="ID_829489090" MODIFIED="1455615124555" TEXT="include the support library"/>
 <node CREATED="1455615125287" ID="ID_1420633953" MODIFIED="1455615130377" TEXT="enable multidex output"/>
 <node CREATED="1455615137010" FOLDED="true" ID="ID_53294280" MODIFIED="1456321593183" TEXT="Gradle build file:">
@@ -21637,8 +21642,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1432548494497" FOLDED="true" ID="ID_1139752897" LINK="https://developer.android.com/tools/help/adt.html" MODIFIED="1456997629606" TEXT="Eclipse with ADT">
-<node CREATED="1441110203778" FOLDED="true" ID="ID_594701136" LINK="https://developer.android.com/sdk/installing/migrate.html" MODIFIED="1456830332430" TEXT="Migrating from Eclipse ADT">
+<node CREATED="1432548494497" FOLDED="true" ID="ID_1139752897" LINK="https://developer.android.com/tools/help/adt.html" MODIFIED="1457437235993" TEXT="Eclipse with ADT">
+<node CREATED="1441110203778" FOLDED="true" ID="ID_594701136" LINK="https://developer.android.com/sdk/installing/migrate.html" MODIFIED="1457437235992" TEXT="Migrating from Eclipse ADT">
 <node CREATED="1441110210935" FOLDED="true" ID="ID_1980640517" MODIFIED="1456830330923" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1441110217032" ID="ID_135893168" MODIFIED="1441110347805" TEXT="Android Studio &#x63d0;&#x4f9b; import tool&#xa;&#x5c06; Eclipse ADT workspace &#x548c; Ant&#xa;build script &#x8f6c;&#x6362;&#x6210; Android Studio&#xa;projects &#x548c; Gradle-based build files"/>
 <node CREATED="1441110360146" FOLDED="true" ID="ID_1939122394" MODIFIED="1456321593186" TEXT="&#x53c2;&#x770b;">
@@ -21661,9 +21666,9 @@
 <node CREATED="1441113511734" ID="ID_1848090721" LINK="#ID_1476990306" MODIFIED="1441113545179" TEXT="&#x53c2;&#x8003; Manifest Settings"/>
 </node>
 </node>
-<node CREATED="1441113708887" FOLDED="true" ID="ID_688375535" LINK="https://developer.android.com/sdk/installing/migrate.html#prerequisites" MODIFIED="1456830330924" TEXT="Migration Prerequisites">
-<node CREATED="1441118437938" FOLDED="true" ID="ID_196473250" MODIFIED="1456321593191" TEXT="&#x8fc7;&#x5ea6;&#x5230; Android Studio &#x4e4b;&#x524d;&#xff0c;">
-<node CREATED="1441114520191" FOLDED="true" ID="ID_1963341477" MODIFIED="1456321593189" TEXT="&#x5728; Eclipse ADT &#x4e2d;&#x68c0;&#x67e5;&#xff1a;">
+<node CREATED="1441113708887" FOLDED="true" ID="ID_688375535" LINK="https://developer.android.com/sdk/installing/migrate.html#prerequisites" MODIFIED="1457437196642" TEXT="Migration Prerequisites">
+<node CREATED="1441118437938" FOLDED="true" ID="ID_196473250" MODIFIED="1457437196641" TEXT="&#x8fc7;&#x5ea6;&#x5230; Android Studio &#x4e4b;&#x524d;&#xff0c;">
+<node CREATED="1441114520191" FOLDED="true" ID="ID_1963341477" MODIFIED="1457437196641" TEXT="&#x5728; Eclipse ADT &#x4e2d;&#x68c0;&#x67e5;&#xff1a;">
 <node CREATED="1441114682447" FOLDED="true" ID="ID_1698004159" MODIFIED="1456321593187" TEXT="&#x786e;&#x4fdd; Eclipse ADT root &#x76ee;&#x5f55;&#x4e0b;&#x5305;&#x542b;&#xa;">
 <node CREATED="1441114723321" ID="ID_253846364" MODIFIED="1441114723841" TEXT="AndroidManifest.xml"/>
 <node CREATED="1441114770581" ID="ID_1287283401" MODIFIED="1441114818798" TEXT=".project &#x6216;&#x8005; .classpath &#x6216;&#x8005; res/"/>
@@ -21818,7 +21823,7 @@
 <node CREATED="1441198976382" ID="ID_942179225" LINK="http://www.gradle.org/" MODIFIED="1441198988349" TEXT="Gradle-based build system"/>
 <node CREATED="1441199035934" ID="ID_193035530" LINK="#ID_1457498735" MODIFIED="1441199515147" TEXT="how to &#x53c2;&#x770b; Workflow"/>
 </node>
-<node CREATED="1441110754674" FOLDED="true" ID="ID_1459065671" LINK="https://developer.android.com/tools/studio/eclipse-transition-guide.html" MODIFIED="1456830330926" TEXT="Transition Guide">
+<node CREATED="1441110754674" FOLDED="true" ID="ID_1459065671" LINK="https://developer.android.com/tools/studio/eclipse-transition-guide.html" MODIFIED="1457437235991" TEXT="Transition Guide">
 <node CREATED="1441110798829" FOLDED="true" ID="ID_1596114173" MODIFIED="1456321593200" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1441110809748" FOLDED="true" ID="ID_819150771" MODIFIED="1456321593200" TEXT="&#x8be5;&#x6587;&#x7ae0;&#x4ecb;&#x7ecd; Eclispe ADT &#x548c;&#xa; Android Studio &#x7684;&#x4e0d;&#x540c;">
 <node CREATED="1441110840230" ID="ID_121835214" MODIFIED="1441110840696" TEXT=" project structure"/>
@@ -21877,15 +21882,15 @@
 <node CREATED="1441199711427" ID="ID_1184786764" MODIFIED="1441199712215" TEXT="Build variants"/>
 </node>
 </node>
-<node CREATED="1455535148425" FOLDED="true" ID="ID_1120331878" LINK="http://developer.android.com/tools/studio/eclipse-transition-guide.html#dependencies" MODIFIED="1456321593207" TEXT="Dependencies">
-<node CREATED="1455535350150" FOLDED="true" ID="ID_1644888905" MODIFIED="1456321593207" TEXT="&#x4ecb;&#x7ecd;">
-<node CREATED="1455535192728" FOLDED="true" ID="ID_1584928364" MODIFIED="1456321593205" TEXT="import &#x7684;&#x8fc7;&#x7a0b;&#x4e2d;&#xff0c;declarations are &#xa;added to the build.gradle file">
-<node CREATED="1455535201309" FOLDED="true" ID="ID_173983735" MODIFIED="1456321593204" TEXT="declaration &#x5305;&#x542b;dependency scope&#xa;&#x7528;&#x6765;&#x6307;&#x5b9a; in which builds the &#xa;dependency is included.">
+<node CREATED="1455535148425" FOLDED="true" ID="ID_1120331878" LINK="http://developer.android.com/tools/studio/eclipse-transition-guide.html#dependencies" MODIFIED="1457437235990" TEXT="Dependencies">
+<node CREATED="1455535350150" FOLDED="true" ID="ID_1644888905" MODIFIED="1457437235989" TEXT="&#x4ecb;&#x7ecd;">
+<node CREATED="1455535192728" FOLDED="true" ID="ID_1584928364" MODIFIED="1457437235987" TEXT="import &#x7684;&#x8fc7;&#x7a0b;&#x4e2d;&#xff0c;declarations are &#xa;added to the build.gradle file">
+<node CREATED="1455535201309" FOLDED="true" ID="ID_173983735" MODIFIED="1457437235985" TEXT="declaration &#x5305;&#x542b;dependency scope&#xa;&#x7528;&#x6765;&#x6307;&#x5b9a; in which builds the &#xa;dependency is included.">
 <node CREATED="1455535251058" ID="ID_350619927" LINK="#ID_1495717363" MODIFIED="1455535366175" TEXT="dependency scope"/>
 <node CREATED="1455535256826" FOLDED="true" ID="ID_1859023722" MODIFIED="1456321593203" TEXT="&#x6bd4;&#x5982;">
 <node CREATED="1455535262600" ID="ID_1675975134" MODIFIED="1455535263024" TEXT="compile"/>
 </node>
-<node CREATED="1455535301707" FOLDED="true" ID="ID_772129055" MODIFIED="1456321593204" TEXT="&#x4f8b;&#x5b50;">
+<node CREATED="1455535301707" FOLDED="true" ID="ID_772129055" MODIFIED="1457437235984" TEXT="&#x4f8b;&#x5b50;">
 <node CREATED="1455535316432" FOLDED="true" ID="ID_1301285476" MODIFIED="1456321593203" TEXT="add an external library JAR dependency &#xa;so it&apos;s included in each compile:">
 <node CREATED="1455535325456" ID="ID_479878474" MODIFIED="1455535328268" TEXT="dependencies {&#xa;    compile files(&apos;libs/*.jar&apos;)&#xa;}&#xa;&#xa;android {&#xa;    ...&#xa;}&#xa;"/>
 </node>
@@ -21922,7 +21927,7 @@
 <node CREATED="1418720865426" FOLDED="true" ID="ID_693931854" MODIFIED="1456830332431" TEXT="Download">
 <node CREATED="1418720911165" ID="ID_1346744435" MODIFIED="1418720925336" TEXT="stand-aling SDK Tools package"/>
 </node>
-<node CREATED="1418657206479" FOLDED="true" ID="ID_1203714729" LINK="http://developer.android.com/tools/help/adt.html" MODIFIED="1456830332431" TEXT="Android Developer Tools">
+<node CREATED="1418657206479" FOLDED="true" ID="ID_1203714729" LINK="http://developer.android.com/tools/help/adt.html" MODIFIED="1457437181635" TEXT="Android Developer Tools">
 <node CREATED="1418657211250" ID="ID_1496890697" MODIFIED="1418657518319" TEXT="plugin for Eclipse IDE"/>
 <node CREATED="1418657538108" FOLDED="true" ID="ID_1885337846" MODIFIED="1456830330926" TEXT="&#x63d0;&#x4f9b; GUI &#x8bbf;&#x95ee; command line SDK">
 <node CREATED="1418657568201" ID="ID_1147522046" MODIFIED="1418657576210" TEXT="UI design tool"/>
@@ -22023,7 +22028,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1418659520372" FOLDED="true" ID="ID_1533849821" MODIFIED="1456830330928" TEXT="Graphical Layout Editor">
+<node CREATED="1418659520372" FOLDED="true" ID="ID_1533849821" MODIFIED="1457437181634" TEXT="Graphical Layout Editor">
 <node CREATED="1418659561212" FOLDED="true" ID="ID_1304330562" MODIFIED="1456321593240" TEXT="&#x88ab;&#x5206;&#x6210;">
 <node CREATED="1418659569434" FOLDED="true" ID="ID_1622633663" MODIFIED="1456321593239" TEXT="Canvas">
 <node CREATED="1418659589909" ID="ID_1815338197" MODIFIED="1418659591554" TEXT=" rendered view of your layout "/>
@@ -22067,7 +22072,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1418659765132" FOLDED="true" ID="ID_1189062523" MODIFIED="1456321593240" TEXT="Canvas and outline view">
+<node CREATED="1418659765132" FOLDED="true" ID="ID_1189062523" MODIFIED="1457437181633" TEXT="Canvas and outline view">
 <node CREATED="1418659960295" ID="ID_197824340" MODIFIED="1418659961711" TEXT="View and layout properties"/>
 <node CREATED="1418659969498" FOLDED="true" ID="ID_321317577" MODIFIED="1456321593240" TEXT="Animation preview and creation">
 <node CREATED="1418659975966" ID="ID_365467855" MODIFIED="1418659987507" TEXT="preview animated layout"/>
@@ -22799,7 +22804,7 @@
 </node>
 <node CREATED="1423065709858" ID="ID_320045412" LINK="http://jgilfelt.github.io/android-actionbarstylegenerator/#name=example&amp;compat=holo&amp;theme=light&amp;actionbarstyle=solid&amp;texture=0&amp;hairline=0&amp;neutralPressed=1&amp;backColor=E4E4E4%2C100&amp;secondaryColor=D6D6D6%2C100&amp;tabColor=33B5E5%2C100&amp;tertiaryColor=F2F2F2%2C100&amp;accentColor=33B5E5%2C100&amp;cabBackColor=FFFFFF%2C100&amp;cabHighlightColor=33B5E5%2C100" MODIFIED="1423065725731" TEXT="Android Action Bar Style Generator"/>
 <node CREATED="1423065750757" ID="ID_721281982" LINK="http://romannurik.github.io/AndroidAssetStudio/" MODIFIED="1423065758001" TEXT="all"/>
-<node CREATED="1434098983278" FOLDED="true" ID="ID_1118068088" LINK="https://developer.android.com/tools/support-library/index.html" MODIFIED="1456997629608" TEXT="Support Library">
+<node CREATED="1434098983278" FOLDED="true" ID="ID_1118068088" LINK="https://developer.android.com/tools/support-library/index.html" MODIFIED="1457437227878" TEXT="Support Library">
 <node CREATED="1456845978491" FOLDED="true" ID="ID_1692228155" LINK="http://developer.android.com/tools/support-library/index.html" MODIFIED="1456846716882" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1456846091330" FOLDED="true" ID="ID_592482975" MODIFIED="1456846101497" TEXT="&#x524d;&#x8a00;">
 <node CREATED="1456846023164" FOLDED="true" ID="ID_1060007615" MODIFIED="1456997626828" TEXT="Support Library provide ">
@@ -22831,8 +22836,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1434099010964" FOLDED="true" ID="ID_984702315" LINK="https://developer.android.com/tools/support-library/features.html" MODIFIED="1456997626837" TEXT="Support Library Features">
-<node CREATED="1434099106011" FOLDED="true" ID="ID_444773201" MODIFIED="1456846725548" TEXT="&#x4ecb;&#x7ecd;">
+<node CREATED="1434099010964" FOLDED="true" ID="ID_984702315" LINK="https://developer.android.com/tools/support-library/features.html" MODIFIED="1457437227877" TEXT="Support Library Features">
+<node CREATED="1434099106011" FOLDED="true" ID="ID_444773201" MODIFIED="1457437161067" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1434099050419" ID="ID_44728895" MODIFIED="1434099207851" TEXT="&#x6bcf;&#x4e2a; librarie &#x652f;&#x6301;&#x67d0;&#x4e2a;&#xa;&#x7279;&#x5b9a;&#x7684; Android platform&#xa;version &#x548c; &#x67d0;&#x4e2a; set of &#xa;features"/>
 <node CREATED="1434099218447" ID="ID_15943820" MODIFIED="1434099295869" TEXT="&#x5efa;&#x8bae; include v4 support &#x548c;&#xa;v7 appcompat &#x4e24;&#x4e2a; libraries"/>
 </node>
@@ -22922,14 +22927,14 @@
 <node CREATED="1456847676038" ID="ID_1566462979" MODIFIED="1456847676482" TEXT="com.android.support:multidex:1.0.0"/>
 </node>
 </node>
-<node CREATED="1456846762444" FOLDED="true" ID="ID_1357890243" MODIFIED="1456848798522" TEXT="v7 Support Libraries">
+<node CREATED="1456846762444" FOLDED="true" ID="ID_1357890243" MODIFIED="1457437227876" TEXT="v7 Support Libraries">
 <node CREATED="1456846789627" ID="ID_145706128" MODIFIED="1456846790117" TEXT=" designed to be used with Android 2.1 (API level 7) and higher"/>
-<node CREATED="1456846805219" FOLDED="true" ID="ID_1748358411" MODIFIED="1456997626832" TEXT="&#x63d0;&#x4f9b;&#x53ef;&#x5355;&#x72ec;&#x6dfb;&#x52a0;&#x5230; app &#x7684; feutures">
-<node CREATED="1456846835664" FOLDED="true" ID="ID_384686943" MODIFIED="1456848785633" TEXT="v7 appcompat library">
+<node CREATED="1456846805219" FOLDED="true" ID="ID_1748358411" MODIFIED="1457437227875" TEXT="&#x63d0;&#x4f9b;&#x53ef;&#x5355;&#x72ec;&#x6dfb;&#x52a0;&#x5230; app &#x7684; feutures">
+<node CREATED="1456846835664" FOLDED="true" ID="ID_384686943" MODIFIED="1457437227874" TEXT="v7 appcompat library">
 <node CREATED="1456846851402" ID="ID_698583262" LINK="http://developer.android.com/guide/topics/ui/actionbar.html" MODIFIED="1456846875662" TEXT=" adds support for the Action Bar "/>
 <node CREATED="1456846862574" ID="ID_1086031092" LINK="http://developer.android.com/design/material/" MODIFIED="1456846868979" TEXT="material design"/>
 <node CREATED="1456846909228" ID="ID_680890909" MODIFIED="1456846910571" TEXT="This library depends on the v4 Support Library"/>
-<node CREATED="1456846920580" FOLDED="true" ID="ID_1749184040" MODIFIED="1456847196277" TEXT="key classes">
+<node CREATED="1456846920580" FOLDED="true" ID="ID_1749184040" MODIFIED="1457437227874" TEXT="key classes">
 <node CREATED="1456846924821" ID="ID_1827512801" MODIFIED="1456846925252" TEXT="ActionBar"/>
 <node CREATED="1456846935599" FOLDED="true" ID="ID_260529993" MODIFIED="1456997626831" TEXT="AppCompatActivity">
 <node CREATED="1456847077868" FOLDED="true" ID="ID_131490769" MODIFIED="1456997626830" TEXT="base class for activities">
@@ -22939,7 +22944,7 @@
 <node CREATED="1456847045682" FOLDED="true" ID="ID_173900690" MODIFIED="1456997626831" TEXT="AppCompatDialog">
 <node CREATED="1456847065538" ID="ID_836278842" MODIFIED="1456847066059" TEXT="base class for AppCompat themed dialogs"/>
 </node>
-<node CREATED="1456847087386" FOLDED="true" ID="ID_1749344244" MODIFIED="1456997626831" TEXT="ShareActionProvider">
+<node CREATED="1456847087386" FOLDED="true" ID="ID_1749344244" MODIFIED="1457437227873" TEXT="ShareActionProvider">
 <node CREATED="1456847096509" FOLDED="true" ID="ID_1814762431" MODIFIED="1456997626831" TEXT=" support for a standardized sharing action&#xa;included in an action ba">
 <node CREATED="1456847101226" ID="ID_1910278415" MODIFIED="1456847101598" TEXT="email"/>
 <node CREATED="1456847108424" ID="ID_1408337615" MODIFIED="1456847108737" TEXT=" posting to social applications"/>
@@ -22958,9 +22963,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1456848820816" FOLDED="true" ID="ID_1046590095" LINK="https://developer.android.com/tools/support-library/features.html#v8" MODIFIED="1456849031882" TEXT="v8 Support Library">
-<node CREATED="1456848862030" FOLDED="true" ID="ID_413011077" MODIFIED="1456849030623" TEXT="v8 renderscript library">
-<node CREATED="1456848887198" FOLDED="true" ID="ID_1630621631" MODIFIED="1456997626832" TEXT="RenderScript">
+<node CREATED="1456848820816" FOLDED="true" ID="ID_1046590095" LINK="https://developer.android.com/tools/support-library/features.html#v8" MODIFIED="1457437198240" TEXT="v8 Support Library">
+<node CREATED="1456848862030" FOLDED="true" ID="ID_413011077" MODIFIED="1457437198240" TEXT="v8 renderscript library">
+<node CREATED="1456848887198" FOLDED="true" ID="ID_1630621631" MODIFIED="1457437198239" TEXT="RenderScript">
 <node CREATED="1456848895611" ID="ID_766310218" LINK="https://developer.android.com/reference/android/support/v8/renderscript/package-summary.html" MODIFIED="1456848901054" TEXT=" included in the android.support.v8.renderscript package."/>
 <node CREATED="1456848928157" FOLDED="true" ID="ID_814216676" MODIFIED="1456848995895" TEXT="the steps for including these APIs in your&#xa; application is very different from other&#xa; support library APIs">
 <node CREATED="1456848952301" ID="ID_103074702" LINK="https://developer.android.com/guide/topics/renderscript/compute.html#access-rs-apis" MODIFIED="1456848976445" TEXT="&#x53c2;&#x770b; RenderScript"/>
@@ -23028,16 +23033,16 @@
 </node>
 <node CREATED="1456850278735" ID="ID_760446325" MODIFIED="1456850279720" TEXT="App Recommendation Support Library for TV"/>
 </node>
-<node CREATED="1434098680165" FOLDED="true" ID="ID_994888361" LINK="https://developer.android.com/tools/support-library/setup.html" MODIFIED="1456849810763" TEXT="setup">
+<node CREATED="1434098680165" FOLDED="true" ID="ID_994888361" LINK="https://developer.android.com/tools/support-library/setup.html" MODIFIED="1457437213847" TEXT="setup">
 <node CREATED="1434098694242" FOLDED="true" ID="ID_319174174" MODIFIED="1456830330936" TEXT="Downloading the Support Libraries">
 <node CREATED="1434098806203" ID="ID_1254618608" MODIFIED="1434098861897" TEXT="SDK Manager &gt;&#xa;Extras &gt;&#xa;Android Support Library &#xa;&gt; Install packages&#xa;"/>
 <node CREATED="1434098870639" ID="ID_281855969" MODIFIED="1434098881501" TEXT="&#x5b89;&#x88c5;&#x5728;  &lt;sdk&gt;/extras/android/support/"/>
 </node>
-<node CREATED="1434098887768" FOLDED="true" ID="ID_1123325497" MODIFIED="1456997626837" TEXT="Choosing Support Libraries">
+<node CREATED="1434098887768" FOLDED="true" ID="ID_1123325497" MODIFIED="1457437213846" TEXT="Choosing Support Libraries">
 <node CREATED="1434098902373" FOLDED="true" ID="ID_1189581241" MODIFIED="1456321593278" TEXT="&#x6839;&#x636e;&#x9700;&#x8981;&#x652f;&#x6301;&#x7684; features,&#xa;&#x51b3;&#x5b9a;&#x9009;&#x62e9;&#x54ea;&#x4e2a; libraries.&#xa;">
 <node CREATED="1434098946269" ID="ID_1089967331" LINK="#ID_984702315" MODIFIED="1434099029432" TEXT="&#x53c2;&#x8003; Support Library Features"/>
 </node>
-<node CREATED="1434100065759" FOLDED="true" ID="ID_1455767590" MODIFIED="1456321593283" TEXT="Adding Support Libraries">
+<node CREATED="1434100065759" FOLDED="true" ID="ID_1455767590" MODIFIED="1457437213845" TEXT="Adding Support Libraries">
 <node CREATED="1434100082184" ID="ID_1277571467" MODIFIED="1434100095301" TEXT="modify your application&apos;s &#xa;project&apos;s classpath dependencies "/>
 <node CREATED="1434100113460" FOLDED="true" ID="ID_756054716" MODIFIED="1456321593278" TEXT="&#x6709;&#x4e9b; Support Librarie &#x6709;&#x9664;&#x4e86;&#xa;compiled code &#x4e4b;&#x5916;&#x7684; resources&#xa;&#x6bd4;&#x5982; images &#x548c; xml &#x6587;&#x4ef6;&#xa;">
 <node CREATED="1434100175771" ID="ID_1081918335" MODIFIED="1434100205684" TEXT="v7 appcompact &#x548c; v gridlayout &#xa;&#x90fd;&#x5305;&#x542b; resources"/>
@@ -23049,9 +23054,9 @@
 <node CREATED="1434100375114" ID="ID_1231886320" MODIFIED="1434100412659" TEXT="jar &#x6587;&#x4ef6; &gt; &#xa;right click &gt;&#xa;Build Path &gt; &#xa;Add to Build Path"/>
 </node>
 </node>
-<node CREATED="1434100435145" FOLDED="true" ID="ID_1278163519" MODIFIED="1456321593283" TEXT="Adding libraries with resources">
+<node CREATED="1434100435145" FOLDED="true" ID="ID_1278163519" MODIFIED="1457437213844" TEXT="Adding libraries with resources">
 <node CREATED="1434100450535" ID="ID_1988136960" MODIFIED="1434100492464" TEXT="&#x7528;&#x6765;&#x6dfb;&#x52a0;&#x5e26; resources &#x7684; Support Library&#xa;&#x6bd4;&#x5982; v7 appcompat "/>
-<node CREATED="1434100498921" FOLDED="true" ID="ID_1198183733" MODIFIED="1456321593283" TEXT="Using Eclipse">
+<node CREATED="1434100498921" FOLDED="true" ID="ID_1198183733" MODIFIED="1457437213843" TEXT="Using Eclipse">
 <node CREATED="1434100965241" FOLDED="true" ID="ID_610203429" MODIFIED="1456321593281" TEXT="&#x751f;&#x6210;&#x4e00;&#x4e2a; library project,&#xa;&#x5c06;&#x9700;&#x8981;&#x7684; JAR &#x6587;&#x4ef6; include &#xa;&#x8fdb; project &#x7684; build path">
 <node CREATED="1434101043702" ID="ID_1889739363" MODIFIED="1434101116769" TEXT="File &gt; Import &gt;&#xa;Existing Android Code Into Workspace &gt;&#xa;browse &#x5230; SDK &#x76ee;&#x5f55;&#x4e0b;&#x7684; appcompat &#xa;project"/>
 <node CREATED="1434101146048" FOLDED="true" ID="ID_490155883" MODIFIED="1456321593279" TEXT="&#x5728; library roject &gt; libs &gt;&#xa;&#x6bcf;&#x4e2a; .jar &#x4e0a; right click &gt; &#xa;Build Path &gt; &#xa;Add to Build Path ">
@@ -24343,7 +24348,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422457672185" FOLDED="true" ID="ID_1740053737" LINK="http://developer.android.com/guide/index.html" MODIFIED="1457084256846" TEXT="API Guides">
+<node CREATED="1422457672185" FOLDED="true" ID="ID_1740053737" LINK="http://developer.android.com/guide/index.html" MODIFIED="1457437233271" TEXT="API Guides">
 <node CREATED="1422392737806" ID="ID_321352056" LINK="http://developer.android.com/design/patterns/actionbar.html" MODIFIED="1457084152620" TEXT="action bar design guid line">
 <node CREATED="1422392885063" ID="ID_1350396980" MODIFIED="1457084152622" TEXT="general organizatin ">
 <node CREATED="1422392891531" ID="ID_158058544" MODIFIED="1457084152625" TEXT="action bar &#x5305;&#x542b;&#x56db;&#x90e8;&#x5206;">
@@ -24379,7 +24384,7 @@
 <node CREATED="1422395195554" ID="ID_698130316" MODIFIED="1422395215179" TEXT="&#x9009;&#x4e2d;&#x6587;&#x5b57;&#x6216;&#x6570;&#x636e;&#x7684; &#x65f6; &#x4e34;&#x65f6;&#x7684; action bar"/>
 </node>
 </node>
-<node CREATED="1422439518992" FOLDED="true" ID="ID_1537043045" MODIFIED="1456997629613" TEXT="menu">
+<node CREATED="1422439518992" FOLDED="true" ID="ID_1537043045" MODIFIED="1457437232257" TEXT="menu">
 <node CREATED="1422439521332" FOLDED="true" ID="ID_1962113816" MODIFIED="1456830332447" TEXT="&#x5b9a;&#x4e49;">
 <node CREATED="1422439556581" ID="ID_1828089209" MODIFIED="1422439570471" TEXT="&#x5355;&#x72ec;&#x5b9a;&#x4e49;&#xff0c;&#x4e0d;&#x5728; activity &#x4e2d;"/>
 <node CREATED="1422439571989" FOLDED="true" ID="ID_1471702559" MODIFIED="1456830330945" TEXT="&#x53ef;&#x4ee5;&#x6709;&#x591a;&#x4e2a;&#x7248;&#x672c;">
@@ -24548,12 +24553,12 @@
 <node CREATED="1422455730480" ID="ID_1703572438" MODIFIED="1422455794271" TEXT="&#x591a;&#x4e2a; item &#x7ec4;&#x7ec7;&#x5728;&#x4e00;&#x8d77;&#xff0c;&#x8bbe;&#x7f6e;&#x540c;&#x6837;&#x7684; visiblity, disable/enable, checkable"/>
 </node>
 </node>
-<node CREATED="1422455800166" FOLDED="true" ID="ID_1514393787" MODIFIED="1456830332450" TEXT="&#x6839;&#x636e; Intent &#x6dfb;&#x52a0; Menu ">
-<node CREATED="1422456010141" FOLDED="true" ID="ID_1295107072" MODIFIED="1456830330947" TEXT="&#x6839;&#x636e; device &#x4e0a;&#x67d0;&#x4e2a; activity &#x53ef;&#x4e0d;&#x53ef;&#x7528;&#x6765;&#x6dfb;&#x52a0; menu item">
-<node CREATED="1422456044712" FOLDED="true" ID="ID_782919503" MODIFIED="1456321593342" TEXT="&#x6b65;&#x9aa4;">
-<node CREATED="1422456048885" FOLDED="true" ID="ID_1914850853" MODIFIED="1456321593342" TEXT="intent &#x7684; category &#x8bbe;&#x6210; CATEGORY_ALTERNATIVE &#xa;&#x548c;&#xff0f;&#x6216;  CATEGORY_SELECTED_ALTERNATIVE, &#xa;&#x6dfb;&#x52a0;&#x5176;&#x4ed6; requirement">
-<node CREATED="1422456261449" FOLDED="true" ID="ID_134065151" MODIFIED="1456321593341" TEXT=" CATEGORY_SELECTED_ALTERNATIVE, &#xa;&#x53ea;&#x5904;&#x7406;&#x5f53;&#x524d;&#x9009;&#x4e2d;&#x7684; element &#x53ea;&#x80fd;&#x7528;&#x4e8e;&#x5728; &#xa;onCrateContextMenu &#x4e2d;&#x751f;&#x6210; menu ">
-<node CREATED="1422456360312" FOLDED="true" ID="ID_1587173777" MODIFIED="1456321593341" TEXT="&#x4f8b;&#x5b50;">
+<node CREATED="1422455800166" FOLDED="true" ID="ID_1514393787" MODIFIED="1457437232256" TEXT="&#x6839;&#x636e; Intent &#x6dfb;&#x52a0; Menu ">
+<node CREATED="1422456010141" FOLDED="true" ID="ID_1295107072" MODIFIED="1457437232255" TEXT="&#x6839;&#x636e; device &#x4e0a;&#x67d0;&#x4e2a; activity &#x53ef;&#x4e0d;&#x53ef;&#x7528;&#x6765;&#x6dfb;&#x52a0; menu item">
+<node CREATED="1422456044712" FOLDED="true" ID="ID_782919503" MODIFIED="1457437232255" TEXT="&#x6b65;&#x9aa4;">
+<node CREATED="1422456048885" FOLDED="true" ID="ID_1914850853" MODIFIED="1457437232252" TEXT="intent &#x7684; category &#x8bbe;&#x6210; CATEGORY_ALTERNATIVE &#xa;&#x548c;&#xff0f;&#x6216;  CATEGORY_SELECTED_ALTERNATIVE, &#xa;&#x6dfb;&#x52a0;&#x5176;&#x4ed6; requirement">
+<node CREATED="1422456261449" FOLDED="true" ID="ID_134065151" MODIFIED="1457437232250" TEXT=" CATEGORY_SELECTED_ALTERNATIVE, &#xa;&#x53ea;&#x5904;&#x7406;&#x5f53;&#x524d;&#x9009;&#x4e2d;&#x7684; element &#x53ea;&#x80fd;&#x7528;&#x4e8e;&#x5728; &#xa;onCrateContextMenu &#x4e2d;&#x751f;&#x6210; menu ">
+<node CREATED="1422456360312" FOLDED="true" ID="ID_1587173777" MODIFIED="1457437232249" TEXT="&#x4f8b;&#x5b50;">
 <node CREATED="1422456364001" FOLDED="true" ID="ID_1892564752" MODIFIED="1456321593339" TEXT="@Override public boolean onCreateOptionsMenu(Menu menu){&#xa;     super.onCreateOptionsMenu(menu);&#xa;      // Create an Intent that describes the requirements to fulfill, to be included &#xa;      // in our menu. The offering app must include a category value of Intent.CATEGORY_ALTERNATIVE.&#xa;     Intent intent = new Intent(null, dataUri);&#xa;     intent.addCategory(Intent.CATEGORY_ALTERNATIVE);&#xa;      // Search and populate the menu with acceptable offering applications.&#xa;     menu.addIntentOptions(&#xa;          R.id.intent_group,  // Menu group to which new items will be added&#xa;          0,      // Unique item ID (none)&#xa;          0,      // Order for the items (none)&#xa;          this.getComponentName(),   // The current activity name&#xa;          null,   // Specific items to place first (none)&#xa;          intent, // Intent created above that describes our requirements&#xa;          0,      // Additional flags to control items (none)&#xa;          null);  // Array of MenuItems that correlate to specific items (none)  &#xa;    return true; }">
 <node CREATED="1422456605371" ID="ID_1041829751" MODIFIED="1422456650294" TEXT="&#x7b26;&#x5408;&#x8981;&#x6c42;&#x7684; intent &#x7684; intent filter &#x7684; android:label , &#x548c; icon&#x88ab;&#x6dfb;&#x52a0;&#x8fdb; menu "/>
 <node CREATED="1422456681051" ID="ID_1409740380" MODIFIED="1422456709390" TEXT="addIntentOptions &#x8fd4;&#x56de; options &#x7684;&#x6570;&#x91cf;"/>
@@ -24590,7 +24595,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1433162990718" FOLDED="true" ID="ID_1305431611" LINK="http://developer.android.com/guide/topics/manifest/manifest-intro.html" MODIFIED="1456997629615" TEXT="App Manifest">
+<node CREATED="1433162990718" FOLDED="true" ID="ID_1305431611" LINK="http://developer.android.com/guide/topics/manifest/manifest-intro.html" MODIFIED="1457437198954" TEXT="App Manifest">
 <node CREATED="1433163001360" FOLDED="true" ID="ID_1017812951" LINK="http://developer.android.com/guide/topics/manifest/application-element.html" MODIFIED="1456830332451" TEXT="application">
 <node CREATED="1433163017538" FOLDED="true" ID="ID_1983795841" MODIFIED="1456830330948" TEXT="&#x63cf;&#x8ff0;">
 <node CREATED="1433163248417" ID="ID_1333517126" MODIFIED="1433163259857" TEXT="&#x5305;&#x62ec;&#x5c5e;&#x6027;&#x548c;  components"/>
@@ -24953,16 +24958,16 @@
 <node CREATED="1433263256157" ID="ID_62486399" MODIFIED="1433263303159" TEXT="&#x8be5; element &#x5f71;&#x54cd; application &#x7684; &#x7684; installation&#xa;&#x548c;&#x5728; application &#x5728; Google Play &#x4e0a;&#x7684; availability"/>
 </node>
 </node>
-<node CREATED="1435869814694" FOLDED="true" ID="ID_1141949590" LINK="http://developer.android.com/guide/topics/manifest/uses-sdk-element.html" MODIFIED="1456830332455" TEXT="&lt;uses-sdk&gt;">
+<node CREATED="1435869814694" FOLDED="true" ID="ID_1141949590" LINK="http://developer.android.com/guide/topics/manifest/uses-sdk-element.html" MODIFIED="1457437198952" TEXT="&lt;uses-sdk&gt;">
 <node CREATED="1435869851143" FOLDED="true" ID="ID_302862716" MODIFIED="1456830330953" TEXT="&#x63cf;&#x8ff0;">
 <node CREATED="1435869854780" ID="ID_574036399" MODIFIED="1435870201108" TEXT="&#x8868;&#x8fbe; application &#x7684;&#x517c;&#x5bb9;&#x591a;&#x4e2a;&#xa;Android platform."/>
 <node CREATED="1435870202274" ID="ID_996791001" MODIFIED="1435870252733" TEXT="Application &#x8868;&#x8fbe;&#x7684; API Level &#x548c; device &#xa;&#x4e0a;&#x7684; Android system &#x7684; API level &#x505a;&#x6bd4;&#x8f83;"/>
 </node>
-<node CREATED="1435870488536" FOLDED="true" ID="ID_536838214" MODIFIED="1456830330954" TEXT="&#x5c5e;&#x6027;">
+<node CREATED="1435870488536" FOLDED="true" ID="ID_536838214" MODIFIED="1457437198951" TEXT="&#x5c5e;&#x6027;">
 <node CREATED="1435870492416" FOLDED="true" ID="ID_1361580601" MODIFIED="1456321593360" TEXT="android:minSdkVersion">
 <node CREATED="1435870751047" ID="ID_1776314082" MODIFIED="1435870763669" TEXT="&#x9ed8;&#x8ba4;&#x662f; 1"/>
 </node>
-<node CREATED="1435870910035" FOLDED="true" ID="ID_562172296" MODIFIED="1456321593365" TEXT="android:targetSdkVersion">
+<node CREATED="1435870910035" FOLDED="true" ID="ID_562172296" MODIFIED="1457437198950" TEXT="android:targetSdkVersion">
 <node CREATED="1435870954396" ID="ID_166805978" MODIFIED="1435870994658" TEXT="&#x5982;&#x679c;&#x4e0d;&#x8bbe;&#x7f6e;&#xff0c;&#x53d6; minSdkVersion &#x7684;&#x503c;"/>
 <node CREATED="1435871005649" ID="ID_802782371" MODIFIED="1435871168572" TEXT="&#x8bf4;&#x660e;&#x5df2;&#x7ecf;&#x5728; target version &#xa0;&#x4e0a;&#x6d4b;&#x8bd5;&#x8fc7;&#xff0c;&#xa;system &#x4e0d;&#x5e94;&#x8be5;&#x542f;&#x52a8;&#x4efb;&#x4f55; compatibility&#xa;&#x884c;&#x4e3a;&#x6765;&#x7ef4;&#x62a4; app &#x7684; forward-compatibility&#xa;with target version"/>
 <node CREATED="1435871292706" ID="ID_368315624" MODIFIED="1435871648087" TEXT="&#x5982;&#x679c; device &#x4e0a; API level &gt; targetSdkVersion&#xa;system &#x4f1a; enable compatibility behavior&#x3002;"/>
@@ -24987,7 +24992,7 @@
 </node>
 <node CREATED="1436261056037" ID="ID_1873402270" MODIFIED="1436261381358" TEXT="Build Target  &#x6307;&#x5b9a;&#x7528;&#x6765;&#x7f16;&#x8bd1;&#xa;.apk &#x7684; SDK"/>
 </node>
-<node CREATED="1436261392337" FOLDED="true" ID="ID_1830738986" LINK="http://stackoverflow.com/questions/8938348/difference-between-build-target-sdk-in-eclipse-and-androidtargetsdkversion-in" MODIFIED="1456321593364" TEXT="Difference between &#x201c;Build Target SDK&#x201d;&#xa;in Eclipse and android:targetSdkVersion&#xa;in AndroidManifest.xml?">
+<node CREATED="1436261392337" FOLDED="true" ID="ID_1830738986" LINK="http://stackoverflow.com/questions/8938348/difference-between-build-target-sdk-in-eclipse-and-androidtargetsdkversion-in" MODIFIED="1457437198948" TEXT="Difference between &#x201c;Build Target SDK&#x201d;&#xa;in Eclipse and android:targetSdkVersion&#xa;in AndroidManifest.xml?">
 <node CREATED="1436261410044" ID="ID_1489651148" MODIFIED="1436261457057" TEXT="Eclipse &#x7684; build target &#x5fc5;&#x987b;&#xa;&gt; android:minSdkVersion"/>
 <node CREATED="1436261458205" ID="ID_1079609984" MODIFIED="1436261542488" TEXT="build target &#x8ba9; Eclipse &#x77e5;&#x9053;&#xa;&#x9700;&#x8981; include &#x54ea;&#x4e9b;  library,&#xa;&#x624d;&#x80fd;&#x8bbf;&#x95ee; android API"/>
 <node CREATED="1436261677047" ID="ID_553240770" MODIFIED="1436261765177" TEXT="build target &#x5728; compile time &#x4f7f;&#x7528;&#x3002;&#xa;&#x8c03;&#x7528;&#x6bd4; &gt; build target &#x7684; API &#x51fa;&#x9519;"/>
@@ -25295,7 +25300,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1434443027738" FOLDED="true" ID="ID_1211514836" LINK="http://developer.android.com/guide/topics/ui/index.html" MODIFIED="1456997629616" TEXT="User Interface">
+<node CREATED="1434443027738" FOLDED="true" ID="ID_1211514836" LINK="http://developer.android.com/guide/topics/ui/index.html" MODIFIED="1457437233270" TEXT="User Interface">
 <node CREATED="1436274305760" FOLDED="true" ID="ID_161215466" LINK="http://developer.android.com/guide/topics/ui/declaring-layout.html" MODIFIED="1456830332457" TEXT="Layouts">
 <node CREATED="1422457730875" FOLDED="true" ID="ID_726528512" LINK="http://developer.android.com/guide/topics/ui/declaring-layout.html" MODIFIED="1456830330957" TEXT="Layouts">
 <node CREATED="1422457785280" FOLDED="true" ID="ID_742666852" MODIFIED="1456321593384" TEXT="declare">
@@ -25874,7 +25879,7 @@
 </node>
 <node CREATED="1438354848910" ID="ID_751124799" MODIFIED="1438354849763" TEXT="Action items"/>
 </node>
-<node CREATED="1437640804351" FOLDED="true" ID="ID_979015588" LINK="http://developer.android.com/guide/topics/ui/dialogs.html" MODIFIED="1456830332458" TEXT="Dialogs">
+<node CREATED="1437640804351" FOLDED="true" ID="ID_979015588" LINK="http://developer.android.com/guide/topics/ui/dialogs.html" MODIFIED="1457437233269" TEXT="Dialogs">
 <node CREATED="1437648661226" FOLDED="true" ID="ID_1114521459" MODIFIED="1456830330959" TEXT="&#x4e0d;&#x8981;&#x76f4;&#x63a5;&#x4f7f;&#x7528; Dialog,&#xa;&#x800c;&#x662f;&#x7528;&#x5176; subclass">
 <node CREATED="1437648694581" FOLDED="true" ID="ID_300308494" LINK="http://developer.android.com/reference/android/app/AlertDialog.html" MODIFIED="1456321593450" TEXT="AlertDialog">
 <node CREATED="1437648707002" FOLDED="true" ID="ID_71146760" MODIFIED="1456321593450" TEXT="&#x6709; ">
@@ -26065,7 +26070,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1437657822810" FOLDED="true" ID="ID_1174318930" LINK="http://developer.android.com/guide/topics/ui/dialogs.html#ShowingADialog" MODIFIED="1456830330962" TEXT="Showing a Dialog">
+<node CREATED="1437657822810" FOLDED="true" ID="ID_1174318930" LINK="http://developer.android.com/guide/topics/ui/dialogs.html#ShowingADialog" MODIFIED="1457437233268" TEXT="Showing a Dialog">
 <node CREATED="1437657846636" FOLDED="true" ID="ID_456415353" MODIFIED="1456321593468" TEXT="create an instance of your &#xa;DialogFragment and call show()&#xa;passing the FragmentManager &#xa;and a tag name for the dialog &#xa;fragment.">
 <node CREATED="1437657967336" FOLDED="true" ID="ID_1160101466" MODIFIED="1456321593467" TEXT="&#x4ee3;&#x7801;">
 <node CREATED="1437657976202" ID="ID_1709279952" MODIFIED="1437657979226" TEXT="public void confirmFireMissiles() {&#xa;    DialogFragment newFragment = new FireMissilesDialogFragment();&#xa;    newFragment.show(getSupportFragmentManager(), &quot;missiles&quot;);&#xa;}"/>
@@ -26084,13 +26089,13 @@
 <node CREATED="1437657943474" ID="ID_308247871" LINK="http://developer.android.com/reference/android/support/v4/app/Fragment.html#getFragmentManager()" MODIFIED="1437657948834" TEXT="getFragmentManager()"/>
 </node>
 </node>
-<node CREATED="1437658195165" FOLDED="true" ID="ID_632014428" LINK="http://developer.android.com/guide/topics/ui/dialogs.html#FullscreenDialog" MODIFIED="1456321593471" TEXT="Showing a Dialog Fullscreen &#xa;or as an Embedded Fragment">
-<node CREATED="1437658308800" FOLDED="true" ID="ID_1759814762" MODIFIED="1456321593471" TEXT="&#x5728;&#x5927;&#x5c4f;&#x5e55;&#x4e0a;&#x5c06; &#x8be5; UI &#x663e;&#x793a;&#x5728;&#xa;dialog &#x4e2d;&#xff0c;&#x5728;&#x5c0f;&#x5c4f;&#x5e55;&#x4e0a;&#x663e;&#x793a;&#xa;&#x6210; full screen">
+<node CREATED="1437658195165" FOLDED="true" ID="ID_632014428" LINK="http://developer.android.com/guide/topics/ui/dialogs.html#FullscreenDialog" MODIFIED="1457437233266" TEXT="Showing a Dialog Fullscreen &#xa;or as an Embedded Fragment">
+<node CREATED="1437658308800" FOLDED="true" ID="ID_1759814762" MODIFIED="1457437233265" TEXT="&#x5728;&#x5927;&#x5c4f;&#x5e55;&#x4e0a;&#x5c06; &#x8be5; UI &#x663e;&#x793a;&#x5728;&#xa;dialog &#x4e2d;&#xff0c;&#x5728;&#x5c0f;&#x5c4f;&#x5e55;&#x4e0a;&#x663e;&#x793a;&#xa;&#x6210; full screen">
 <node CREATED="1437658370032" ID="ID_1312980642" MODIFIED="1437658398060" TEXT="&#x53ea;&#x80fd;&#x4f7f;&#x7528; DialogFragment&#xa;&#x6765;&#x751f;&#x6210; embeddable&#xa;"/>
 <node CREATED="1437658408350" ID="ID_469631133" MODIFIED="1437658416999" TEXT="&#x5728; layout &#x4e2d;&#x5b9a;&#x4e49; UI"/>
 <node CREATED="1437658431827" ID="ID_1302123196" MODIFIED="1437658455013" TEXT="&#x5728; onCreateView() &#x4e2d;&#x52a0;&#x8f7d;&#xa;&#x3000;layout"/>
-<node CREATED="1437658580629" FOLDED="true" ID="ID_1863612858" MODIFIED="1456321593469" TEXT="&#x4f8b;&#x5b50;&#xff1a;DialogFragment &#x4f5c;&#x4e3a;dialog&#xa; &#x6216;&#x8005; embeddable fragment &#x51fa;&#x73b0;">
-<node CREATED="1437658645222" FOLDED="true" ID="ID_1229272393" MODIFIED="1456321593469" TEXT="&#x4ee3;&#x7801;">
+<node CREATED="1437658580629" FOLDED="true" ID="ID_1863612858" MODIFIED="1457437233262" TEXT="&#x4f8b;&#x5b50;&#xff1a;DialogFragment &#x4f5c;&#x4e3a;dialog&#xa; &#x6216;&#x8005; embeddable fragment &#x51fa;&#x73b0;">
+<node CREATED="1437658645222" FOLDED="true" ID="ID_1229272393" MODIFIED="1457437233262" TEXT="&#x4ee3;&#x7801;">
 <node CREATED="1437658650963" ID="ID_938742869" MODIFIED="1437658653909" TEXT="public class CustomDialogFragment extends DialogFragment {&#xa;    /** The system calls this to get the DialogFragment&apos;s layout, regardless&#xa;        of whether it&apos;s being displayed as a dialog or an embedded fragment. */&#xa;    @Override&#xa;    public View onCreateView(LayoutInflater inflater, ViewGroup container,&#xa;            Bundle savedInstanceState) {&#xa;        // Inflate the layout to use as dialog or embedded fragment&#xa;        return inflater.inflate(R.layout.purchase_items, container, false);&#xa;    }&#xa;  &#xa;    /** The system calls this only when creating the layout in a dialog. */&#xa;    @Override&#xa;    public Dialog onCreateDialog(Bundle savedInstanceState) {&#xa;        // The only reason you might override this method when using onCreateView() is&#xa;        // to modify any dialog characteristics. For example, the dialog includes a&#xa;        // title by default, but your custom layout might not need it. So here you can&#xa;        // remove the dialog title, but you must call the superclass to get the Dialog.&#xa;        Dialog dialog = super.onCreateDialog(savedInstanceState);&#xa;        dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);&#xa;        return dialog;&#xa;    }&#xa;}"/>
 </node>
 </node>
@@ -26185,8 +26190,8 @@
 </node>
 <node CREATED="1436800938212" ID="ID_1214001384" LINK="http://developer.android.com/guide/topics/graphics/prop-animation.html" MODIFIED="1436800943224" TEXT="Property Animation"/>
 </node>
-<node CREATED="1453370477942" FOLDED="true" ID="ID_1805436639" LINK="http://developer.android.com/guide/topics/sensors/index.html" MODIFIED="1456997629617" TEXT="Location and Sensors">
-<node CREATED="1453370746976" FOLDED="true" ID="ID_134853880" LINK="http://developer.android.com/guide/topics/sensors/sensors_overview.html" MODIFIED="1456830332461" TEXT="Sensors Overview">
+<node CREATED="1453370477942" FOLDED="true" ID="ID_1805436639" LINK="http://developer.android.com/guide/topics/sensors/index.html" MODIFIED="1457437214613" TEXT="Location and Sensors">
+<node CREATED="1453370746976" FOLDED="true" ID="ID_134853880" LINK="http://developer.android.com/guide/topics/sensors/sensors_overview.html" MODIFIED="1457437214612" TEXT="Sensors Overview">
 <node CREATED="1453371562313" FOLDED="true" ID="ID_924924046" MODIFIED="1456830330963" TEXT="&#x4e09;&#x79cd; sensors">
 <node CREATED="1453371575814" FOLDED="true" ID="ID_738718337" MODIFIED="1456321593478" TEXT="Motion sensors">
 <node CREATED="1453371597065" ID="ID_1005039031" MODIFIED="1453371603580" TEXT="measure acceleration forces and &#xa;rotational forces along three axes."/>
@@ -26215,15 +26220,15 @@
 <node CREATED="1453371801025" ID="ID_1519420434" MODIFIED="1453371805979" TEXT="Register and unregister &#xa;sensor event listeners"/>
 </node>
 </node>
-<node CREATED="1453372541330" FOLDED="true" ID="ID_972093968" MODIFIED="1456830330964" TEXT="Introduction to Sensors">
+<node CREATED="1453372541330" FOLDED="true" ID="ID_972093968" MODIFIED="1457437214611" TEXT="Introduction to Sensors">
 <node CREATED="1453372549464" ID="ID_1636690873" MODIFIED="1453372554622" TEXT="hardware-based sensors"/>
 <node CREATED="1453372564403" FOLDED="true" ID="ID_1917087243" MODIFIED="1456321593478" TEXT=" software-based sensors">
 <node CREATED="1453372592484" ID="ID_864879515" MODIFIED="1453372593754" TEXT="mimic hardware-based sensors"/>
 <node CREATED="1453372609404" ID="ID_1273774786" MODIFIED="1453372734291" TEXT="&#xa0;linear acceleration sensor &#xa;and the gravity sensor"/>
 </node>
-<node CREATED="1453372780169" FOLDED="true" ID="ID_175594746" MODIFIED="1456321593480" TEXT=" Sensor types">
-<node CREATED="1453372785535" FOLDED="true" ID="ID_458934764" LINK="http://developer.android.com/reference/android/hardware/Sensor.html#TYPE_ACCELEROMETER" MODIFIED="1456321593479" TEXT="TYPE_ACCELEROMETER">
-<node CREATED="1453372837746" FOLDED="true" ID="ID_197580839" MODIFIED="1456321593478" TEXT="Description">
+<node CREATED="1453372780169" FOLDED="true" ID="ID_175594746" MODIFIED="1457437214610" TEXT=" Sensor types">
+<node CREATED="1453372785535" FOLDED="true" ID="ID_458934764" LINK="http://developer.android.com/reference/android/hardware/Sensor.html#TYPE_ACCELEROMETER" MODIFIED="1457437214609" TEXT="TYPE_ACCELEROMETER">
+<node CREATED="1453372837746" FOLDED="true" ID="ID_197580839" MODIFIED="1457437214608" TEXT="Description">
 <node CREATED="1453372802377" ID="ID_1983903204" MODIFIED="1453372803811" TEXT="Measures the acceleration force in m/s2"/>
 <node CREATED="1453372816507" ID="ID_764975156" MODIFIED="1453372817585" TEXT=" three physical axes (x, y, and z)"/>
 <node CREATED="1453372827014" ID="ID_26120737" MODIFIED="1453372828115" TEXT="including the force of gravity."/>
@@ -26642,7 +26647,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1433191137079" FOLDED="true" ID="ID_1366916238" LINK="http://developer.android.com/reference/packages.html" MODIFIED="1457087495892" TEXT="Reference">
+<node CREATED="1433191137079" FOLDED="true" ID="ID_1366916238" LINK="http://developer.android.com/reference/packages.html" MODIFIED="1457437185880" TEXT="Reference">
 <node CREATED="1433191148778" FOLDED="true" ID="ID_230646741" LINK="http://developer.android.com/reference/android/os/Debug.html" MODIFIED="1456997629619" TEXT="Debug">
 <node CREATED="1433191316979" FOLDED="true" ID="ID_1579950451" MODIFIED="1456830332463" TEXT="Class Overview">
 <node CREATED="1433191325758" FOLDED="true" ID="ID_836820555" MODIFIED="1456830330970" TEXT="&#x63d0;&#x4f9b; debugging methods">
@@ -27061,7 +27066,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1429543309837" FOLDED="true" ID="ID_1159777264" LINK="http://developer.android.com/reference/android/webkit/WebView.html" MODIFIED="1456997629624" TEXT="WebView">
+<node CREATED="1429543309837" FOLDED="true" ID="ID_1159777264" LINK="http://developer.android.com/reference/android/webkit/WebView.html" MODIFIED="1457437183818" TEXT="WebView">
 <node CREATED="1429543319951" FOLDED="true" ID="ID_359899651" MODIFIED="1456830332471" TEXT="class Overview">
 <node CREATED="1429543329571" ID="ID_1509191234" MODIFIED="1429543348638" TEXT="&#x7528;&#x6765;&#x663e;&#x793a; web pages &#x7684; view"/>
 <node CREATED="1429543376156" ID="ID_1480272175" MODIFIED="1429543393582" TEXT="&#x4f7f;&#x7528; WebKit rendering engine"/>
@@ -27377,7 +27382,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1433752976989" FOLDED="true" ID="ID_1775845120" MODIFIED="1456830332473" TEXT="&#x51fd;&#x6570;">
+<node CREATED="1433752976989" FOLDED="true" ID="ID_1775845120" MODIFIED="1457437183817" TEXT="&#x51fd;&#x6570;">
 <node CREATED="1433752987269" FOLDED="true" ID="ID_539048882" LINK="http://developer.android.com/reference/android/webkit/WebView.html#evaluateJavascript(java.lang.String, android.webkit.ValueCallback&lt;java.lang.String&gt;)" MODIFIED="1456830330995" TEXT="evaluateJavascript">
 <node CREATED="1433753057188" FOLDED="true" ID="ID_227150021" MODIFIED="1456321593555" TEXT="&#x63cf;&#x8ff0;">
 <node CREATED="1433752994671" ID="ID_784831890" MODIFIED="1433753027489" TEXT="&#x5f02;&#x6b65;&#x5730;&#x5728;&#x5f53;&#x524d; displayed page&#xa;&#x4e2d; evaluates JavaScript"/>
@@ -27407,12 +27412,12 @@
 </node>
 </node>
 </node>
-<node CREATED="1435222205513" FOLDED="true" ID="ID_36903238" LINK="http://developer.android.com/reference/android/webkit/WebView.html#clearCache(boolean)" MODIFIED="1456830330997" TEXT="clearCache">
+<node CREATED="1435222205513" FOLDED="true" ID="ID_36903238" LINK="http://developer.android.com/reference/android/webkit/WebView.html#clearCache(boolean)" MODIFIED="1457437183815" TEXT="clearCache">
 <node CREATED="1435222212599" FOLDED="true" ID="ID_1298008499" MODIFIED="1456321593557" TEXT="&#x63cf;&#x8ff0;">
 <node CREATED="1435222215747" ID="ID_1679414667" MODIFIED="1435222216110" TEXT="Clears the resource cache."/>
 <node CREATED="1435222228789" ID="ID_53075609" MODIFIED="1435222233738" TEXT="clear the cache for all &#xa;WebViews used."/>
 </node>
-<node CREATED="1435222238337" FOLDED="true" ID="ID_1826597522" MODIFIED="1456321593557" TEXT="Parameters">
+<node CREATED="1435222238337" FOLDED="true" ID="ID_1826597522" MODIFIED="1457437183815" TEXT="Parameters">
 <node CREATED="1435222243346" FOLDED="true" ID="ID_192502693" MODIFIED="1456321593557" TEXT="boolean includeDiskFiles">
 <node CREATED="1435222249429" ID="ID_711484754" MODIFIED="1435222249844" TEXT="if false, only the RAM cache is cleared"/>
 </node>
@@ -28094,11 +28099,11 @@
 </node>
 </node>
 </node>
-<node CREATED="1436280220973" FOLDED="true" ID="ID_1047373338" LINK="http://developer.android.com/reference/android/widget/Adapter.html" MODIFIED="1456997629628" TEXT="Adapter">
+<node CREATED="1436280220973" FOLDED="true" ID="ID_1047373338" LINK="http://developer.android.com/reference/android/widget/Adapter.html" MODIFIED="1457437163331" TEXT="Adapter">
 <node CREATED="1437038323472" FOLDED="true" ID="ID_1124719561" MODIFIED="1456830332477" TEXT="Class Overview">
 <node CREATED="1437038339866" ID="ID_1500773310" MODIFIED="1437038360768" TEXT="AdapterView &#x548c; &#x6570;&#x636e;&#x4e4b;&#x95f4;&#x7684;&#x6865;&#x6881;"/>
 </node>
-<node CREATED="1437038300086" FOLDED="true" ID="ID_48540080" MODIFIED="1456830332478" TEXT="&#x51fd;&#x6570;">
+<node CREATED="1437038300086" FOLDED="true" ID="ID_48540080" MODIFIED="1457437163330" TEXT="&#x51fd;&#x6570;">
 <node CREATED="1436280238725" FOLDED="true" ID="ID_724519675" LINK="http://developer.android.com/reference/android/widget/Adapter.html#registerDataSetObserver(android.database.DataSetObserver)" MODIFIED="1456830331003" TEXT="registerDataSetObserver">
 <node CREATED="1436280279877" ID="ID_1629812300" MODIFIED="1436280326169" TEXT="register &#x4e00;&#x4e2a; observer, &#xa;&#x6570;&#x636e;&#x6539;&#x53d8;&#x65f6;&#x8c03;&#x7528; observer"/>
 </node>
@@ -28128,7 +28133,7 @@
 <node CREATED="1436280962796" FOLDED="true" ID="ID_261960284" LINK="http://developer.android.com/reference/android/widget/Adapter.html#getViewTypeCount()" MODIFIED="1456830331005" TEXT="getViewTypeCount">
 <node CREATED="1436280970107" ID="ID_1950011206" MODIFIED="1436280986048" TEXT="&#x8fd4;&#x56de; getView &#x751f;&#x6210;&#x7684; Views &#x7684; type &#x7684;&#x6570;&#x91cf;"/>
 </node>
-<node CREATED="1436281003382" FOLDED="true" ID="ID_943133026" LINK="http://developer.android.com/reference/android/widget/Adapter.html#isEmpty()" MODIFIED="1456830331005" TEXT="isEmpty">
+<node CREATED="1436281003382" FOLDED="true" ID="ID_943133026" LINK="http://developer.android.com/reference/android/widget/Adapter.html#isEmpty()" MODIFIED="1457437163328" TEXT="isEmpty">
 <node CREATED="1436281055117" ID="ID_1523232390" MODIFIED="1436281070392" TEXT="&#x6570;&#x636e;&#x662f;&#x5426; empty"/>
 <node CREATED="1436281045369" ID="ID_534167655" MODIFIED="1436281045980" TEXT="getCount() includes the headers and footers"/>
 </node>
@@ -28848,8 +28853,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1438596723350" FOLDED="true" ID="ID_1437132505" LINK="http://developer.android.com/reference/java/util/regex/Pattern.html" MODIFIED="1456997629639" TEXT="Pattern">
-<node CREATED="1438596770002" FOLDED="true" ID="ID_1079954933" MODIFIED="1456830332494" TEXT="Class Overview">
+<node CREATED="1438596723350" FOLDED="true" ID="ID_1437132505" LINK="http://developer.android.com/reference/java/util/regex/Pattern.html" MODIFIED="1457437167899" TEXT="Pattern">
+<node CREATED="1438596770002" FOLDED="true" ID="ID_1079954933" MODIFIED="1457437167898" TEXT="Class Overview">
 <node CREATED="1438596770689" ID="ID_67177572" MODIFIED="1438596792648" TEXT="Pattern &#x88ab;&#x7f16;&#x8bd1;&#x6210; regular expression"/>
 <node CREATED="1438597009142" FOLDED="true" ID="ID_169010561" MODIFIED="1456830331022" TEXT="Regular expression syntax">
 <node CREATED="1438597013458" ID="ID_807967971" MODIFIED="1438597328430" TEXT="java &#x652f;&#x6301; Perl 5 regular expression&#xa;&#x8bed;&#x6cd5;&#x7684; subset, &#x4ee5;&#x53ca; plain old string."/>
@@ -29072,7 +29077,7 @@
 <node CREATED="1438607570963" ID="ID_1129698131" MODIFIED="1438607571486" TEXT="At end of input, or before newline at end."/>
 </node>
 </node>
-<node CREATED="1438607579118" FOLDED="true" ID="ID_1973507901" MODIFIED="1456830331025" TEXT="Look-around assertions">
+<node CREATED="1438607579118" FOLDED="true" ID="ID_1973507901" MODIFIED="1457437167896" TEXT="Look-around assertions">
 <node CREATED="1438607591280" ID="ID_487886852" MODIFIED="1438607649812" TEXT="assert that the subpattern does (positive)&#xa; or doesn&apos;t (negative) match after (look-ahead)&#xa; or before (look-behind) the current position,&#xa;without including the matched text in the &#xa;containing match. "/>
 <node CREATED="1438607671622" FOLDED="true" ID="ID_138138294" MODIFIED="1456321593689" TEXT="(?=a)">
 <node CREATED="1438607676068" ID="ID_826948777" MODIFIED="1438607676581" TEXT="Zero-width positive look-ahead."/>
@@ -29428,16 +29433,16 @@
 </node>
 </node>
 </node>
-<node CREATED="1455017289717" FOLDED="true" ID="ID_250529846" LINK="http://developer.android.com/reference/android/view/Display.html" MODIFIED="1456997629642" TEXT="Display">
-<node CREATED="1455017325773" FOLDED="true" ID="ID_1988281944" MODIFIED="1456830332500" TEXT="&#x4ecb;&#x7ecd;">
+<node CREATED="1455017289717" FOLDED="true" ID="ID_250529846" LINK="http://developer.android.com/reference/android/view/Display.html" MODIFIED="1457437185877" TEXT="Display">
+<node CREATED="1455017325773" FOLDED="true" ID="ID_1988281944" MODIFIED="1457437185876" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1455017313051" ID="ID_1692240644" MODIFIED="1455017323941" TEXT="logical display &#x7684; size &#x548c; density"/>
-<node CREATED="1455017740999" FOLDED="true" ID="ID_1103779626" MODIFIED="1456830331030" TEXT="&#x4e24;&#x79cd; display area">
+<node CREATED="1455017740999" FOLDED="true" ID="ID_1103779626" MODIFIED="1457437185875" TEXT="&#x4e24;&#x79cd; display area">
 <node CREATED="1455017394088" FOLDED="true" ID="ID_656843871" MODIFIED="1456321593710" TEXT="display area &#x53ef;&#x4ee5;&#x6307;&#x5b9a; display&#xa;&#x7684;&#x4e00;&#x90e8;&#x5206;, &#x53bb;&#x6389;&#x4e86; system decoration&#xa;&#x7684;&#x90a3;&#x4e00;&#x90e8;&#x5206;">
 <node CREATED="1455017764951" FOLDED="true" ID="ID_617111404" MODIFIED="1456321593710" TEXT="system decoration">
 <node CREATED="1455017854215" ID="ID_2698630" MODIFIED="1455017855355" TEXT=" status bar"/>
 </node>
 </node>
-<node CREATED="1455018056527" FOLDED="true" ID="ID_514303883" MODIFIED="1456321593711" TEXT="real display area">
+<node CREATED="1455018056527" FOLDED="true" ID="ID_514303883" MODIFIED="1457437185874" TEXT="real display area">
 <node CREATED="1455018074212" ID="ID_350229118" MODIFIED="1455018078950" TEXT=" the part of the display that contains &#xa;content including the system decorations"/>
 <node CREATED="1455018132245" ID="ID_1816361650" MODIFIED="1455018138264" TEXT=" may be smaller than the &#xa;physical size of the display"/>
 </node>
@@ -29915,7 +29920,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1431376496672" FOLDED="true" ID="ID_137858174" LINK="https://developer.android.com/distribute/index.html" MODIFIED="1456997630014" TEXT="Distribute">
+<node CREATED="1431376496672" FOLDED="true" ID="ID_137858174" LINK="https://developer.android.com/distribute/index.html" MODIFIED="1457437169824" TEXT="Distribute">
 <node CREATED="1431376563724" FOLDED="true" ID="ID_1380600986" LINK="https://developer.android.com/distribute/googleplay/index.html" MODIFIED="1456997629878" TEXT="Google Play">
 <node CREATED="1431376736361" FOLDED="true" ID="ID_1137608179" LINK="https://developer.android.com/distribute/googleplay/start.html" MODIFIED="1456997629646" TEXT="Get Started with Publishing">
 <node CREATED="1431376758416" FOLDED="true" ID="ID_858259907" MODIFIED="1456830332505" TEXT="Register for a Publisher Account">
@@ -30246,8 +30251,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1431683049846" FOLDED="true" ID="ID_1223797257" LINK="https://developer.android.com/distribute/essentials/index.html" MODIFIED="1456997629878" TEXT="Essentials">
-<node CREATED="1431683057798" FOLDED="true" ID="ID_1970478609" LINK="https://developer.android.com/distribute/essentials/quality/core.html" MODIFIED="1456997629652" TEXT="Core App Quality">
+<node CREATED="1431683049846" FOLDED="true" ID="ID_1223797257" LINK="https://developer.android.com/distribute/essentials/index.html" MODIFIED="1457437169823" TEXT="Essentials">
+<node CREATED="1431683057798" FOLDED="true" ID="ID_1970478609" LINK="https://developer.android.com/distribute/essentials/quality/core.html" MODIFIED="1457437169822" TEXT="Core App Quality">
 <node CREATED="1431683105474" FOLDED="true" ID="ID_314341913" MODIFIED="1456925067055" TEXT="Visual Design and User Interaction">
 <node CREATED="1431683252206" FOLDED="true" ID="ID_468981783" MODIFIED="1456830331050" TEXT="Standard design">
 <node CREATED="1431683270374" FOLDED="true" ID="ID_1885414061" MODIFIED="1456321593761" TEXT="&#x63cf;&#x8ff0;">
@@ -30384,8 +30389,8 @@
 </node>
 <node CREATED="1431686010173" ID="ID_281148654" MODIFIED="1431686011915" TEXT="User Support"/>
 </node>
-<node CREATED="1431686047511" FOLDED="true" ID="ID_1680183832" MODIFIED="1456830332516" TEXT="Setting Up a Test Environment">
-<node CREATED="1431686059188" FOLDED="true" ID="ID_555669878" MODIFIED="1456830331053" TEXT="setup a hardware or emulator environment">
+<node CREATED="1431686047511" FOLDED="true" ID="ID_1680183832" MODIFIED="1457437169821" TEXT="Setting Up a Test Environment">
+<node CREATED="1431686059188" FOLDED="true" ID="ID_555669878" MODIFIED="1457437169820" TEXT="setup a hardware or emulator environment">
 <node CREATED="1431686097213" ID="ID_1739148695" MODIFIED="1431686098617" TEXT=" include a small number of actual hardware device"/>
 <node CREATED="1431686140873" ID="ID_908709222" LINK="https://developer.android.com/tools/devices/index.html" MODIFIED="1431686145858" TEXT="set up emulated devices (AVDs)"/>
 </node>
@@ -31394,7 +31399,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435222543108" ID="ID_313758430" MODIFIED="1457428011667" TEXT="Android Developer Blog">
+<node CREATED="1435222543108" ID="ID_313758430" MODIFIED="1457437258392" TEXT="Android Developer Blog">
 <node CREATED="1434991355871" FOLDED="true" ID="ID_746380783" LINK="http://android-developers.blogspot.fr/2011/03/memory-analysis-for-android.html" MODIFIED="1456997630019" TEXT="Memory Analysis for &#xa;Android Applications">
 <node CREATED="1435007343214" FOLDED="true" ID="ID_1156368103" MODIFIED="1456997629885" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1435007349317" ID="ID_549535713" MODIFIED="1435007391434" TEXT="Dalvik runtime &#x53ef;&#x4ee5;&#x662f; garbage-collected&#xa;&#x4f46;&#x4e0d;&#x53ef;&#x4ee5;&#x5ffd;&#x89c6; memory management"/>
@@ -31806,10 +31811,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1453970582334" FOLDED="true" ID="ID_1392795657" MODIFIED="1456997630028" TEXT="Google Play">
-<node CREATED="1453970594586" FOLDED="true" ID="ID_1805529267" MODIFIED="1456997629903" TEXT="games services ">
-<node CREATED="1453970598692" FOLDED="true" ID="ID_523501195" MODIFIED="1456997629702" TEXT="Player Analytics">
-<node CREATED="1453970554050" FOLDED="true" ID="ID_867563839" LINK="http://android-developers.blogspot.fr/2016/01/new-features-to-better-understand.html" MODIFIED="1456830332553" TEXT="New features to better understand &#xa;player behavior with Player Analytics">
+<node CREATED="1453970582334" FOLDED="true" ID="ID_1392795657" MODIFIED="1457437187041" TEXT="Google Play">
+<node CREATED="1453970594586" FOLDED="true" ID="ID_1805529267" MODIFIED="1457437187040" TEXT="games services ">
+<node CREATED="1453970598692" FOLDED="true" ID="ID_523501195" MODIFIED="1457437187039" TEXT="Player Analytics">
+<node CREATED="1453970554050" FOLDED="true" ID="ID_867563839" LINK="http://android-developers.blogspot.fr/2016/01/new-features-to-better-understand.html" MODIFIED="1457437187037" TEXT="New features to better understand &#xa;player behavior with Player Analytics">
 <node CREATED="1453970614591" FOLDED="true" ID="ID_210974656" MODIFIED="1456830331086" TEXT="a free reporting tool">
 <node CREATED="1453970630724" ID="ID_235163929" MODIFIED="1453970631732" TEXT="how players are progressing, spending, and churning"/>
 </node>
@@ -31838,8 +31843,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1453971536729" FOLDED="true" ID="ID_1028261175" MODIFIED="1456830331088" TEXT="Updated C++, iOS SDKs and Unity &#xa;plug-in to support Player Stats API">
-<node CREATED="1453971562380" FOLDED="true" ID="ID_515162054" MODIFIED="1456321593866" TEXT="support the Player Stats API">
+<node CREATED="1453971536729" FOLDED="true" ID="ID_1028261175" MODIFIED="1457437187034" TEXT="Updated C++, iOS SDKs and Unity &#xa;plug-in to support Player Stats API">
+<node CREATED="1453971562380" FOLDED="true" ID="ID_515162054" MODIFIED="1457437187033" TEXT="support the Player Stats API">
 <node CREATED="1453971574718" FOLDED="true" ID="ID_309126115" MODIFIED="1456321593866" TEXT="includes basic player stats">
 <node CREATED="1453972036038" ID="ID_563878480" MODIFIED="1453972036810" TEXT="spend and churn predictions"/>
 </node>
@@ -32534,10 +32539,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1454920995843" FOLDED="true" ID="ID_21989293" MODIFIED="1456997630032" TEXT="Android Studio">
-<node CREATED="1454921009726" FOLDED="true" ID="ID_1212028448" LINK="http://android-developers.blogspot.fr/2016/02/android-studio-20-beta.html" MODIFIED="1456997629919" TEXT="Android Studio 2.0 - Beta  ">
-<node CREATED="1454921054122" FOLDED="true" ID="ID_869472217" MODIFIED="1456997629729" TEXT="&#x65b0;&#x7279;&#x6027;">
-<node CREATED="1454922700414" FOLDED="true" ID="ID_97952900" MODIFIED="1456830332579" TEXT="Instant Run">
+<node CREATED="1454920995843" FOLDED="true" ID="ID_21989293" MODIFIED="1457437199641" TEXT="Android Studio">
+<node CREATED="1454921009726" FOLDED="true" ID="ID_1212028448" LINK="http://android-developers.blogspot.fr/2016/02/android-studio-20-beta.html" MODIFIED="1457437199640" TEXT="Android Studio 2.0 - Beta  ">
+<node CREATED="1454921054122" FOLDED="true" ID="ID_869472217" MODIFIED="1457437199639" TEXT="&#x65b0;&#x7279;&#x6027;">
+<node CREATED="1454922700414" FOLDED="true" ID="ID_97952900" MODIFIED="1457437199638" TEXT="Instant Run">
 <node CREATED="1454922727239" ID="ID_513358762" MODIFIED="1454922732538" TEXT="make changes to your app &#xa;code while your app is running"/>
 <node CREATED="1454922760993" ID="ID_303111787" MODIFIED="1454922767067" TEXT="incrementally build and push only &#xa;the incremental code or resource &#xa;change"/>
 <node CREATED="1454922793706" FOLDED="true" ID="ID_1448201107" MODIFIED="1456830331104" TEXT="&#x5982;&#x4f55;">
@@ -32545,10 +32550,10 @@
 <node CREATED="1454922817583" ID="ID_1811615212" MODIFIED="1454922818878" TEXT="com.android.tools.build:gradle:2.0.0-beta2"/>
 </node>
 </node>
-<node CREATED="1454922855245" FOLDED="true" ID="ID_1542094333" MODIFIED="1456830331105" TEXT="&#x539f;&#x7406;&#xa;">
+<node CREATED="1454922855245" FOLDED="true" ID="ID_1542094333" MODIFIED="1457437199637" TEXT="&#x539f;&#x7406;&#xa;">
 <node CREATED="1454922869157" ID="ID_923688417" MODIFIED="1454922906122" TEXT="Android Studio 2.0 instruments your &#xa;code during the first compilation  and &#xa;deployment of your app to your device &#xa;in order to determine where to swap &#xa;out code and resources."/>
-<node CREATED="1454922928213" FOLDED="true" ID="ID_1210099770" MODIFIED="1456321593956" TEXT=" Instant Run &#x81ea;&#x52a8;&#x4f7f;&#x7528;&#x4e00;&#x79cd; &#xa;swap method&#x6765;&#x66f4;&#x65b0;&#x4f60;&#x7684; app">
-<node CREATED="1454922979205" FOLDED="true" ID="ID_1710562307" MODIFIED="1456321593956" TEXT="Hot Swap">
+<node CREATED="1454922928213" FOLDED="true" ID="ID_1210099770" MODIFIED="1457437199635" TEXT=" Instant Run &#x81ea;&#x52a8;&#x4f7f;&#x7528;&#x4e00;&#x79cd; &#xa;swap method&#x6765;&#x66f4;&#x65b0;&#x4f60;&#x7684; app">
+<node CREATED="1454922979205" FOLDED="true" ID="ID_1710562307" MODIFIED="1457437199634" TEXT="Hot Swap">
 <node CREATED="1454923010232" ID="ID_1510568342" MODIFIED="1454923014722" TEXT="only method implementations (including constructors)&#xa; are changed, the changes are hot swapped"/>
 <node CREATED="1454923032315" ID="ID_61073792" MODIFIED="1454923042747" TEXT="Your application keeps running and &#xa;the new implementation is used the&#xa; next time the method is called."/>
 </node>
@@ -32668,7 +32673,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456218881061" FOLDED="true" ID="ID_915625707" MODIFIED="1456997630033" TEXT="MultiThread">
+<node CREATED="1456218881061" FOLDED="true" ID="ID_915625707" MODIFIED="1457436421116" TEXT="MultiThread">
 <node CREATED="1456218886933" FOLDED="true" ID="ID_1220952097" LINK="http://android-developers.blogspot.com/2009/05/painless-threading.html" MODIFIED="1456997629926" TEXT="Painless threading">
 <node CREATED="1456220030029" FOLDED="true" ID="ID_1884301957" MODIFIED="1456997629731" TEXT="&#x4f8b;&#x5b50;&#xff0c;&#x52a0;&#x8f7d;&#x56fe;&#x7247;">
 <node CREATED="1456220241569" FOLDED="true" ID="ID_1860506582" MODIFIED="1456830332584" TEXT="&#x4ee3;&#x7801;">
@@ -32749,7 +32754,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456304626490" FOLDED="true" ID="ID_1541410197" LINK="http://android-developers.blogspot.fr/2014/02/new-client-api-model-in-google-play.html" MODIFIED="1456997629927" TEXT="New Client API Model in Google Play Services">
+<node CREATED="1456304626490" FOLDED="true" ID="ID_1541410197" LINK="http://android-developers.blogspot.fr/2014/02/new-client-api-model-in-google-play.html" MODIFIED="1457436420600" TEXT="New Client API Model in Google Play Services">
 <node CREATED="1456305223158" FOLDED="true" ID="ID_409023275" MODIFIED="1456997629733" TEXT="Supporting both Asynchronous &#xa;and Synchronous Execution">
 <node CREATED="1456305245095" FOLDED="true" ID="ID_1009905587" MODIFIED="1456830332585" TEXT="&#x65b0;&#x7684; Google Play services &#x53ef;&#x4ee5;&#xa;&#x6307;&#x5b9a;&#x4ee5; asynchronously &#x6216;&#x8005;&#xa;synchronously &#x5730;&#x6267;&#x884c;">
 <node CREATED="1456305803808" FOLDED="true" ID="ID_1840103895" MODIFIED="1456830331111" TEXT="asynchronously ">
@@ -32813,7 +32818,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456391308717" FOLDED="true" ID="ID_1363032381" MODIFIED="1457428040678" TEXT="Android Support">
+<node CREATED="1456391308717" ID="ID_1363032381" MODIFIED="1457517235698" TEXT="Android Support">
 <node CREATED="1456391634813" FOLDED="true" ID="ID_593415253" LINK="http://android-developers.blogspot.fr/2016/02/android-support-library-232.html" MODIFIED="1456997629928" TEXT="Android Support Library 23.2">
 <node CREATED="1456391828771" FOLDED="true" ID="ID_334886697" MODIFIED="1456997629736" TEXT="Support Vector Drawables and&#xa; Animated Vector Drawables">
 <node CREATED="1456391839829" FOLDED="true" ID="ID_437932524" MODIFIED="1456830332587" TEXT="Vector drawables">
@@ -33198,7 +33203,7 @@
 <node CREATED="1456841031183" ID="ID_511801188" LINK="http://developer.android.com/tools/samples/" MODIFIED="1456841035608" TEXT="&#x201c;Samples for SDK&#x201d;"/>
 </node>
 </node>
-<node CREATED="1456842002009" FOLDED="true" ID="ID_1088585066" LINK="http://android-developers.blogspot.fr/2014/10/appcompat-v21-material-design-for-pre.html" MODIFIED="1457428016952" TEXT="AppCompat v21 &#x2014; Material Design&#xa; for Pre-Lollipop Devices">
+<node CREATED="1456842002009" FOLDED="true" ID="ID_1088585066" LINK="http://android-developers.blogspot.fr/2014/10/appcompat-v21-material-design-for-pre.html" MODIFIED="1457515366710" TEXT="AppCompat v21 &#x2014; Material Design&#xa; for Pre-Lollipop Devices">
 <node CREATED="1456842087673" FOLDED="true" ID="ID_284218858" MODIFIED="1456997629743" TEXT="What&apos;s new in AppCompat?">
 <node CREATED="1456842099293" FOLDED="true" ID="ID_902300269" MODIFIED="1456842273096" TEXT="AppCompat (aka ActionBarCompat) &#x5386;&#x53f2;">
 <node CREATED="1456842125825" FOLDED="true" ID="ID_313065893" MODIFIED="1456997628006" TEXT="&#x4f5c;&#x4e3a; a backport of the Android 4.0 &#xa;ActionBar API for devices running on &#xa;Gingerbread">
@@ -33402,8 +33407,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1457428042399" ID="ID_955770243" MODIFIED="1457428057541" TEXT="material design">
-<node CREATED="1457428062040" ID="ID_1428826862" LINK="http://android-developers.blogspot.fr/2014/10/implementing-material-design-in-your.html" MODIFIED="1457428069405" TEXT="Implementing Material Design in Your Android app">
+<node CREATED="1457428042399" ID="ID_955770243" MODIFIED="1457437291433" TEXT="material design">
+<node CREATED="1457428062040" FOLDED="true" ID="ID_1428826862" LINK="http://android-developers.blogspot.fr/2014/10/implementing-material-design-in-your.html" MODIFIED="1457517273185" TEXT="Implementing Material Design in Your Android app">
 <node CREATED="1457428094037" FOLDED="true" ID="ID_1290561778" MODIFIED="1457430510795" TEXT="&#x7b80;&#x4ecb;">
 <node CREATED="1457428102263" ID="ID_1288129114" MODIFIED="1457428112432" TEXT="Android 5.0 Lollipop and the &#xa;updated support libraries help&#xa; you to create material UIs"/>
 </node>
@@ -33635,6 +33640,36 @@
 </node>
 <node CREATED="1457433704858" ID="ID_1215282876" MODIFIED="1457433705465" TEXT="Go Forth and Materialize"/>
 </node>
+<node CREATED="1457515390662" FOLDED="true" ID="ID_1249848909" LINK="http://android-developers.blogspot.fr/2014/10/material-design-on-android-checklist.html" MODIFIED="1457517130750" TEXT="Material Design on Android Checklist">
+<node CREATED="1457516560964" ID="ID_623855380" MODIFIED="1457516563236" TEXT="&#x4ecb;&#x7ecd;">
+<node CREATED="1457516563503" ID="ID_797638370" MODIFIED="1457516563945" TEXT="Photoshop, Illustrator and Sketch templates"/>
+</node>
+<node CREATED="1457516622212" ID="ID_1260898671" MODIFIED="1457516625157" TEXT="material design checklist">
+<node CREATED="1457516699151" ID="ID_1869284036" MODIFIED="1457516699612" TEXT="Tangible Surfaces">
+<node CREATED="1457516721924" FOLDED="true" ID="ID_475776724" MODIFIED="1457516957509" TEXT="surfaces (pieces of &#x201c;digital paper&#x201d;) &#xa;arranged at varying elevations, ">
+<node CREATED="1457516740792" ID="ID_1309460769" MODIFIED="1457516742213" TEXT="casting shadows on surfaces behind them."/>
+</node>
+<node CREATED="1457516926514" ID="ID_965608365" MODIFIED="1457516974238" TEXT="check list">
+<node CREATED="1457516755505" FOLDED="true" ID="ID_1086687674" MODIFIED="1457516913640" TEXT="Signature element">
+<node CREATED="1457516808922" ID="ID_864011711" MODIFIED="1457516810154" TEXT="Shadows"/>
+<node CREATED="1457516811557" ID="ID_546861891" LINK="http://www.google.com/design/spec/layout/layout-principles.html#layout-principles-dimensionality" MODIFIED="1457516824369" TEXT="Read more on depth and layering in UIs"/>
+<node CREATED="1457516829625" FOLDED="true" ID="ID_721553976" MODIFIED="1457516909849" TEXT="code">
+<node CREATED="1457516868214" FOLDED="true" ID="ID_976266707" MODIFIED="1457516870453" TEXT=" in Android 5.0">
+<node CREATED="1457516839781" ID="ID_1181460287" MODIFIED="1457516867110" TEXT="android:elevation android:translationZ&#xa;"/>
+</node>
+<node CREATED="1457516876897" ID="ID_1971476645" MODIFIED="1457516877297" TEXT="On earlier versions">
+<node CREATED="1457516883618" ID="ID_1551397369" MODIFIED="1457516885082" TEXT="shadows are normally provided as PNG assets."/>
+</node>
+</node>
+</node>
+<node CREATED="1457516911892" ID="ID_1203901798" MODIFIED="1457516912314" TEXT=" Each shadow indicates a new surface"/>
+<node CREATED="1457516974239" ID="ID_262084227" MODIFIED="1457516979187" TEXT="There are generally between 2 and&#xa; 10 surfaces on the screen at once">
+<node CREATED="1457517077145" ID="ID_1335799938" MODIFIED="1457517077566" TEXT=" avoid too much layering/nesting of surfaces."/>
+</node>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1456910832649" FOLDED="true" ID="ID_199538088" MODIFIED="1456997642558" TEXT="googledeveloper blog">
@@ -33860,10 +33895,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1439815567025" FOLDED="true" ID="ID_154984439" MODIFIED="1456997630067" TEXT="AOSP">
-<node CREATED="1434830870963" FOLDED="true" ID="ID_1498094031" LINK="https://source.android.com/index.html" MODIFIED="1456997630039" TEXT="Android Open &#xa;Source Project">
-<node CREATED="1432028100703" FOLDED="true" ID="ID_1912788787" LINK="https://source.android.com/source/index.html" MODIFIED="1456997629941" TEXT="Explore the Source  ">
-<node CREATED="1432028237590" FOLDED="true" ID="ID_1543679445" LINK="https://source.android.com/source/building.html" MODIFIED="1456997629756" TEXT="Downloading and Building">
+<node CREATED="1439815567025" FOLDED="true" ID="ID_154984439" MODIFIED="1457437236648" TEXT="AOSP">
+<node CREATED="1434830870963" FOLDED="true" ID="ID_1498094031" LINK="https://source.android.com/index.html" MODIFIED="1457437236646" TEXT="Android Open &#xa;Source Project">
+<node CREATED="1432028100703" FOLDED="true" ID="ID_1912788787" LINK="https://source.android.com/source/index.html" MODIFIED="1457437236645" TEXT="Explore the Source  ">
+<node CREATED="1432028237590" FOLDED="true" ID="ID_1543679445" LINK="https://source.android.com/source/building.html" MODIFIED="1457437236644" TEXT="Downloading and Building">
 <node CREATED="1432028238726" FOLDED="true" ID="ID_1576960627" MODIFIED="1456830332601" TEXT="requirement">
 <node CREATED="1432028300085" FOLDED="true" ID="ID_1197371013" MODIFIED="1456830331134" TEXT="&#x7cfb;&#x7edf;">
 <node CREATED="1432028275502" ID="ID_8500488" MODIFIED="1432028287168" TEXT="Linux &#x6216;&#x8005; Android &#x7cfb;&#x7edf;"/>
@@ -34018,9 +34053,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1432028486266" FOLDED="true" ID="ID_967344283" LINK="https://source.android.com/source/downloading.html" MODIFIED="1456925073649" TEXT="Downloading the Source">
+<node CREATED="1432028486266" FOLDED="true" ID="ID_967344283" LINK="https://source.android.com/source/downloading.html" MODIFIED="1457437234109" TEXT="Downloading the Source">
 <node CREATED="1432028501925" ID="ID_1244804608" MODIFIED="1432028502414" TEXT="located in a Git repository hosted by Google"/>
-<node CREATED="1432028510351" FOLDED="true" ID="ID_410072235" MODIFIED="1456925073648" TEXT="Installing Repo">
+<node CREATED="1432028510351" FOLDED="true" ID="ID_410072235" MODIFIED="1457437234108" TEXT="Installing Repo">
 <node CREATED="1432028517158" FOLDED="true" ID="ID_1598490305" MODIFIED="1456925073648" TEXT="Repo">
 <node CREATED="1432028523337" ID="ID_1944635331" MODIFIED="1432028523858" TEXT="a tool"/>
 <node CREATED="1432028536575" FOLDED="true" ID="ID_393531906" MODIFIED="1456925073646" TEXT="To install Repo">
@@ -34199,13 +34234,13 @@
 </node>
 </node>
 </node>
-<node CREATED="1435681506592" FOLDED="true" ID="ID_402915041" MODIFIED="1456321594011" TEXT="Initializing a Repo client">
-<node CREATED="1435681516268" FOLDED="true" ID="ID_1088304060" MODIFIED="1456321594010" TEXT="&#x5efa;&#x7acb; client &#x6765;&#x8bbf;&#x95ee; Android source repository">
+<node CREATED="1435681506592" FOLDED="true" ID="ID_402915041" MODIFIED="1457437234108" TEXT="Initializing a Repo client">
+<node CREATED="1435681516268" FOLDED="true" ID="ID_1088304060" MODIFIED="1457437234107" TEXT="&#x5efa;&#x7acb; client &#x6765;&#x8bbf;&#x95ee; Android source repository">
 <node CREATED="1435681544110" FOLDED="true" ID="ID_262914190" MODIFIED="1456321594008" TEXT="&#x751f;&#x6210; &#x653e;&#x7f6e; working files &#x7684;&#xa;empty directory">
 <node CREATED="1435681657204" ID="ID_158097409" MODIFIED="1435681660343" TEXT="$ mkdir WORKING_DIRECTORY&#xa;$ cd WORKING_DIRECTORY"/>
 </node>
-<node CREATED="1435681669342" FOLDED="true" ID="ID_589069678" MODIFIED="1456321594009" TEXT="&#x83b7;&#x53d6;&#x6700;&#x65b0;&#x7248;&#x672c;&#x7684;Repo&#xa;">
-<node CREATED="1435681727257" FOLDED="true" ID="ID_828054624" MODIFIED="1456321594009" TEXT="&#x5fc5;&#x987b;&#x6307;&#x5b9a; manifest &#x7684; url">
+<node CREATED="1435681669342" FOLDED="true" ID="ID_589069678" MODIFIED="1457437234106" TEXT="&#x83b7;&#x53d6;&#x6700;&#x65b0;&#x7248;&#x672c;&#x7684;Repo&#xa;">
+<node CREATED="1435681727257" FOLDED="true" ID="ID_828054624" MODIFIED="1457437234105" TEXT="&#x5fc5;&#x987b;&#x6307;&#x5b9a; manifest &#x7684; url">
 <node CREATED="1435681742994" FOLDED="true" ID="ID_1618859456" MODIFIED="1456321594008" TEXT="$ repo init -u https://android.googlesource.com/platform/manifest">
 <node CREATED="1439385073748" FOLDED="true" ID="ID_1177666081" MODIFIED="1456321594008" TEXT="&#x62a5;&#x8b66;&#x544a;&#x9519;&#x8bef;">
 <node CREATED="1439385099791" ID="ID_561345310" MODIFIED="1439385100843" TEXT=" gpg (GnuPG) is not available"/>
@@ -34273,7 +34308,7 @@
 </node>
 <node CREATED="1438766112511" ID="ID_1190448959" MODIFIED="1439384660377" TEXT="&#x529e;&#x516c;&#x5ba4;&#x673a;&#x5668;&#x4e0a; source &#x4e0b;&#x8f7d;&#x5230;&#xa;/Volumes/android/AOSP"/>
 </node>
-<node CREATED="1438704411332" FOLDED="true" ID="ID_1733700297" LINK="https://source.android.com/source/building-running.html" MODIFIED="1456925078062" TEXT="Building and Running">
+<node CREATED="1438704411332" FOLDED="true" ID="ID_1733700297" LINK="https://source.android.com/source/building-running.html" MODIFIED="1457437236643" TEXT="Building and Running">
 <node CREATED="1438704502657" ID="ID_845941357" MODIFIED="1438704517123" TEXT="&#x4e0b;&#x9762;&#x7684;&#x6b65;&#x9aa4;&#x4f7f;&#x7528;&#x4e0e;&#x4efb;&#x4f55;&#x4e00;&#x4e2a; branch"/>
 <node CREATED="1438704525686" FOLDED="true" ID="ID_421153106" LINK="https://source.android.com/source/building-running.html#choosing-a-branch" MODIFIED="1456830331136" TEXT="Choosing a Branch">
 <node CREATED="1438705029819" ID="ID_1142217164" MODIFIED="1438705065934" TEXT="&#x9009;&#x62e9;&#x7684; branch &#x548c;&#x4f60;&#x7684; build &#x73af;&#x5883;&#x6709;&#x5173;"/>
@@ -34420,7 +34455,7 @@
 </node>
 </node>
 <node CREATED="1439310358299" ID="ID_1917986142" LINK="https://source.android.com/source/building-running.html#using-ccache" MODIFIED="1439310363571" TEXT="Using ccache"/>
-<node CREATED="1439310377345" FOLDED="true" ID="ID_1491392611" LINK="https://source.android.com/source/building-running.html#troubleshooting-common-build-errors" MODIFIED="1456925078060" TEXT="Troubleshooting Common Build Errors">
+<node CREATED="1439310377345" FOLDED="true" ID="ID_1491392611" LINK="https://source.android.com/source/building-running.html#troubleshooting-common-build-errors" MODIFIED="1457437236642" TEXT="Troubleshooting Common Build Errors">
 <node CREATED="1439310400957" FOLDED="true" ID="ID_297293349" LINK="https://source.android.com/source/building-running.html#wrong-java-version" MODIFIED="1456321594025" TEXT="Wrong Java Version">
 <node CREATED="1439310422242" FOLDED="true" ID="ID_877157137" MODIFIED="1456321594024" TEXT="&#x5982;&#x679c;&#x8981; build &#x7684; Android &#x7684; &#x7248;&#x672c;&#x548c; Java &#xa;&#x7684;&#x7248;&#x672c;&#x4e0d;&#x4e00;&#x81f4;&#xff0c;&#x5219; make &#x4e2d;&#x65ad;&#xff0c;&#x5e76;&#x4e14;&#x663e;&#x793a;&#xa;&#x9519;&#x8bef;">
 <node CREATED="1439310536083" ID="ID_1992913823" MODIFIED="1439310539172" TEXT="************************************************************&#xa;You are attempting to build with the incorrect version&#xa;of java.&#xa;&#xa;Your version is: WRONG_VERSION.&#xa;The correct version is: RIGHT_VERSION.&#xa;&#xa;Please follow the machine setup instructions at&#xa;    https://source.android.com/source/download.html&#xa;************************************************************"/>
@@ -34430,17 +34465,17 @@
 </node>
 </node>
 <node CREATED="1439310638985" ID="ID_326351016" LINK="https://source.android.com/source/building-running.html#python-version-3" MODIFIED="1439310643714" TEXT="Python Version 3"/>
-<node CREATED="1439398492375" FOLDED="true" ID="ID_173946586" MODIFIED="1456925078059" TEXT="&#x5176;&#x4ed6;&#x9519;&#x8bef;">
+<node CREATED="1439398492375" FOLDED="true" ID="ID_173946586" MODIFIED="1457437236642" TEXT="&#x5176;&#x4ed6;&#x9519;&#x8bef;">
 <node CREATED="1439398529939" FOLDED="true" ID="ID_1944138168" MODIFIED="1456925078057" TEXT="host Java: doclava (out/host/common/obj/JAVA_LIBRARIES/doclava_intermediates/classes)&#xa;external/doclava/src/com/google/doclava/ClassInfo.java:20: error: package com.sun.javadoc does not exist&#xa;import com.sun.javadoc.ClassDoc;">
 <node CREATED="1439398535044" FOLDED="true" ID="ID_874200418" MODIFIED="1456925078056" TEXT="&#x89e3;&#x51b3;">
 <node CREATED="1439398540085" ID="ID_153900094" MODIFIED="1439398588782" TEXT="&#x6dfb;&#x52a0; &#xa;export ANDROID_JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home &#xa;&#x5230; &#xff5e;&#xff0f;.bash_profile"/>
 </node>
 </node>
-<node CREATED="1439453444302" FOLDED="true" ID="ID_963183853" MODIFIED="1456321594026" TEXT="fatal error: linux/netfilter/xt_DSCP.h: &#xa;No such file or directory  &#xa;#include &lt;linux/netfilter/xt_DSCP.h&gt;">
-<node CREATED="1439453498642" FOLDED="true" ID="ID_1709429956" LINK="https://groups.google.com/forum/#!topic/android-building/n0j--0PUy6A" MODIFIED="1456321594026" TEXT="&#x7b54;&#x6848;&#x4e00;">
+<node CREATED="1439453444302" FOLDED="true" ID="ID_963183853" MODIFIED="1457437236640" TEXT="fatal error: linux/netfilter/xt_DSCP.h: &#xa;No such file or directory  &#xa;#include &lt;linux/netfilter/xt_DSCP.h&gt;">
+<node CREATED="1439453498642" FOLDED="true" ID="ID_1709429956" LINK="https://groups.google.com/forum/#!topic/android-building/n0j--0PUy6A" MODIFIED="1457437236639" TEXT="&#x7b54;&#x6848;&#x4e00;">
 <node CREATED="1439453605167" ID="ID_1927362780" MODIFIED="1439453680562" TEXT="&#x4e3a;&#x6ee1;&#x8db3; UPPERcase &#x548c; lowercase &#xa;&#x7248;&#x672c;&#xff0c;&#x8fd9;&#x4e9b;&#x6587;&#x4ef6;&#x90fd;&#x662f;&#x6210;&#x5bf9;&#x7684;&#xff0c;&#x4f46;&#x662f;&#xa;xt_DSCP.h &#x4e0d;&#x662f;&#x6210;&#x5bf9;&#x7684;&#xff0c;"/>
-<node CREATED="1439453928132" FOLDED="true" ID="ID_1866817142" MODIFIED="1456321594026" TEXT="&#x89e3;&#x51b3;&#x65b9;&#x6cd5;&#x662f;">
-<node CREATED="1439453682668" FOLDED="true" ID="ID_1052611237" MODIFIED="1456321594026" TEXT=" &#x5728; linux/netfilter &#x76ee;&#x5f55;&#x4e0b; &#xa;&#x751f;&#x6210;&#x4e00;&#x4e2a; symlink xt_DSCP.h &#x6307;&#x5411;&#xa;xt_dscp.h&#xa;">
+<node CREATED="1439453928132" FOLDED="true" ID="ID_1866817142" MODIFIED="1457437236638" TEXT="&#x89e3;&#x51b3;&#x65b9;&#x6cd5;&#x662f;">
+<node CREATED="1439453682668" FOLDED="true" ID="ID_1052611237" MODIFIED="1457437236636" TEXT=" &#x5728; linux/netfilter &#x76ee;&#x5f55;&#x4e0b; &#xa;&#x751f;&#x6210;&#x4e00;&#x4e2a; symlink xt_DSCP.h &#x6307;&#x5411;&#xa;xt_dscp.h&#xa;">
 <node CREATED="1439453912454" ID="ID_1350004722" MODIFIED="1439453920126" TEXT="&#x547d;&#x4ee4;&#x884c;&#xa;cd external/iptables/extensions/../include/linux/netfilter&#xa;ln -s xt_dscp.h xt_DSCP.h"/>
 </node>
 </node>
@@ -34611,9 +34646,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1439538686113" FOLDED="true" ID="ID_163736756" LINK="https://source.android.com/source/developing.html" MODIFIED="1456997629756" TEXT="Developing">
-<node CREATED="1439538704978" FOLDED="true" ID="ID_1596835022" LINK="https://source.android.com/source/using-eclipse.html" MODIFIED="1456830332604" TEXT="Using Eclipse">
-<node CREATED="1439544897864" FOLDED="true" ID="ID_1077002502" LINK="https://source.android.com/source/using-eclipse.html#basic-setup" MODIFIED="1456830331183" TEXT="Basic setup">
+<node CREATED="1439538686113" FOLDED="true" ID="ID_163736756" LINK="https://source.android.com/source/developing.html" MODIFIED="1457437192212" TEXT="Developing">
+<node CREATED="1439538704978" FOLDED="true" ID="ID_1596835022" LINK="https://source.android.com/source/using-eclipse.html" MODIFIED="1457437192211" TEXT="Using Eclipse">
+<node CREATED="1439544897864" FOLDED="true" ID="ID_1077002502" LINK="https://source.android.com/source/using-eclipse.html#basic-setup" MODIFIED="1457437192210" TEXT="Basic setup">
 <node CREATED="1439544949444" ID="ID_345946472" MODIFIED="1439545008910" TEXT="&#x4f7f;&#x7528; make &#x6765; build &#x8981;&#x5728; emulator&#xa;&#x6216;&#x8005; device &#x4e0a;&#x8fd0;&#x884c;&#x7684; &#x4ee3;&#x7801;&#x3002;"/>
 <node CREATED="1439545010066" FOLDED="true" ID="ID_678572526" MODIFIED="1456321594041" TEXT="&#x4f7f;&#x7528; Eclipse &#x7f16;&#x8f91;&#x4ee3;&#x7801;&#xff0c;verify &#xa;compilation &#x662f;&#x5426;&#x901a;&#x8fc7;">
 <node CREATED="1439545068053" ID="ID_123265408" MODIFIED="1439545098458" TEXT="&#x5728; Eclipse &#x4e2d;&#x4fee;&#x6539;,&#x4fdd;&#x5b58;&#xff0c;&#xa;&#x5728; shell &#x4e2d; make."/>
@@ -34671,7 +34706,7 @@
 <node CREATED="1439800010017" ID="ID_1540024581" MODIFIED="1439800010420" TEXT="Click Refresh in the context menu"/>
 </node>
 </node>
-<node CREATED="1439800012717" FOLDED="true" ID="ID_1963909339" LINK="https://source.android.com/source/using-eclipse.html#adding-apps-to-the-build-path" MODIFIED="1456321594047" TEXT="Adding Apps to the Build Path">
+<node CREATED="1439800012717" FOLDED="true" ID="ID_1963909339" LINK="https://source.android.com/source/using-eclipse.html#adding-apps-to-the-build-path" MODIFIED="1457437192208" TEXT="Adding Apps to the Build Path">
 <node CREATED="1439800057221" FOLDED="true" ID="ID_147011229" MODIFIED="1456321594046" TEXT="default .classpath &#x53ef;&#x80fd;&#x4e0d;&#x5305;&#x542b;&#xa;&#x4f60;&#x8981;&#x7684; app, &#x5e94;&#x8be5;&#x5c06;&#x5b83;&#x6dfb;&#x52a0;&#x5230; &#xa;app &#x7684; source &#x76ee;&#x5f55;">
 <node CREATED="1439800313180" ID="ID_995335421" MODIFIED="1439800313647" TEXT="Project &gt; Properties"/>
 <node CREATED="1439800337621" ID="ID_1588501674" MODIFIED="1439800338038" TEXT="Select &quot;Java Build Path&quot; from the left-hand menu."/>
@@ -35857,31 +35892,31 @@
 </node>
 </node>
 </node>
-<node CREATED="1450476806293" FOLDED="true" ID="ID_556802227" MODIFIED="1457344288442" TEXT="tuto">
-<node CREATED="1432068091773" FOLDED="true" ID="ID_213335071" MODIFIED="1456997630042" TEXT="Tuto sur Developpez">
+<node CREATED="1450476806293" FOLDED="true" ID="ID_556802227" MODIFIED="1457437239476" TEXT="tuto">
+<node CREATED="1432068091773" FOLDED="true" ID="ID_213335071" MODIFIED="1457437239475" TEXT="Tuto sur Developpez">
 <node CREATED="1432068202572" FOLDED="true" ID="ID_1841953288" LINK="http://nbenbourahla.developpez.com/tutoriels/android/comprendre-corriger-erreurs-application/#LI" MODIFIED="1456997629949" TEXT="Comprendre et corriger les &#xa;erreurs dans votre application">
 <node CREATED="1432068106567" ID="ID_497258656" MODIFIED="1432068158526" TEXT="LogCat"/>
 </node>
-<node CREATED="1432068298648" FOLDED="true" ID="ID_889069743" LINK="http://dsilvera.developpez.com/tutoriels/android/creer-apk/" MODIFIED="1456997629951" TEXT="Cr&#xe9;er un apk">
-<node CREATED="1432068345912" FOLDED="true" ID="ID_1626992807" MODIFIED="1456997629771" TEXT=" Avec une invite de commande">
-<node CREATED="1432068351906" FOLDED="true" ID="ID_154225983" MODIFIED="1456830332619" TEXT="Cr&#xe9;er une cl&#xe9;">
+<node CREATED="1432068298648" FOLDED="true" ID="ID_889069743" LINK="http://dsilvera.developpez.com/tutoriels/android/creer-apk/" MODIFIED="1457437239474" TEXT="Cr&#xe9;er un apk">
+<node CREATED="1432068345912" FOLDED="true" ID="ID_1626992807" MODIFIED="1457437239473" TEXT=" Avec une invite de commande">
+<node CREATED="1432068351906" FOLDED="true" ID="ID_154225983" MODIFIED="1457437239472" TEXT="Cr&#xe9;er une cl&#xe9;">
 <node CREATED="1432068375681" ID="ID_1819376612" MODIFIED="1432068376956" TEXT="D&#xe9;marrer &gt; Executer &gt; cmd"/>
 <node CREATED="1432068383322" ID="ID_1878580798" MODIFIED="1432068384724" TEXT="cd C:\Program Files\Java\jre1.6.0_07\bin"/>
-<node CREATED="1432068408481" FOLDED="true" ID="ID_565009317" MODIFIED="1456830331220" TEXT="&#x4f7f;&#x7528; keytool.exe">
+<node CREATED="1432068408481" FOLDED="true" ID="ID_565009317" MODIFIED="1457437239472" TEXT="&#x4f7f;&#x7528; keytool.exe">
 <node CREATED="1432068425498" ID="ID_1493409723" MODIFIED="1432068431987" TEXT="C:\Program Files\Java\jre1.6.0_7\bin&gt;keytool -genkey -v -keystore c:\androiddeveloppez.keystore -alias &#xa;androidDeveloppez -keyalg RSA -validity 10000"/>
-<node CREATED="1432068467347" FOLDED="true" ID="ID_821689799" MODIFIED="1456321594175" TEXT="&#x89e3;&#x91ca;">
-<node CREATED="1432068471157" FOLDED="true" ID="ID_1368671568" LINK="https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html?jnca3732fa=2" MODIFIED="1456321594175" TEXT="Keytool">
-<node CREATED="1432068507755" FOLDED="true" ID="ID_861625828" MODIFIED="1456321594175" TEXT="&#x662f;&#x4e00;&#x4e2a; key &#x548c; certificate management utility">
-<node CREATED="1432068580757" FOLDED="true" ID="ID_1725148756" LINK="http://en.wikipedia.org/wiki/Public-key_cryptography" MODIFIED="1456321594175" TEXT="Public-key cryptography">
-<node CREATED="1432068591917" FOLDED="true" ID="ID_235319067" MODIFIED="1456321594175" TEXT="&#x63cf;&#x8ff0;">
+<node CREATED="1432068467347" FOLDED="true" ID="ID_821689799" MODIFIED="1457437239471" TEXT="&#x89e3;&#x91ca;">
+<node CREATED="1432068471157" FOLDED="true" ID="ID_1368671568" LINK="https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html?jnca3732fa=2" MODIFIED="1457437239470" TEXT="Keytool">
+<node CREATED="1432068507755" FOLDED="true" ID="ID_861625828" MODIFIED="1457437239469" TEXT="&#x662f;&#x4e00;&#x4e2a; key &#x548c; certificate management utility">
+<node CREATED="1432068580757" FOLDED="true" ID="ID_1725148756" LINK="http://en.wikipedia.org/wiki/Public-key_cryptography" MODIFIED="1457437239468" TEXT="Public-key cryptography">
+<node CREATED="1432068591917" FOLDED="true" ID="ID_235319067" MODIFIED="1457437239468" TEXT="&#x63cf;&#x8ff0;">
 <node CREATED="1432068597437" ID="ID_1926214459" MODIFIED="1432068612088" TEXT="&#x4e5f;&#x53eb;&#x505a; asymmetric cryptography"/>
-<node CREATED="1432068618213" FOLDED="true" ID="ID_1380430333" LINK="http://en.wikipedia.org/wiki/Cryptographic_protocol" MODIFIED="1456321594174" TEXT="&#x662f;&#x4e00;&#x4e2a; cryptographic protocols&#xa;&#x5bc6;&#x7801;&#x534f;&#x8bae;">
-<node CREATED="1432068668143" FOLDED="true" ID="ID_1129886823" MODIFIED="1456321594173" TEXT="&#x662f;&#x4e00;&#x4e2a; protocol">
+<node CREATED="1432068618213" FOLDED="true" ID="ID_1380430333" LINK="http://en.wikipedia.org/wiki/Cryptographic_protocol" MODIFIED="1457437239466" TEXT="&#x662f;&#x4e00;&#x4e2a; cryptographic protocols&#xa;&#x5bc6;&#x7801;&#x534f;&#x8bae;">
+<node CREATED="1432068668143" FOLDED="true" ID="ID_1129886823" MODIFIED="1457437239465" TEXT="&#x662f;&#x4e00;&#x4e2a; protocol">
 <node CREATED="1432068683626" ID="ID_1978699301" MODIFIED="1432068693434" TEXT="&#x6267;&#x884c; security-related function "/>
 <node CREATED="1432068693951" ID="ID_149248221" MODIFIED="1432068706283" TEXT="&#x5e94;&#x7528; cryptographic methods"/>
-<node CREATED="1432068730041" FOLDED="true" ID="ID_469496251" MODIFIED="1456321594173" TEXT="often as sequences of cryptographic primitives">
-<node CREATED="1432068736263" FOLDED="true" ID="ID_1745136369" LINK="http://en.wikipedia.org/wiki/Cryptographic_primitive" MODIFIED="1456321594173" TEXT="cryptographic primitives">
-<node CREATED="1432068760287" FOLDED="true" ID="ID_4474915" MODIFIED="1456321594172" TEXT=" well-established, &#xa;low-level cryptographic&#xa; algorithms ">
+<node CREATED="1432068730041" FOLDED="true" ID="ID_469496251" MODIFIED="1457437239464" TEXT="often as sequences of cryptographic primitives">
+<node CREATED="1432068736263" FOLDED="true" ID="ID_1745136369" LINK="http://en.wikipedia.org/wiki/Cryptographic_primitive" MODIFIED="1457437239463" TEXT="cryptographic primitives">
+<node CREATED="1432068760287" FOLDED="true" ID="ID_4474915" MODIFIED="1457437239461" TEXT=" well-established, &#xa;low-level cryptographic&#xa; algorithms ">
 <node CREATED="1432068785210" FOLDED="true" ID="ID_1424705890" MODIFIED="1456321594172" TEXT="&#x7528;&#x6765;&#x5efa;&#x7acb; cryptographic protocols">
 <node CREATED="1432068802434" ID="ID_1632472997" MODIFIED="1432068832373" TEXT="&#x7528;&#x4e8e; computer security &#x7cfb;&#x7edf;&#x7684; &#xa;cryptographics protocols"/>
 </node>
@@ -35950,25 +35985,25 @@
 </node>
 </node>
 </node>
-<node CREATED="1419802264438" FOLDED="true" ID="ID_1117226885" MODIFIED="1456997630069" TEXT="&#x5176;&#x4ed6;">
+<node CREATED="1419802264438" FOLDED="true" ID="ID_1117226885" MODIFIED="1457437172300" TEXT="&#x5176;&#x4ed6;">
 <node CREATED="1419802272288" FOLDED="true" ID="ID_1871949730" MODIFIED="1456997630042" TEXT="Swing">
 <node CREATED="1419802522271" ID="ID_448485509" MODIFIED="1419802540908" TEXT="GUI widget toolkit for java"/>
 </node>
-<node CREATED="1419931880076" FOLDED="true" ID="ID_1315004371" MODIFIED="1456997630043" TEXT="java">
+<node CREATED="1419931880076" FOLDED="true" ID="ID_1315004371" MODIFIED="1457437172299" TEXT="java">
 <node CREATED="1419931885092" FOLDED="true" ID="ID_1700023250" MODIFIED="1456997629958" TEXT="&#x6ce8;&#x91ca;">
 <node CREATED="1419931894417" FOLDED="true" ID="ID_253813299" MODIFIED="1456997629774" TEXT="@category">
 <node CREATED="1419931902169" ID="ID_1762321789" MODIFIED="1419931941214" TEXT="javadoc Tags"/>
 <node CREATED="1419931941711" ID="ID_1757905755" MODIFIED="1419931963929" TEXT="&#x7528;&#x4e8e;&#x5c06; classes, methods, fields &#x5206;&#x7c7b;"/>
 </node>
 </node>
-<node CREATED="1419934841695" FOLDED="true" ID="ID_1360732116" LINK="http://www.javaworld.com/article/2077520/learn-java/java-tip-23--write-native-methods.html" MODIFIED="1456997629959" TEXT="Write native methods">
+<node CREATED="1419934841695" FOLDED="true" ID="ID_1360732116" LINK="http://www.javaworld.com/article/2077520/learn-java/java-tip-23--write-native-methods.html" MODIFIED="1457437172298" TEXT="Write native methods">
 <node CREATED="1419934900712" FOLDED="true" ID="ID_1609670106" MODIFIED="1456997629774" TEXT="native method interface">
 <node CREATED="1419934923650" ID="ID_923627498" MODIFIED="1419934941709" TEXT="import C code &#x5230; java application"/>
 </node>
 <node CREATED="1419934868763" FOLDED="true" ID="ID_988846034" MODIFIED="1456997629774" TEXT="&#x76ee;&#x7684;">
 <node CREATED="1419934873815" ID="ID_1103830170" MODIFIED="1419934887269" TEXT="&#x91cd;&#x7528;&#x73b0;&#x6709;&#x4ee3;&#x7801;"/>
 </node>
-<node CREATED="1419934956442" FOLDED="true" ID="ID_1672381084" MODIFIED="1456997629775" TEXT="&#x751f;&#x6210; native method &#x7684;&#x4e03;&#x4e2a;&#x6b65;&#x9aa4;">
+<node CREATED="1419934956442" FOLDED="true" ID="ID_1672381084" MODIFIED="1457437172297" TEXT="&#x751f;&#x6210; native method &#x7684;&#x4e03;&#x4e2a;&#x6b65;&#x9aa4;">
 <node CREATED="1419934967230" FOLDED="true" ID="ID_211064310" MODIFIED="1456830332620" TEXT="&#x5199; java code ">
 <node CREATED="1419935045573" FOLDED="true" ID="ID_1282579741" MODIFIED="1456830331221" TEXT="&#x9700;&#x8981;&#x505a;&#x4e24;&#x4ef6;&#x4e8b;">
 <node CREATED="1419935054843" FOLDED="true" ID="ID_344978549" MODIFIED="1456321594180" TEXT="&#x4e3a;&#x6bcf;&#x4e2a;&#x8981;&#x4f7f;&#x7528;&#x7684;&#x5199; native method declaration">
@@ -36048,14 +36083,14 @@
 <node CREATED="1419934979346" FOLDED="true" ID="ID_952877543" MODIFIED="1456830332621" TEXT="Compile Java code">
 <node CREATED="1419935432989" ID="ID_188116985" MODIFIED="1419935433489" TEXT="javac Happy.java"/>
 </node>
-<node CREATED="1419934989123" FOLDED="true" ID="ID_444977992" MODIFIED="1456830332621" TEXT="Create C header (.h file)">
+<node CREATED="1419934989123" FOLDED="true" ID="ID_444977992" MODIFIED="1457437153777" TEXT="Create C header (.h file)">
 <node CREATED="1419935481521" ID="ID_362467396" MODIFIED="1419935653530" TEXT="compiler &#x547d;&#x4ee4; &#xff1a; javah Happy &#x4f1a;&#x751f;&#x6210; Happy.h to include in our C code"/>
 </node>
 <node CREATED="1419934994117" FOLDED="true" ID="ID_1836444540" MODIFIED="1456830332621" TEXT="Create C stubs file">
 <node CREATED="1419935659817" ID="ID_517695606" MODIFIED="1419935660495" TEXT="javah -stubs Happy"/>
 </node>
-<node CREATED="1419934998337" FOLDED="true" ID="ID_1695305270" MODIFIED="1456830332621" TEXT="Write C code">
-<node CREATED="1419935744765" FOLDED="true" ID="ID_792450817" MODIFIED="1456830331221" TEXT=" HappyImp.c">
+<node CREATED="1419934998337" FOLDED="true" ID="ID_1695305270" MODIFIED="1457437172296" TEXT="Write C code">
+<node CREATED="1419935744765" FOLDED="true" ID="ID_792450817" MODIFIED="1457437172295" TEXT=" HappyImp.c">
 <node CREATED="1419935764709" ID="ID_1513715761" MODIFIED="1419935894755" TEXT="#include &lt;tubPreamble.h&gt;     /* Standard native method stuff. */ &#xa;#include &quot;Happy.h&quot;         /* Generated earlier. */ &#xa;#include &lt;stdio.h&gt;         /* Standard C IO stuff. */&#xa;&#xa; void Happy_printText (struct HHappy *this)     &#xa;{     puts (&quot;Happy New Year!!!&quot;);     }"/>
 </node>
 <node CREATED="1419935897928" ID="ID_65159991" MODIFIED="1419935940692" TEXT="&#x5173;&#x4e8e;&#x5982;&#x4f55;&#x4f20;&#x9012;&#x6570;&#x636e;&#xff0c;&#x53c2;&#x89c1; Hermetica Native Methods Paper"/>
@@ -36765,8 +36800,8 @@
 <node CREATED="1440170210298" ID="ID_1081093422" MODIFIED="1440170218168" TEXT=" grep -r word *"/>
 </node>
 </node>
-<node CREATED="1441276614110" FOLDED="true" ID="ID_1864201811" MODIFIED="1456997630070" TEXT="libs">
-<node CREATED="1441028361297" FOLDED="true" ID="ID_926891387" MODIFIED="1456997630050" TEXT="boxSDK">
+<node CREATED="1441276614110" FOLDED="true" ID="ID_1864201811" MODIFIED="1457437173661" TEXT="libs">
+<node CREATED="1441028361297" FOLDED="true" ID="ID_926891387" MODIFIED="1457437173660" TEXT="boxSDK">
 <node CREATED="1441028382526" FOLDED="true" ID="ID_9420541" MODIFIED="1456997629973" TEXT="deprecated">
 <node CREATED="1440678443302" FOLDED="true" ID="ID_385028405" LINK="https://developers.box.com/android-sdk-tutorial/" MODIFIED="1456997629798" TEXT="Box Android SDK Tutorial">
 <node CREATED="1440678967927" FOLDED="true" ID="ID_1481922210" LINK="https://youtu.be/ZRIz7YuATqg" MODIFIED="1456830332636" TEXT="&#x89c6;&#x9891;">
@@ -36889,10 +36924,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1441028430597" FOLDED="true" ID="ID_1594901464" LINK="https://github.com/box/box-android-sdk" MODIFIED="1456997629974" TEXT="box-android-sdk sur git">
-<node CREATED="1441028486059" FOLDED="true" ID="ID_1307978292" MODIFIED="1456997629800" TEXT="Box Android Content SDK">
-<node CREATED="1441028510507" FOLDED="true" ID="ID_258505274" MODIFIED="1456830332638" TEXT="Quickstart">
-<node CREATED="1441028521531" FOLDED="true" ID="ID_272985968" MODIFIED="1456830331241" TEXT="Step 1 &#x5c06; SDK &#x6dfb;&#x52a0;&#x5230; project">
+<node CREATED="1441028430597" FOLDED="true" ID="ID_1594901464" LINK="https://github.com/box/box-android-sdk" MODIFIED="1457437173659" TEXT="box-android-sdk sur git">
+<node CREATED="1441028486059" FOLDED="true" ID="ID_1307978292" MODIFIED="1457437173658" TEXT="Box Android Content SDK">
+<node CREATED="1441028510507" FOLDED="true" ID="ID_258505274" MODIFIED="1457437173657" TEXT="Quickstart">
+<node CREATED="1441028521531" FOLDED="true" ID="ID_272985968" MODIFIED="1457437173656" TEXT="Step 1 &#x5c06; SDK &#x6dfb;&#x52a0;&#x5230; project">
 <node CREATED="1441028538890" FOLDED="true" ID="ID_726413307" MODIFIED="1456321594231" TEXT="adding it as a maven dependency">
 <node CREATED="1441029898350" ID="ID_1486590312" MODIFIED="1441029901578" TEXT="&lt;dependency&gt;&#xa;    &lt;groupId&gt;com.box&lt;/groupId&gt;&#xa;    &lt;artifactId&gt;box-android-sdk&lt;/artifactId&gt;&#xa;&lt;/dependency&gt;"/>
 </node>
@@ -37418,21 +37453,21 @@
 </node>
 </node>
 </node>
-<node CREATED="1438181340208" FOLDED="true" ID="ID_1367980393" LINK="http://actionbarsherlock.com/index.html" MODIFIED="1456997630051" TEXT="actionbarsherlock">
+<node CREATED="1438181340208" FOLDED="true" ID="ID_1367980393" LINK="http://actionbarsherlock.com/index.html" MODIFIED="1457437155264" TEXT="actionbarsherlock">
 <node CREATED="1434364755147" FOLDED="true" ID="ID_462589969" MODIFIED="1456997629976" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1434364758172" ID="ID_1206319910" MODIFIED="1434364773429" TEXT="&#x662f; support library &#x7684;&#x4e00;&#x4e2a; extension"/>
 <node CREATED="1434364786603" ID="ID_30437539" MODIFIED="1434364826989" TEXT="&#x5728;&#x6240;&#x6709;&#x7684; Android version &#x4e0a;&#xa;&#x4f7f;&#x7528;&#x540c;&#x4e00;&#x4e2a; action bar design "/>
 <node CREATED="1434364850689" ID="ID_661136849" MODIFIED="1434364887850" TEXT="&#x5728;&#x53ef;&#x4ee5;&#x4f7f;&#x7528; native action bar&#xa;&#x7684;&#x65f6;&#x5019;&#xff0c;&#x4f7f;&#x7528; native action bar"/>
 <node CREATED="1434364890966" ID="ID_1378690211" MODIFIED="1434364956800" TEXT="&#x5728;&#x4e0d;&#x80fd;&#x4f7f;&#x7528; native action bar &#xa;&#x7684;&#x65f6;&#x5019;&#xff0c;&#x4f7f;&#x7528; custom implementation&#xa;&#x652f;&#x6301; 2.0 &#x7ea7;&#x4ee5;&#x4e0a;"/>
 </node>
-<node CREATED="1435154907397" FOLDED="true" ID="ID_315197294" LINK="http://actionbarsherlock.com/usage.html" MODIFIED="1456997629976" TEXT="Usage">
+<node CREATED="1435154907397" FOLDED="true" ID="ID_315197294" LINK="http://actionbarsherlock.com/usage.html" MODIFIED="1457437155263" TEXT="Usage">
 <node CREATED="1435154926432" FOLDED="true" ID="ID_855765181" MODIFIED="1456997629804" TEXT="Requirements">
 <node CREATED="1435154946063" ID="ID_5113007" MODIFIED="1435154981085" TEXT="library &#x548c; app &#x90fd;&#x8981;&#x7528; Android 4.0&#xa;&#x4ee5;&#x4e0a;&#x7f16;&#x8bd1;&#xa;"/>
 <node CREATED="1435155005045" ID="ID_596483287" MODIFIED="1435155024734" TEXT="project &#x8981;&#x7528; JDK 1.6 &#x7f16;&#x8bd1;"/>
 <node CREATED="1435155036244" ID="ID_210276698" MODIFIED="1435155044259" TEXT="android-support-v4.jar"/>
 </node>
-<node CREATED="1435155059211" FOLDED="true" ID="ID_1368965560" MODIFIED="1456997629804" TEXT="Including In Your Project">
-<node CREATED="1435155072836" FOLDED="true" ID="ID_40534015" MODIFIED="1456830332641" TEXT="Eclipse &#x4e2d;">
+<node CREATED="1435155059211" FOLDED="true" ID="ID_1368965560" MODIFIED="1457437155262" TEXT="Including In Your Project">
+<node CREATED="1435155072836" FOLDED="true" ID="ID_40534015" MODIFIED="1457437155261" TEXT="Eclipse &#x4e2d;">
 <node CREATED="1435155077326" FOLDED="true" ID="ID_138862694" MODIFIED="1456830331253" TEXT="&#x5c06; ActionBarSherlock as a&#xa;library project include &#x8fdb;&#x6765;">
 <node CREATED="1435155116171" ID="ID_1548652736" MODIFIED="1435155123597" TEXT="new Android project in Eclipse &#xa;using the actionbarsherlock/ &#xa;folder as the existing source"/>
 <node CREATED="1435155138736" FOLDED="true" ID="ID_288207023" MODIFIED="1456321594268" TEXT="project properties">
@@ -37502,8 +37537,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1452764773032" FOLDED="true" ID="ID_1523971503" MODIFIED="1456997630070" TEXT="gradle">
-<node CREATED="1452764783337" FOLDED="true" ID="ID_1432749397" LINK="https://www.youtube.com/watch?v=LCJAgPkpmR0" MODIFIED="1456997630052" TEXT="Google I/O 2013 - The New Android SDK Build System">
+<node CREATED="1452764773032" FOLDED="true" ID="ID_1523971503" MODIFIED="1457437237896" TEXT="gradle">
+<node CREATED="1452764783337" FOLDED="true" ID="ID_1432749397" LINK="https://www.youtube.com/watch?v=LCJAgPkpmR0" MODIFIED="1457437204983" TEXT="Google I/O 2013 - The New Android SDK Build System">
 <node CREATED="1452764828044" FOLDED="true" ID="ID_658708176" MODIFIED="1456997629977" TEXT="build.gradle &#x5728; project &#x7684;&#xa;&#x6839;&#x76ee;&#x5f55;&#x4e0b;">
 <node CREATED="1452764861626" FOLDED="true" ID="ID_149808969" MODIFIED="1456997629807" TEXT="&#x6839;&#x76ee;&#x5f55;&#x4e0b;&#x7684;&#x5176;&#x4ed6;&#x6587;&#x4ef6;">
 <node CREATED="1452764876893" FOLDED="true" ID="ID_1216908698" MODIFIED="1456830332652" TEXT="build.xml">
@@ -37617,8 +37652,8 @@
 <node CREATED="1452768571955" ID="ID_644966670" MODIFIED="1452768623145" TEXT="android {&#xa; ...&#xa;}&#xa;&#xa;android.buildTypes.each { type -&gt;&#xa;   type.packageNameSuffix = &quot;.$type.name&quot;&#xa;}"/>
 <node CREATED="1452768636600" ID="ID_243860316" MODIFIED="1452768662071" TEXT="&#x6839;&#x636e; buildtype &#x8bbe;&#x7f6e; package name"/>
 </node>
-<node CREATED="1452768734243" FOLDED="true" ID="ID_1653040957" MODIFIED="1456997629982" TEXT="Dependencies 14&apos;42">
-<node CREATED="1452769467837" FOLDED="true" ID="ID_242232442" MODIFIED="1456997629810" TEXT="&#x4f7f;&#x7528;&#x5e93;">
+<node CREATED="1452768734243" FOLDED="true" ID="ID_1653040957" MODIFIED="1457437204982" TEXT="Dependencies 14&apos;42">
+<node CREATED="1452769467837" FOLDED="true" ID="ID_242232442" MODIFIED="1457437156264" TEXT="&#x4f7f;&#x7528;&#x5e93;">
 <node CREATED="1452768820836" FOLDED="true" ID="ID_1164313265" MODIFIED="1456830332656" TEXT="Dependency Scopes: ">
 <node CREATED="1452768752806" FOLDED="true" ID="ID_1586651556" MODIFIED="1456830331260" TEXT="Java Projects">
 <node CREATED="1452768765980" ID="ID_254955151" MODIFIED="1452768771716" TEXT="compile"/>
@@ -37636,7 +37671,7 @@
 <node CREATED="1452768979625" ID="ID_1401806557" MODIFIED="1452768985564" TEXT="betaCompile/Package"/>
 </node>
 </node>
-<node CREATED="1452769052416" FOLDED="true" ID="ID_1395539975" MODIFIED="1456830332656" TEXT="Local Dependencies">
+<node CREATED="1452769052416" FOLDED="true" ID="ID_1395539975" MODIFIED="1457437156262" TEXT="Local Dependencies">
 <node CREATED="1452769059919" ID="ID_521869973" MODIFIED="1452769251075" TEXT="dependencies {&#xa; compile fileTree(dir: &apos;libs&apos;, include: &apos;*.jar&apos;)&#xa;}&#xa;&#xa;android {&#xa;... &#xa;}"/>
 <node CREATED="1452769253426" ID="ID_1594181468" MODIFIED="1452769269897" TEXT="&#x4f7f;&#x7528; libs &#x76ee;&#x5f55;&#x4e0b;&#x7684;&#x6240;&#x6709; .jar &#x6587;&#x4ef6;"/>
 </node>
@@ -37645,11 +37680,11 @@
 <node CREATED="1452769378396" ID="ID_1458761865" MODIFIED="1452769409322" TEXT="&#x544a;&#x77e5; &#x8981;&#x4f7f;&#x7528;&#x7684; repository &#x7684; url"/>
 </node>
 </node>
-<node CREATED="1452769483375" FOLDED="true" ID="ID_1275587064" MODIFIED="1456997629811" TEXT="projects &#x4e4b;&#x95f4;&#x7684;&#x4e92;&#x76f8;&#x5f15;&#x7528;">
-<node CREATED="1452769505759" FOLDED="true" ID="ID_1519395827" MODIFIED="1456830332657" TEXT="Multi-project Setup">
-<node CREATED="1452769515099" FOLDED="true" ID="ID_868297066" MODIFIED="1456830331262" TEXT="MyProjects/ ">
-<node CREATED="1452769526946" FOLDED="true" ID="ID_1291305131" MODIFIED="1456321594282" TEXT="settings.gradle">
-<node CREATED="1452769582198" FOLDED="true" ID="ID_121596060" MODIFIED="1456321594282" TEXT="&#x5185;&#x5bb9;">
+<node CREATED="1452769483375" FOLDED="true" ID="ID_1275587064" MODIFIED="1457437204981" TEXT="projects &#x4e4b;&#x95f4;&#x7684;&#x4e92;&#x76f8;&#x5f15;&#x7528;">
+<node CREATED="1452769505759" FOLDED="true" ID="ID_1519395827" MODIFIED="1457437204981" TEXT="Multi-project Setup">
+<node CREATED="1452769515099" FOLDED="true" ID="ID_868297066" MODIFIED="1457437204980" TEXT="MyProjects/ ">
+<node CREATED="1452769526946" FOLDED="true" ID="ID_1291305131" MODIFIED="1457437204979" TEXT="settings.gradle">
+<node CREATED="1452769582198" FOLDED="true" ID="ID_121596060" MODIFIED="1457437204978" TEXT="&#x5185;&#x5bb9;">
 <node CREATED="1452769585795" ID="ID_1266933928" MODIFIED="1452769629978" TEXT="include &apos;:/app&apos;&#xa;include &apos;:libraries:lib1&apos;&#xa;include &apos;:libraries:lib2&apos;"/>
 </node>
 </node>
@@ -37688,9 +37723,9 @@
 </node>
 <node CREATED="1452770236882" ID="ID_1316060404" MODIFIED="1452770242719" TEXT="Build Variants"/>
 </node>
-<node CREATED="1452771360719" FOLDED="true" ID="ID_1158511024" MODIFIED="1456997630052" TEXT="gradle.org">
-<node CREATED="1452771370687" FOLDED="true" ID="ID_1261474880" LINK="https://docs.gradle.org/current/userguide/userguide.html" MODIFIED="1456997629983" TEXT="User Guide">
-<node CREATED="1452771407914" FOLDED="true" ID="ID_661909843" LINK="https://docs.gradle.org/current/userguide/pt03.html" MODIFIED="1456997629811" TEXT="III. Writing Gradle build scripts">
+<node CREATED="1452771360719" FOLDED="true" ID="ID_1158511024" MODIFIED="1457437237895" TEXT="gradle.org">
+<node CREATED="1452771370687" FOLDED="true" ID="ID_1261474880" LINK="https://docs.gradle.org/current/userguide/userguide.html" MODIFIED="1457437237894" TEXT="User Guide">
+<node CREATED="1452771407914" FOLDED="true" ID="ID_661909843" LINK="https://docs.gradle.org/current/userguide/pt03.html" MODIFIED="1457437237893" TEXT="III. Writing Gradle build scripts">
 <node CREATED="1452772581707" FOLDED="true" ID="ID_662104747" LINK="https://docs.gradle.org/current/userguide/tutorial_using_tasks.html" MODIFIED="1456830332657" TEXT="14. Build Script Basics">
 <node CREATED="1452772636931" FOLDED="true" ID="ID_1079134328" MODIFIED="1456830331263" TEXT="14.1. Projects and tasks">
 <node CREATED="1452772648103" FOLDED="true" ID="ID_1893487122" MODIFIED="1456321594285" TEXT="&#x4e24;&#x4e2a; basic concepts">
@@ -37734,8 +37769,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1452771425306" FOLDED="true" ID="ID_516435263" LINK="https://docs.gradle.org/current/userguide/multi_project_builds.html" MODIFIED="1456830332658" TEXT="24. Multi-project Builds">
-<node CREATED="1452771544078" FOLDED="true" ID="ID_893815019" LINK="https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:cross_project_configuration" MODIFIED="1456830331264" TEXT="24.1. Cross project configuration">
+<node CREATED="1452771425306" FOLDED="true" ID="ID_516435263" LINK="https://docs.gradle.org/current/userguide/multi_project_builds.html" MODIFIED="1457437237892" TEXT="24. Multi-project Builds">
+<node CREATED="1452771544078" FOLDED="true" ID="ID_893815019" LINK="https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:cross_project_configuration" MODIFIED="1457437237891" TEXT="24.1. Cross project configuration">
 <node CREATED="1452771716985" FOLDED="true" ID="ID_1318093054" MODIFIED="1456321594288" TEXT="&#x7b80;&#x4ecb;">
 <node CREATED="1452771469026" FOLDED="true" ID="ID_1408020266" MODIFIED="1456321594287" TEXT="multi-project build&#xa;&#x5305;&#x542b;">
 <node CREATED="1452771484269" ID="ID_361728700" MODIFIED="1452771488488" TEXT="root project"/>
@@ -37743,14 +37778,14 @@
 </node>
 <node CREATED="1452771509472" ID="ID_988470822" MODIFIED="1452771664615" TEXT="&#x591a;&#x4e2a; subprojects &#x53ef;&#x80fd;&#x5171;&#x4eab;&#xa;configurations"/>
 </node>
-<node CREATED="1452771728946" FOLDED="true" ID="ID_282090056" MODIFIED="1456321594289" TEXT="24.1.2. Defining common behavior">
-<node CREATED="1452771767847" FOLDED="true" ID="ID_377458533" MODIFIED="1456321594289" TEXT="&#x4f8b;&#x5b50;  Multi-project tree - water &amp; bluewhale projects">
+<node CREATED="1452771728946" FOLDED="true" ID="ID_282090056" MODIFIED="1457437237891" TEXT="24.1.2. Defining common behavior">
+<node CREATED="1452771767847" FOLDED="true" ID="ID_377458533" MODIFIED="1457437237890" TEXT="&#x4f8b;&#x5b50;  Multi-project tree - water &amp; bluewhale projects">
 <node CREATED="1452771771177" ID="ID_1782650059" MODIFIED="1452771787605" TEXT="root project &#x540d;&#x4e3a; water&#xa;"/>
 <node CREATED="1452771788279" ID="ID_357669894" MODIFIED="1452771803626" TEXT="subproject &#xff1a; bluewhale"/>
-<node CREATED="1452771841146" FOLDED="true" ID="ID_1915767276" MODIFIED="1456321594289" TEXT="Build layout">
-<node CREATED="1452771861340" FOLDED="true" ID="ID_427487199" MODIFIED="1456321594288" TEXT="water/&#xa;  build.gradle&#xa;  settings.gradle&#xa;  bluewhale/">
-<node CREATED="1452771938067" FOLDED="true" ID="ID_1601597888" MODIFIED="1456321594288" TEXT="settings.gradle">
-<node CREATED="1452771942083" FOLDED="true" ID="ID_1466909265" MODIFIED="1456321594288" TEXT="&#x5185;&#x5bb9;">
+<node CREATED="1452771841146" FOLDED="true" ID="ID_1915767276" MODIFIED="1457437237889" TEXT="Build layout">
+<node CREATED="1452771861340" FOLDED="true" ID="ID_427487199" MODIFIED="1457437237887" TEXT="water/&#xa;  build.gradle&#xa;  settings.gradle&#xa;  bluewhale/">
+<node CREATED="1452771938067" FOLDED="true" ID="ID_1601597888" MODIFIED="1457437237886" TEXT="settings.gradle">
+<node CREATED="1452771942083" FOLDED="true" ID="ID_1466909265" MODIFIED="1457437237886" TEXT="&#x5185;&#x5bb9;">
 <node CREATED="1452771945153" ID="ID_403534524" MODIFIED="1452771946719" TEXT="include &apos;bluewhale&apos;"/>
 </node>
 </node>
