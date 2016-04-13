@@ -1,8 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node COLOR="#ff0000" CREATED="1418423514471" ID="ID_1850581778" MODIFIED="1457520382840" TEXT="Android Project">
-<node CREATED="1418981282447" ID="ID_1603616679" MODIFIED="1457601975953" POSITION="right" TEXT="projects">
-<node CREATED="1418981285945" ID="ID_1122925823" MODIFIED="1457520394425" TEXT="iVisit3D">
+<node CREATED="1418981282447" FOLDED="true" ID="ID_1603616679" MODIFIED="1460102322864" POSITION="right" TEXT="projects">
+<node CREATED="1418981285945" ID="ID_1122925823" MODIFIED="1460102322030" TEXT="iVisit3D">
 <node CREATED="1418981306746" FOLDED="true" ID="ID_1872786123" MODIFIED="1457520380690" TEXT="bugs">
 <node CREATED="1418981320200" FOLDED="true" ID="ID_1958258670" MODIFIED="1457520380689" TEXT="&#x5728; emulator &#x4e0a;&#xff0c;&#x4e0b;&#x8f7d; .pno &#x540e;&#xff0c;&#x6253;&#x4e0d;&#x5f00;&#xff0c;&#xa;&#x663e;&#x793a; Device not compatible with OpenGL ES 2.0">
 <node CREATED="1418981451450" FOLDED="true" ID="ID_1971980886" MODIFIED="1457520380688" TEXT="&#x5728; strings.xml &#x4e2d;&#x627e;&#x5230; message &#x5bf9;&#x5e94;&#x7684;&#x8d44;&#x6e90;&#xa;&lt;string name=&quot;message_opengles2_error&quot;&gt;&#xa;Device not compatible with OpenGL ES 2.0&lt;/string&gt;&#xa;">
@@ -18087,7 +18087,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435660554276" FOLDED="true" ID="ID_1446294098" MODIFIED="1457601974679" POSITION="right" TEXT="&#x5b66;&#x4e60;">
+<node CREATED="1435660554276" ID="ID_1446294098" MODIFIED="1460102325581" POSITION="right" TEXT="&#x5b66;&#x4e60;">
 <node CREATED="1418423514471" FOLDED="true" ID="ID_1530247130" MODIFIED="1457520381500" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423520471" FOLDED="true" ID="ID_1061945990" MODIFIED="1457520381427" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423530671" FOLDED="true" ID="ID_1813456615" MODIFIED="1457520381427" TEXT="&#x5de5;&#x5177;&#x548c;&#x57fa;&#x7840;">
@@ -31535,7 +31535,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435222543108" FOLDED="true" ID="ID_313758430" MODIFIED="1457601750674" TEXT="Android Developer Blog">
+<node CREATED="1435222543108" ID="ID_313758430" MODIFIED="1460102329674" TEXT="Android Developer Blog">
 <node CREATED="1434991355871" FOLDED="true" ID="ID_746380783" LINK="http://android-developers.blogspot.fr/2011/03/memory-analysis-for-android.html" MODIFIED="1457520382279" TEXT="Memory Analysis for &#xa;Android Applications">
 <node CREATED="1435007343214" FOLDED="true" ID="ID_1156368103" MODIFIED="1457520382274" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1435007349317" ID="ID_549535713" MODIFIED="1435007391434" TEXT="Dalvik runtime &#x53ef;&#x4ee5;&#x662f; garbage-collected&#xa;&#x4f46;&#x4e0d;&#x53ef;&#x4ee5;&#x5ffd;&#x89c6; memory management"/>
@@ -32028,10 +32028,10 @@
 <node CREATED="1454491912749" ID="ID_376627486" LINK="https://developers.google.com/cardboard/unity/guide?utm_campaign=cardboard_discussion_spatialaudio_011316&amp;utm_source=anddev&amp;utm_medium=blog#spatial_audio_for_vr" MODIFIED="1454491937792" TEXT="&#x6587;&#x6863;"/>
 <node CREATED="1454491960866" ID="ID_1060051655" LINK="https://github.com/googlesamples/cardboard-unity/blob/master/Samples/SpatialAudio/AudioSpaces.apk?raw=true" MODIFIED="1454491970628" TEXT="sample"/>
 </node>
-<node CREATED="1454492032100" FOLDED="true" ID="ID_704512624" LINK="http://android-developers.blogspot.fr/2016/02/marshmallow-and-user-data.html" MODIFIED="1457520382344" TEXT="Marshmallow and User Data">
-<node CREATED="1454492260978" FOLDED="true" ID="ID_1548690314" MODIFIED="1457520382342" TEXT="Permission Changes">
-<node CREATED="1454492278754" FOLDED="true" ID="ID_448761815" MODIFIED="1457520382342" TEXT="permissions have moved from &#xa;install-time to runtime">
-<node CREATED="1454492302572" FOLDED="true" ID="ID_889162889" MODIFIED="1457520382342" TEXT=" SDK 23+&#x8be5;&#x8f6c;&#x53d8;&#x662f;&#x5f3a;&#x5236;&#x6027;&#x7684;">
+<node CREATED="1454492032100" ID="ID_704512624" LINK="http://android-developers.blogspot.fr/2016/02/marshmallow-and-user-data.html" MODIFIED="1460109963160" TEXT="Marshmallow and User Data">
+<node CREATED="1454492260978" ID="ID_1548690314" MODIFIED="1460109964560" TEXT="Permission Changes">
+<node CREATED="1454492278754" ID="ID_448761815" MODIFIED="1460109969052" TEXT="permissions have moved from &#xa;install-time to runtime">
+<node CREATED="1454492302572" ID="ID_889162889" MODIFIED="1460109971820" TEXT=" SDK 23+&#x8be5;&#x8f6c;&#x53d8;&#x662f;&#x5f3a;&#x5236;&#x6027;&#x7684;">
 <node CREATED="1454492329932" ID="ID_1296249923" MODIFIED="1454492363485" TEXT="target &#x662f; 6.0 &#x7684; application &#xa;&#x90fd;&#x53d7;&#x5f71;&#x54cd;"/>
 </node>
 </node>
@@ -33556,7 +33556,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1457428042399" ID="ID_955770243" MODIFIED="1457536547218" TEXT="material design">
+<node CREATED="1457428042399" FOLDED="true" ID="ID_955770243" MODIFIED="1460102332597" TEXT="material design">
 <node CREATED="1457428062040" FOLDED="true" ID="ID_1428826862" LINK="http://android-developers.blogspot.fr/2014/10/implementing-material-design-in-your.html" MODIFIED="1457520382472" TEXT="Implementing Material Design in Your Android app">
 <node CREATED="1457428094037" FOLDED="true" ID="ID_1290561778" MODIFIED="1457520382455" TEXT="&#x7b80;&#x4ecb;">
 <node CREATED="1457428102263" ID="ID_1288129114" MODIFIED="1457428112432" TEXT="Android 5.0 Lollipop and the &#xa;updated support libraries help&#xa; you to create material UIs"/>
@@ -33819,6 +33819,62 @@
 </node>
 </node>
 </node>
+</node>
+<node CREATED="1460102336671" ID="ID_190513636" MODIFIED="1460102342635" TEXT="A new method to measure&#xa; touch and audio latency">
+<node CREATED="1460102438267" FOLDED="true" ID="ID_1504828096" LINK="https://github.com/google/walt" MODIFIED="1460102885948" TEXT="WALT Latency Timer">
+<node CREATED="1460102391499" ID="ID_1329365027" MODIFIED="1460102421516" TEXT="Android &#x548c; ChromeOS &#x56e2;&#x961f;&#x4f7f;&#x7528;&#xa;&#x7684; instruments &#x7684;&#x4e00;&#x90e8;&#x5206;"/>
+<node CREATED="1460102457125" ID="ID_916100219" MODIFIED="1460102460073" TEXT="to measure and minimize touch and audio latency"/>
+</node>
+<node CREATED="1460102517655" ID="ID_1813919401" MODIFIED="1460102522707" TEXT="When you use a mobile device, you expect&#xa; it to respond instantly to your touch or voice"/>
+<node CREATED="1460102559788" FOLDED="true" ID="ID_1695507260" MODIFIED="1460102882157" TEXT="Before we can reduce latency, we must &#xa;first understand where it comes from">
+<node CREATED="1460102571717" FOLDED="true" ID="ID_690896587" MODIFIED="1460102693511" TEXT="In the case of tapping a touchscreen,&#xa;the time for a response includes">
+<node CREATED="1460102623224" ID="ID_1228427540" MODIFIED="1460102623821" TEXT=" the touch-sensing hardware and driver"/>
+<node CREATED="1460102627151" ID="ID_562727708" MODIFIED="1460102632672" TEXT="the application"/>
+<node CREATED="1460102649315" ID="ID_394946863" MODIFIED="1460102650034" TEXT=" the display and graphics output"/>
+</node>
+<node CREATED="1460102673482" FOLDED="true" ID="ID_1691486178" MODIFIED="1460102821379" TEXT="For a voice command,">
+<node CREATED="1460102680042" ID="ID_1750077494" MODIFIED="1460102681158" TEXT=" sampling input audio"/>
+<node CREATED="1460102684205" ID="ID_913642838" MODIFIED="1460102684574" TEXT="the application"/>
+<node CREATED="1460102690584" ID="ID_640359223" MODIFIED="1460102690920" TEXT="audio output"/>
+</node>
+<node CREATED="1460102817147" FOLDED="true" ID="ID_826153206" MODIFIED="1460102820096" TEXT="mixture">
+<node CREATED="1460102722232" ID="ID_528008738" MODIFIED="1460102723029" TEXT="example">
+<node CREATED="1460102731391" ID="ID_1000894748" MODIFIED="1460102760180" TEXT="a piano app include">
+<node CREATED="1460102801091" ID="ID_859174324" MODIFIED="1460102801640" TEXT="touch input"/>
+<node CREATED="1460102805907" ID="ID_1346688396" MODIFIED="1460102806209" TEXT=" audio output"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1460102886902" FOLDED="true" ID="ID_359582655" MODIFIED="1460103337520" TEXT="Most previous work to study latency has &#xa;focused on measuring &#xa;a single round-trip latency number">
+<node CREATED="1460102905084" FOLDED="true" ID="ID_1247075855" MODIFIED="1460103310326" TEXT="example">
+<node CREATED="1460102912207" ID="ID_911857775" MODIFIED="1460102913207" TEXT="to measure audio latency">
+<node CREATED="1460102948300" ID="ID_953708362" MODIFIED="1460102990975" TEXT="an app would measure time from app to &#xa;speaker/mic and back to the app using the &#xa;Dr. Rick O&apos;Rang loopback audio dongle &#xa;together with&#xa; an appropriate app such as the&#xa; Dr Rick O&#x2019;Rang Loopback app or&#xa; Superpowered Mobile Audio Latency Test App. ">
+<node CREATED="1460102999571" ID="ID_1481104741" LINK="https://source.android.com/devices/audio/loopback.html" MODIFIED="1460103005740" TEXT="Dr. Rick O&apos;Rang loopback audio dongle"/>
+<node CREATED="1460103206365" ID="ID_104243565" LINK="https://github.com/gkasten/drrickorang/" MODIFIED="1460103221851" TEXT="Dr Rick O&#x2019;Rang Loopback app"/>
+<node CREATED="1460103231387" ID="ID_1099223415" LINK="http://superpowered.com/latency" MODIFIED="1460103241393" TEXT="Superpowered Mobile Audio Latency Test App"/>
+</node>
+</node>
+<node CREATED="1460103279553" ID="ID_1389999384" MODIFIED="1460103286539" TEXT="the TouchBot uses a fast camera to measure&#xa; the round-trip delay from physical touch until&#xa; a change on the screen is visible. ">
+<node CREATED="1460103290972" ID="ID_120493487" LINK="https://plus.google.com/+FrancoisBeaufort/posts/EpRgWK4XCz6" MODIFIED="1460103295790" TEXT="TouchBot"/>
+</node>
+</node>
+<node CREATED="1460103316805" ID="ID_1467480028" MODIFIED="1460103317417" TEXT="problem">
+<node CREATED="1460103324557" ID="ID_202506862" MODIFIED="1460103329360" TEXT="difficult to break down the latency into &#xa;input vs output components"/>
+</node>
+</node>
+<node CREATED="1460103344583" ID="ID_124885985" MODIFIED="1460103345661" TEXT="innovation in WALT">
+<node CREATED="1460103356239" ID="ID_51221340" MODIFIED="1460103356823" TEXT=" WALT (a descendant of QuickStep) ">
+<node CREATED="1460103361212" ID="ID_522968675" LINK="https://plus.google.com/+FrancoisBeaufort/posts/XctAif2nv4U" MODIFIED="1460103365907" TEXT="QuickStep"/>
+</node>
+<node CREATED="1460103400152" ID="ID_762772340" MODIFIED="1460103408703" TEXT="synchronizes an external hardware clock &#xa;with the Android device or Chromebook &#xa;to within a millisecond">
+<node CREATED="1460103431891" ID="ID_1967601020" MODIFIED="1460103437134" TEXT="This allows it to measure input&#xa; and output latencies separately"/>
+</node>
+</node>
+<node CREATED="1460103473183" ID="ID_491839713" LINK="http://github.com/google/walt/blob/master/hardware/README.md" MODIFIED="1460103479758" TEXT="build it yourself.">
+<node CREATED="1460103456779" ID="ID_220589633" MODIFIED="1460103457485" TEXT="The parts cost less than $50"/>
+</node>
+<node CREATED="1460103497788" ID="ID_817222369" MODIFIED="1460103501895" TEXT="We&#x2019;ve been using WALT within Google for &#xa;Nexus and Chromebook development"/>
 </node>
 </node>
 <node CREATED="1456910832649" FOLDED="true" ID="ID_199538088" MODIFIED="1457520382476" TEXT="googledeveloper blog">
