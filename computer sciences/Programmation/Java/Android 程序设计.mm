@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#ff0000" CREATED="1418423514471" ID="ID_1850581778" MODIFIED="1460546702343" TEXT="Android Project">
-<node CREATED="1418981282447" ID="ID_1603616679" MODIFIED="1460546706909" POSITION="right" TEXT="projects">
+<node COLOR="#ff0000" CREATED="1418423514471" ID="ID_1850581778" MODIFIED="1460550888317" TEXT="Android Project">
+<node CREATED="1418981282447" FOLDED="true" ID="ID_1603616679" MODIFIED="1460546951488" POSITION="right" TEXT="projects">
 <node CREATED="1418981285945" ID="ID_1122925823" MODIFIED="1458642492425" TEXT="iVisit3D">
 <node CREATED="1418981306746" FOLDED="true" ID="ID_1872786123" MODIFIED="1458642497195" TEXT="bugs">
 <node CREATED="1418981320200" ID="ID_1958258670" MODIFIED="1458041167951" TEXT="&#x5728; emulator &#x4e0a;&#xff0c;&#x4e0b;&#x8f7d; .pno &#x540e;&#xff0c;&#x6253;&#x4e0d;&#x5f00;&#xff0c;&#xa;&#x663e;&#x793a; Device not compatible with OpenGL ES 2.0">
@@ -18101,7 +18101,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435660554276" ID="ID_1446294098" MODIFIED="1460546435114" POSITION="right" TEXT="&#x5b66;&#x4e60;">
+<node CREATED="1435660554276" ID="ID_1446294098" MODIFIED="1460621465027" POSITION="right" TEXT="&#x5b66;&#x4e60;">
 <node CREATED="1418423514471" FOLDED="true" ID="ID_1530247130" MODIFIED="1458552264532" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423520471" ID="ID_1061945990" MODIFIED="1458041169090" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423530671" ID="ID_1813456615" MODIFIED="1458041169091" TEXT="&#x5de5;&#x5177;&#x548c;&#x57fa;&#x7840;">
@@ -19497,8 +19497,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1418425034962" ID="ID_987499775" LINK="http://developer.android.com/" MODIFIED="1460546302429" TEXT="android &#x7a0b;&#x5e8f;&#x5458;&#x5f00;&#x53d1;&#x7f51;&#x7ad9;">
-<node CREATED="1418425447009" FOLDED="true" ID="ID_77937301" MODIFIED="1460414170218" TEXT="About">
+<node CREATED="1418425034962" ID="ID_987499775" LINK="http://developer.android.com/" MODIFIED="1460624033802" TEXT="android &#x7a0b;&#x5e8f;&#x5458;&#x5f00;&#x53d1;&#x7f51;&#x7ad9;">
+<node CREATED="1418425447009" FOLDED="true" ID="ID_77937301" MODIFIED="1460624078790" TEXT="About">
 <node CREATED="1418425452680" ID="ID_1407088298" MODIFIED="1458041169387" TEXT="Welcom">
 <node CREATED="1418425460589" ID="ID_34783863" MODIFIED="1458041169388" TEXT="android, &#x4e16;&#x4e0a;&#x6700;&#x6d41;&#x884c;">
 <node CREATED="1418425484867" ID="ID_686637716" MODIFIED="1418425485558" TEXT="190 countries"/>
@@ -19677,9 +19677,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1418565860368" FOLDED="true" ID="ID_614402683" MODIFIED="1460546446702" TEXT="Develop">
-<node CREATED="1418565868056" FOLDED="true" ID="ID_1548436771" MODIFIED="1460369633240" TEXT="Tools">
-<node CREATED="1432550536232" ID="ID_1457498735" LINK="http://developer.android.com/tools/workflow/index.html" MODIFIED="1458041169446" TEXT="Workflow">
+<node CREATED="1418565860368" ID="ID_614402683" MODIFIED="1460624047562" TEXT="Develop">
+<node CREATED="1418565868056" ID="ID_1548436771" MODIFIED="1460624050408" TEXT="Tools">
+<node CREATED="1432550536232" FOLDED="true" ID="ID_1457498735" LINK="http://developer.android.com/tools/workflow/index.html" MODIFIED="1460624059056" TEXT="Workflow">
 <node CREATED="1439210475114" ID="ID_1003806711" LINK="http://developer.android.com/tools/devices/index.html" MODIFIED="1458552218343" TEXT="Using Hardeware Devices">
 <node CREATED="1439210514061" FOLDED="true" ID="ID_151882376" LINK="http://developer.android.com/tools/extras/oem-usb.html" MODIFIED="1458552236731" TEXT="USB Drivers">
 <node CREATED="1439210064935" FOLDED="true" ID="ID_1354404685" LINK="http://developer.android.com/tools/extras/oem-usb.html" MODIFIED="1458041173422" TEXT="&#x9700;&#x8981;&#x5b89;&#x88c5; OEM USB Drivers&#xa;(Original equipment manufactures)">
@@ -20961,8 +20961,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1432286434931" ID="ID_1163616698" LINK="http://developer.android.com/tools/help/index.html" MODIFIED="1458039712023" TEXT="Tools Help">
-<node CREATED="1439997790679" ID="ID_384578957" LINK="https://developer.android.com/tools/help/index.html#tools-sdk" MODIFIED="1458552218417" TEXT="Tools Help">
+<node CREATED="1432286434931" ID="ID_1163616698" LINK="http://developer.android.com/tools/help/index.html" MODIFIED="1460624083458" TEXT="Tools Help">
+<node CREATED="1439997790679" FOLDED="true" ID="ID_384578957" LINK="https://developer.android.com/tools/help/index.html#tools-sdk" MODIFIED="1460624087070" TEXT="Tools Help">
 <node CREATED="1439997806240" FOLDED="true" ID="ID_1767597517" MODIFIED="1458552236740" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1439997817548" FOLDED="true" ID="ID_542839278" MODIFIED="1458041173429" TEXT="Android SDK &#x63d0;&#x4f9b;&#x7684; tools&#x5206;&#x4e3a;&#x4e24;&#x7c7b;">
 <node CREATED="1439997857191" FOLDED="true" ID="ID_1910319066" MODIFIED="1458041173201" TEXT=" SDK tools ">
@@ -20991,7 +20991,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1432286450737" ID="ID_1070631656" LINK="http://developer.android.com/tools/help/proguard.html" MODIFIED="1458552218424" TEXT="ProGuard">
+<node CREATED="1432286450737" FOLDED="true" ID="ID_1070631656" LINK="http://developer.android.com/tools/help/proguard.html" MODIFIED="1460624086541" TEXT="ProGuard">
 <node CREATED="1432286465812" ID="ID_1320090189" LINK="http://proguard.sourceforge.net/" MODIFIED="1432286518629" TEXT="&#x5f00;&#x6e90;&#x8f6f;&#x4ef6; ProGuard"/>
 <node CREATED="1432286496736" FOLDED="true" ID="ID_1936609070" MODIFIED="1458552236740" TEXT="&#x63cf;&#x8ff0;">
 <node CREATED="1432286547564" FOLDED="true" ID="ID_1281012952" MODIFIED="1458041173429" TEXT="&#x529f;&#x80fd; shrinks, optimizes, &#xa;and obfuscates your code ">
@@ -21093,7 +21093,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1432550085769" ID="ID_972199439" LINK="http://developer.android.com/tools/help/lint.html" MODIFIED="1458552218455" TEXT="lint">
+<node CREATED="1432550085769" FOLDED="true" ID="ID_972199439" LINK="http://developer.android.com/tools/help/lint.html" MODIFIED="1460624086012" TEXT="lint">
 <node CREATED="1432550097355" FOLDED="true" ID="ID_1248516856" MODIFIED="1458552236746" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1432550105963" FOLDED="true" ID="ID_506475391" MODIFIED="1458041173431" TEXT="static code analysis tool">
 <node CREATED="1432550110779" FOLDED="true" ID="ID_1334207793" MODIFIED="1458041173209" TEXT="&#x68c0;&#x67e5; Android project &#x7684; source files for">
@@ -21247,7 +21247,7 @@
 </node>
 <node CREATED="1433404900352" ID="ID_932228356" LINK="#ID_354038426" MODIFIED="1433404915432" TEXT="&#x53c2;&#x8003; Improving Your Code with lint"/>
 </node>
-<node CREATED="1432590456877" ID="ID_1132220424" LINK="http://developer.android.com/tools/help/adb.html" MODIFIED="1458552218473" TEXT="Android Debug Bridge">
+<node CREATED="1432590456877" FOLDED="true" ID="ID_1132220424" LINK="http://developer.android.com/tools/help/adb.html" MODIFIED="1460624088781" TEXT="Android Debug Bridge">
 <node CREATED="1432671607005" FOLDED="true" ID="ID_122518677" MODIFIED="1458552236749" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1432671610584" ID="ID_904875577" MODIFIED="1432671621524" TEXT="&#x7b80;&#x5199; adb"/>
 <node CREATED="1432671626713" FOLDED="true" ID="ID_1797471872" MODIFIED="1458041173431" TEXT="command line tool, &#x7528;&#x4e8e;&#x548c; ... &#x4ea4;&#x6d41;">
@@ -21570,7 +21570,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435068788197" ID="ID_1981894672" LINK="http://developer.android.com/tools/help/gltracer.html" MODIFIED="1458552218524" TEXT="Tracer for OpenGL ES">
+<node CREATED="1435068788197" FOLDED="true" ID="ID_1981894672" LINK="http://developer.android.com/tools/help/gltracer.html" MODIFIED="1460624090310" TEXT="Tracer for OpenGL ES">
 <node CREATED="1435068811928" FOLDED="true" ID="ID_783398102" MODIFIED="1458552236755" TEXT="&#x63cf;&#x8ff0;">
 <node CREATED="1435068819039" ID="ID_59915995" MODIFIED="1435068871417" TEXT="&#x7528;&#x4e8e;&#x5206;&#x6790; OpenGL for Embeded&#xa;System (ES)  &#x4ee3;&#x7801;"/>
 <node CREATED="1435068872728" FOLDED="true" ID="ID_1239907684" MODIFIED="1458041173433" TEXT="&#x529f;&#x80fd;">
@@ -21589,7 +21589,7 @@
 </node>
 <node CREATED="1435069242286" ID="ID_1452119672" MODIFIED="1435069242690" TEXT="Generating a Trace"/>
 </node>
-<node CREATED="1435069034701" ID="ID_1493775315" LINK="http://developer.android.com/tools/help/monitor.html" MODIFIED="1458552218542" TEXT="Device Monitor">
+<node CREATED="1435069034701" FOLDED="true" ID="ID_1493775315" LINK="http://developer.android.com/tools/help/monitor.html" MODIFIED="1460624089792" TEXT="Device Monitor">
 <node CREATED="1435069064912" FOLDED="true" ID="ID_1857893390" MODIFIED="1458552236756" TEXT="&#x63cf;&#x8ff0;">
 <node CREATED="1435069070457" FOLDED="true" ID="ID_952960953" MODIFIED="1458041173433" TEXT="&#x7efc;&#x5408;&#x4e86;&#x591a;&#x4e2a; Android application&#xa;debugging &#x548c; analysis tools">
 <node CREATED="1435069133087" ID="ID_794861251" MODIFIED="1435069137966" TEXT="DDMS"/>
@@ -21605,8 +21605,28 @@
 </node>
 </node>
 </node>
+<node CREATED="1460624091490" ID="ID_170660647" LINK="http://developer.android.com/tools/help/hierarchy-viewer.html" MODIFIED="1460624104768" TEXT="Hierarchy Viewer">
+<node CREATED="1460624110447" FOLDED="true" ID="ID_888224553" MODIFIED="1460625277099" TEXT="&#x4ecb;&#x7ecd;">
+<node CREATED="1460624129200" ID="ID_101979289" MODIFIED="1460624149335" TEXT="Hierarchy Viewer provides">
+<node CREATED="1460624154978" ID="ID_1183078149" MODIFIED="1460624159186" TEXT="a visual representation of the layout&apos;s&#xa; View hierarchy (the Layout View) "/>
+<node CREATED="1460624164362" ID="ID_1200957782" MODIFIED="1460624168704" TEXT="a magnified inspector of the display&#xa; (the Pixel Perfect View)."/>
 </node>
-<node CREATED="1441117286283" ID="ID_1569155838" LINK="https://developer.android.com/sdk/installing/studio-build.html" MODIFIED="1458041169675" TEXT="Build System">
+<node CREATED="1460624180470" ID="ID_1297544557" MODIFIED="1460624192542" TEXT="&#x4f7f;&#x7528;">
+<node CREATED="1460624209425" ID="ID_108543789" MODIFIED="1460624214347" TEXT="&#x542f;&#x52a8; Android Device Monitor ">
+<node CREATED="1460624200067" ID="ID_1045098007" MODIFIED="1460624244882" TEXT="Android Studio, choose Tools &gt; &#xa;Android Device Monitor "/>
+<node CREATED="1460624257313" ID="ID_1121318144" MODIFIED="1460624265807" TEXT="From the SDK tools/ directory, enter:&#xa;monitor"/>
+</node>
+<node CREATED="1460624277434" ID="ID_208720347" LINK="#ID_1247106252" MODIFIED="1460625274394" TEXT="&#x5982;&#x4f55;&#x4f7f;&#x7528; Hierarchy Viewer, see Optimizing Your UI"/>
+</node>
+</node>
+<node CREATED="1460625263436" ID="ID_1247106252" LINK="http://developer.android.com/tools/debugging/debugging-ui.html" MODIFIED="1460625267526" TEXT="Optimizing Your UI ">
+<node CREATED="1460625197101" ID="ID_1015600359" MODIFIED="1460625206552" TEXT="Related videos">
+<node CREATED="1460625207014" ID="ID_112070734" LINK="https://www.youtube.com/watch?v=PAgE7saQUUY" MODIFIED="1460625213596" TEXT="Hierarchyviewer"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1441117286283" FOLDED="true" ID="ID_1569155838" LINK="https://developer.android.com/sdk/installing/studio-build.html" MODIFIED="1460624057424" TEXT="Build System">
 <node CREATED="1441199938504" ID="ID_1045481365" LINK="https://developer.android.com/sdk/installing/studio-build.html" MODIFIED="1458552218566" TEXT="Build System Overview">
 <node CREATED="1441199990545" FOLDED="true" ID="ID_759707622" MODIFIED="1458552236757" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1441200000980" FOLDED="true" ID="ID_1210415919" MODIFIED="1458041173434" TEXT="&#x8fd0;&#x884c; build system ">
@@ -21719,7 +21739,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1432548494497" ID="ID_1139752897" LINK="https://developer.android.com/tools/help/adt.html" MODIFIED="1458041169697" TEXT="Eclipse with ADT">
+<node CREATED="1432548494497" FOLDED="true" ID="ID_1139752897" LINK="https://developer.android.com/tools/help/adt.html" MODIFIED="1460624052970" TEXT="Eclipse with ADT">
 <node CREATED="1441110203778" ID="ID_594701136" LINK="https://developer.android.com/sdk/installing/migrate.html" MODIFIED="1458552218633" TEXT="Migrating from Eclipse ADT">
 <node CREATED="1441110210935" FOLDED="true" ID="ID_1980640517" MODIFIED="1458552236768" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1441110217032" ID="ID_135893168" MODIFIED="1441110347805" TEXT="Android Studio &#x63d0;&#x4f9b; import tool&#xa;&#x5c06; Eclipse ADT workspace &#x548c; Ant&#xa;build script &#x8f6c;&#x6362;&#x6210; Android Studio&#xa;projects &#x548c; Gradle-based build files"/>
@@ -22426,7 +22446,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1418566139341" ID="ID_1174393128" LINK="http://developer.android.com/tools/studio/index.html" MODIFIED="1458041169780" TEXT="Android Studio">
+<node CREATED="1418566139341" FOLDED="true" ID="ID_1174393128" LINK="http://developer.android.com/tools/studio/index.html" MODIFIED="1460624053678" TEXT="Android Studio">
 <node CREATED="1418574170088" ID="ID_10878821" MODIFIED="1458552218723" TEXT="Overview">
 <node CREATED="1418566239021" FOLDED="true" ID="ID_1276696029" MODIFIED="1458552236803" TEXT="&#x7279;&#x6027;">
 <node CREATED="1418566145934" FOLDED="true" ID="ID_643000973" MODIFIED="1458041173441" TEXT="Intelligent code editor">
@@ -22750,7 +22770,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1418661878036" ID="ID_174869277" MODIFIED="1458041169822" TEXT="Migrating to Android Studio">
+<node CREATED="1418661878036" FOLDED="true" ID="ID_174869277" MODIFIED="1460624054127" TEXT="Migrating to Android Studio">
 <node CREATED="1418661914013" ID="ID_554806047" MODIFIED="1458552218769" TEXT="Android studio &#x6b22;&#x8fce;&#x754c;&#x9762;">
 <node CREATED="1418661933393" ID="ID_1233115306" MODIFIED="1418661947827" TEXT="import Non-Android studio project"/>
 <node CREATED="1418661957695" FOLDED="true" ID="ID_68538451" MODIFIED="1458552236807" TEXT="&#x627e;&#x5230;&#x4ece; Eclipse &#x5f97;&#x5230;&#x7684;  project">
@@ -22759,7 +22779,7 @@
 <node CREATED="1418662060314" ID="ID_1318561148" MODIFIED="1418662060314" TEXT=""/>
 </node>
 </node>
-<node CREATED="1418662938766" ID="ID_102003664" MODIFIED="1458041169826" TEXT="Android NDK">
+<node CREATED="1418662938766" FOLDED="true" ID="ID_102003664" MODIFIED="1460624054736" TEXT="Android NDK">
 <node CREATED="1418662947676" ID="ID_916203276" MODIFIED="1458552218774" TEXT="&#x7528; C / C++ &#x5f00;&#x53d1; Android">
 <node CREATED="1418662969523" ID="ID_660958170" MODIFIED="1418662981645" TEXT="&#x53ef;&#x4ee5;&#x4f7f;&#x7528; C/C++ &#x5e93;"/>
 </node>
@@ -22881,7 +22901,7 @@
 </node>
 <node CREATED="1423065709858" ID="ID_320045412" LINK="http://jgilfelt.github.io/android-actionbarstylegenerator/#name=example&amp;compat=holo&amp;theme=light&amp;actionbarstyle=solid&amp;texture=0&amp;hairline=0&amp;neutralPressed=1&amp;backColor=E4E4E4%2C100&amp;secondaryColor=D6D6D6%2C100&amp;tabColor=33B5E5%2C100&amp;tertiaryColor=F2F2F2%2C100&amp;accentColor=33B5E5%2C100&amp;cabBackColor=FFFFFF%2C100&amp;cabHighlightColor=33B5E5%2C100" MODIFIED="1423065725731" TEXT="Android Action Bar Style Generator"/>
 <node CREATED="1423065750757" ID="ID_721281982" LINK="http://romannurik.github.io/AndroidAssetStudio/" MODIFIED="1423065758001" TEXT="all"/>
-<node CREATED="1434098983278" ID="ID_1118068088" LINK="https://developer.android.com/tools/support-library/index.html" MODIFIED="1458041169849" TEXT="Support Library">
+<node CREATED="1434098983278" FOLDED="true" ID="ID_1118068088" LINK="https://developer.android.com/tools/support-library/index.html" MODIFIED="1460624062386" TEXT="Support Library">
 <node CREATED="1456845978491" ID="ID_1692228155" LINK="http://developer.android.com/tools/support-library/index.html" MODIFIED="1458552218814" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1456846091330" FOLDED="true" ID="ID_592482975" MODIFIED="1458552236811" TEXT="&#x524d;&#x8a00;">
 <node CREATED="1456846023164" FOLDED="true" ID="ID_1060007615" MODIFIED="1458041173445" TEXT="Support Library provide ">
@@ -23163,7 +23183,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1436215878144" ID="ID_756148422" LINK="https://developer.android.com/tools/workflow/index.html" MODIFIED="1458041169890" TEXT="Workflow">
+<node CREATED="1436215878144" FOLDED="true" ID="ID_756148422" LINK="https://developer.android.com/tools/workflow/index.html" MODIFIED="1460624063230" TEXT="Workflow">
 <node CREATED="1452676932397" ID="ID_1415598255" LINK="http://developer.android.com/tools/projects/index.html" MODIFIED="1458552218881" TEXT="Managing Projects">
 <node CREATED="1452677230907" FOLDED="true" ID="ID_29646617" LINK="http://developer.android.com/tools/projects/index.html" MODIFIED="1458552236819" TEXT="Managing Projects Overview">
 <node CREATED="1452677357360" FOLDED="true" ID="ID_1944363141" MODIFIED="1458041173448" TEXT="&#x7b80;&#x4ecb;">
@@ -23332,7 +23352,7 @@
 </node>
 <node CREATED="1435698847755" ID="ID_157182383" LINK="https://developer.android.com/sdk/index.html" MODIFIED="1435698862134" TEXT="Download"/>
 </node>
-<node CREATED="1418578203298" ID="ID_1117256243" MODIFIED="1457087511523" TEXT="Training">
+<node CREATED="1418578203298" FOLDED="true" ID="ID_1117256243" MODIFIED="1460624048852" TEXT="Training">
 <node CREATED="1418578207903" FOLDED="true" ID="ID_753933996" MODIFIED="1460369630072" TEXT="Getting Started">
 <node CREATED="1418578214406" ID="ID_1156951077" MODIFIED="1458552218905" TEXT="Building your Firs App">
 <node CREATED="1418578329232" FOLDED="true" ID="ID_1870106393" MODIFIED="1458552236820" TEXT="Creating an Android Project">
@@ -23817,7 +23837,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1419184524328" ID="ID_874133734" LINK="http://developer.android.com/training/basics/supporting-devices/platforms.html" MODIFIED="1460546302521" TEXT="supporting different platform version">
+<node CREATED="1419184524328" FOLDED="true" ID="ID_874133734" LINK="http://developer.android.com/training/basics/supporting-devices/platforms.html" MODIFIED="1460550744898" TEXT="supporting different platform version">
 <node CREATED="1419184545162" ID="ID_169931531" LINK="http://developer.android.com/about/dashboards/index.html" MODIFIED="1458552218961" TEXT="Dashboraods">
 <node CREATED="1419184628804" FOLDED="true" ID="ID_1977138625" MODIFIED="1458552236826" TEXT="&#x53cd;&#x6620;&#x8fd0;&#x884c;Google Play Store app &#x7684; devices &#x7684;&#x6570;&#x636e;">
 <node CREATED="1419184730363" FOLDED="true" ID="ID_693440164" MODIFIED="1458041173450" TEXT="Google Play install Stats">
@@ -24424,8 +24444,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1460369651771" ID="ID_1317365608" LINK="http://developer.android.com/training/permissions/index.html" MODIFIED="1460369664520" TEXT="Working with System Permissions">
-<node CREATED="1460369676433" ID="ID_1998416525" LINK="https://www.youtube.com/watch?v=f17qe9vZ8RM" MODIFIED="1460546046855" TEXT="Google I/O 2015 - Android M Permissions">
+<node CREATED="1460369651771" ID="ID_1317365608" LINK="http://developer.android.com/training/permissions/index.html" MODIFIED="1460553351902" TEXT="Working with System Permissions">
+<node CREATED="1460369676433" FOLDED="true" ID="ID_1998416525" LINK="https://www.youtube.com/watch?v=f17qe9vZ8RM" MODIFIED="1460550749511" TEXT="Google I/O 2015 - Android M Permissions">
 <node CREATED="1460369697112" FOLDED="true" ID="ID_1409614876" MODIFIED="1460369834705" TEXT="Permissions today">
 <node CREATED="1460369702291" ID="ID_1560972554" MODIFIED="1460369711340" TEXT="Users == limited control"/>
 <node CREATED="1460369742569" ID="ID_835358758" MODIFIED="1460369749459" TEXT="Install friction == high"/>
@@ -24454,7 +24474,7 @@
 <node CREATED="1460376599854" ID="ID_1172873369" MODIFIED="1460376683689" TEXT="available any time after app installation "/>
 </node>
 </node>
-<node CREATED="1460389763102" ID="ID_1702687444" MODIFIED="1460546046877" TEXT="Best practice for the developer">
+<node CREATED="1460389763102" FOLDED="true" ID="ID_1702687444" MODIFIED="1460546975057" TEXT="Best practice for the developer">
 <node CREATED="1460389774226" ID="ID_1332395949" MODIFIED="1460546046886" TEXT="The new permissions models&#xa;shouldn&apos;t feel like a gamble(&#x8d4c;&#x535a;)&#xa;- to you, or your users&#xa;">
 <node CREATED="1460389869359" ID="ID_1760892277" MODIFIED="1460389887212" TEXT="The key is to make permissions&#xa;appear predictably">
 <node CREATED="1460389905724" FOLDED="true" ID="ID_1676116349" MODIFIED="1460390030134" TEXT="Consider providing a &apos;warm welcome&apos;&#xa;on first launch">
@@ -24524,7 +24544,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1460369669706" ID="ID_1884854828" MODIFIED="1460413459148" TEXT="&#x4ecb;&#x7ecd;">
+<node CREATED="1460369669706" FOLDED="true" ID="ID_1884854828" MODIFIED="1460550848146" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1460413147450" ID="ID_1523677371" MODIFIED="1460413180346" TEXT="Android runs each app in a limited access sandbox&#x3002;&#xa;If the app wants to use resources or information &#xa;outside of its sandbox, the app has to explicitly &#xa;request permission. "/>
 <node CREATED="1460413196931" FOLDED="true" ID="ID_1693636568" MODIFIED="1460413459991" TEXT="Depending on the type of permission the&#xa; app requests, ">
 <node CREATED="1460413215771" ID="ID_447703328" MODIFIED="1460413218690" TEXT=" the system may grant the &#xa;permission automatically,"/>
@@ -24532,7 +24552,7 @@
 </node>
 </node>
 <node CREATED="1460413285885" ID="ID_1199523498" MODIFIED="1460413287241" TEXT="Lessons">
-<node CREATED="1460413291708" ID="ID_1501434842" LINK="http://developer.android.com/training/permissions/declaring.html" MODIFIED="1460413463600" TEXT="Declaring Permissions">
+<node CREATED="1460413291708" FOLDED="true" ID="ID_1501434842" LINK="http://developer.android.com/training/permissions/declaring.html" MODIFIED="1460553744024" TEXT="Declaring Permissions">
 <node CREATED="1460413307821" ID="ID_1047469689" MODIFIED="1460413309217" TEXT="in your app manifest."/>
 <node CREATED="1460413196931" FOLDED="true" ID="ID_1061280931" MODIFIED="1460413671015" TEXT="Depending on the type of permission the&#xa; app requests, ">
 <node CREATED="1460413215771" ID="ID_1997969776" MODIFIED="1460413218690" TEXT=" the system may grant the &#xa;permission automatically,">
@@ -24554,7 +24574,7 @@
 <node CREATED="1460413714198" ID="ID_1739500737" MODIFIED="1460413714702" TEXT="on Android 6.0 and higher"/>
 </node>
 </node>
-<node CREATED="1460413765775" FOLDED="true" ID="ID_336054244" MODIFIED="1460414030267" TEXT="Determine What Permissions Your App Needs">
+<node CREATED="1460413765775" FOLDED="true" ID="ID_336054244" MODIFIED="1460550875981" TEXT="Determine What Permissions Your App Needs">
 <node CREATED="1460413831898" ID="ID_780904441" LINK="http://developer.android.com/guide/topics/security/permissions.html#normal-dangerous" MODIFIED="1460413846533" TEXT="For a list of system permissions, see&#xa; Normal and Dangerous Permissions."/>
 <node CREATED="1460413888280" FOLDED="true" ID="ID_266998099" MODIFIED="1460414011323" TEXT="Your app only needs permissions for &#xa;actions that it performs directly. &#xa;Your app does not need permission &#xa;if it is requesting that another app &#xa;perform the task or provide the &#xa;information. ">
 <node CREATED="1460413956312" FOLDED="true" ID="ID_1037890096" MODIFIED="1460414010479" TEXT="example">
@@ -24563,7 +24583,7 @@
 <node CREATED="1460414001581" ID="ID_1362875607" LINK="http://developer.android.com/training/permissions/best-practices.html#perms-vs-intents" MODIFIED="1460414008298" TEXT="see Consider Using an Intent."/>
 </node>
 </node>
-<node CREATED="1460414030591" ID="ID_1081208114" MODIFIED="1460414031160" TEXT="Add Permissions to the Manifest">
+<node CREATED="1460414030591" FOLDED="true" ID="ID_1081208114" MODIFIED="1460553372003" TEXT="Add Permissions to the Manifest">
 <node CREATED="1460414044765" ID="ID_1052993038" MODIFIED="1460414047590" TEXT="put a &lt;uses-permission&gt; element in your app manifest">
 <node CREATED="1460414059875" ID="ID_7463325" MODIFIED="1460414060784" TEXT="example">
 <node CREATED="1460414068108" ID="ID_1759016529" MODIFIED="1460414068651" TEXT="an app that needs to send SMS messages ">
@@ -24573,14 +24593,229 @@
 </node>
 </node>
 </node>
-<node CREATED="1460413315572" FOLDED="true" ID="ID_469796602" LINK="http://developer.android.com/training/permissions/requesting.html" MODIFIED="1460413389082" TEXT="Requesting Permissions at Run Time">
+<node CREATED="1460413315572" ID="ID_469796602" LINK="http://developer.android.com/training/permissions/requesting.html" MODIFIED="1460554462919" TEXT="Requesting Permissions at Run Time">
 <node CREATED="1460413341308" ID="ID_540334050" MODIFIED="1460413349399" TEXT="only applies to apps on devices running&#xa; Android 6.0 (API level 23) and higher."/>
+<node CREATED="1460553729622" FOLDED="true" ID="ID_827410732" MODIFIED="1460554198890" TEXT="On all versions of Android, your app &#xa;needs to declare both the normal and&#xa; the dangerous permissions it needs &#xa;in its app manifest,">
+<node CREATED="1460553748445" ID="ID_567644025" LINK="http://developer.android.com/training/permissions/declaring.html" MODIFIED="1460553761494" TEXT="&#x53c2;&#x8003; Declaring Permissions"/>
+</node>
+<node CREATED="1460554199643" FOLDED="true" ID="ID_1738274004" MODIFIED="1460554423698" TEXT="effect of that declaration is different &#xa;depending on the system version and &#xa;your app&apos;s target SDK level:">
+<node CREATED="1460554259525" ID="ID_542847466" MODIFIED="1460554264692" TEXT="If the device is running Android 6.0 or higher, &#xa;and your app&apos;s target SDK is 23 or higher: ">
+<node CREATED="1460554271328" ID="ID_1678207497" MODIFIED="1460554273681" TEXT="The app has to list the permissions in the manifest,"/>
+<node CREATED="1460554282101" ID="ID_808334669" MODIFIED="1460554288220" TEXT="it must request each dangerous permission &#xa;it needs while the app is running.">
+<node CREATED="1460554299797" ID="ID_839320524" MODIFIED="1460554309504" TEXT=" The user can grant or deny each permission, &#xa;and the app can continue to run with limited &#xa;capabilities even if the user denies a &#xa;permission request."/>
+</node>
+<node CREATED="1460554357439" ID="ID_632978823" MODIFIED="1460554396282" TEXT="users can revoke permissions from any&#xa; app at any time, even if the app targets &#xa;a lower API level."/>
+</node>
+</node>
+<node CREATED="1460554414189" ID="ID_1131315571" MODIFIED="1460554422781" TEXT="This lesson describes how to use the&#xa; Android Support Library to check for, &#xa;and request, permissions.">
+<node CREATED="1460554436793" ID="ID_1669042627" MODIFIED="1460554450421" TEXT="The Android framework provides similar &#xa;methods as of Android 6.0 (API level 23). "/>
+</node>
+<node CREATED="1460554463412" FOLDED="true" ID="ID_233765505" LINK="http://developer.android.com/training/permissions/requesting.html#perm-check" MODIFIED="1460554705941" TEXT="Check For Permissions">
+<node CREATED="1460554493072" ID="ID_265380076" MODIFIED="1460554500690" TEXT="you must check whether you have that &#xa;permission every time you perform an &#xa;operation that requires that permission."/>
+<node CREATED="1460554526906" ID="ID_1021818470" LINK="http://developer.android.com/reference/android/support/v4/content/ContextCompat.html#checkSelfPermission(android.content.Context, java.lang.String)" MODIFIED="1460554532629" TEXT="ContextCompat.checkSelfPermission()"/>
+<node CREATED="1460554538917" ID="ID_209943589" MODIFIED="1460554539303" TEXT="example">
+<node CREATED="1460554546192" ID="ID_1293565892" MODIFIED="1460554621468" TEXT="this snippet shows how to check if the &#xa;activity has permission to write to the &#xa;calendar">
+<node CREATED="1460554559425" ID="ID_1737364819" MODIFIED="1460554608226" TEXT="// Assume thisActivity is the current activity&#xa;int permissionCheck = ContextCompat.checkSelfPermission(thisActivity,&#xa;        Manifest.permission.WRITE_CALENDAR);"/>
+<node CREATED="1460554621849" ID="ID_1435106269" MODIFIED="1460554627938" TEXT="If the app has the permission, the method&#xa; returns PackageManager.PERMISSION_GRANTED, &#xa;and the app can proceed with the operation."/>
+<node CREATED="1460554670642" ID="ID_1058391147" MODIFIED="1460554684969" TEXT="If the app does not have the permission, &#xa;the method returns PERMISSION_DENIED, &#xa;and the app has to explicitly ask the user&#xa; for permission."/>
+</node>
+</node>
+</node>
+<node CREATED="1460554693650" FOLDED="true" ID="ID_1522414597" LINK="http://developer.android.com/training/permissions/requesting.html#perm-request" MODIFIED="1460556621160" TEXT="Request Permissions">
+<node CREATED="1460554773929" ID="ID_993286301" MODIFIED="1460554780287" TEXT="If your app needs a dangerous permission &#xa;that was listed in the app manifest, it must &#xa;ask the user to grant the permission"/>
+<node CREATED="1460554790524" ID="ID_1349404687" MODIFIED="1460554840557" TEXT="Calling android &#x63d0;&#x4f9b;&#x7684;&#x8fd9;&#x4e9b; methods &#xa;brings up a standard Android dialog, &#xa;which you cannot customize."/>
+<node CREATED="1460554846316" FOLDED="true" ID="ID_1050321671" MODIFIED="1460555351062" TEXT="Explain why the app needs permissions">
+<node CREATED="1460554871173" ID="ID_1576969131" MODIFIED="1460554878653" TEXT="In some circumstances, you might &#xa;want to help the user understand &#xa;why your app needs a permission"/>
+<node CREATED="1460554881425" FOLDED="true" ID="ID_1951365067" MODIFIED="1460555158715" TEXT="Before you request a permission, you &#xa;should consider providing an explanation&#xa; to the user. ">
+<node CREATED="1460554954764" ID="ID_1837815049" MODIFIED="1460554962578" TEXT="Keep in mind that you don&apos;t want to &#xa;overwhelm the user with explanations; ">
+<node CREATED="1460554976370" ID="ID_47701031" MODIFIED="1460554980113" TEXT="user might find the app frustrating and remove it."/>
+</node>
+</node>
+<node CREATED="1460555003613" FOLDED="true" ID="ID_1744936419" MODIFIED="1460555157818" TEXT="One approach you might use is to provide&#xa; an explanation only if the user has already&#xa; turned down that permission request.">
+<node CREATED="1460555063718" ID="ID_1004477473" MODIFIED="1460555084082" TEXT=" If a user keeps trying to use functionality&#xa; that requires a permission, but keeps &#xa;turning down the permission request, &#xa;that probably shows that the user doesn&apos;t &#xa;understand why the app needs the &#xa;permission to provide that functionality. &#xa;In a situation like that, it&apos;s probably a &#xa;good idea to show an explanation."/>
+</node>
+<node CREATED="1460555132583" FOLDED="true" ID="ID_1188762040" MODIFIED="1460555349463" TEXT="To help find situations where the user might &#xa;need an explanation, Android provides a &#xa;utiltity method, shouldShowRequestPermissionRationale()">
+<node CREATED="1460555172862" ID="ID_1574576234" LINK="http://developer.android.com/reference/android/support/v4/app/ActivityCompat.html#shouldShowRequestPermissionRationale(android.app.Activity, java.lang.String)" MODIFIED="1460555177777" TEXT="shouldShowRequestPermissionRationale()">
+<node CREATED="1460555196725" ID="ID_1137654535" MODIFIED="1460555263556" TEXT="This method returns true if the app has&#xa;requested this permission previously &#xa;and the user denied the request."/>
+<node CREATED="1460555308919" ID="ID_1056586132" MODIFIED="1460555321183" TEXT=" If the user turned down the permission &#xa;request in the past and chose the &#xa;Don&apos;t ask again option in the permission&#xa; request system dialog, this method &#xa;returns false"/>
+<node CREATED="1460555333491" ID="ID_26209404" MODIFIED="1460555342695" TEXT="The method also returns false if a device &#xa;policy prohibits the app from having that &#xa;permission."/>
+</node>
+</node>
+</node>
+<node CREATED="1460555275852" FOLDED="true" ID="ID_914259794" MODIFIED="1460555714595" TEXT="Request the permissions you need">
+<node CREATED="1460555378685" ID="ID_856769872" MODIFIED="1460555384616" TEXT="call one of the requestPermissions() &#xa;methods to request the appropriate &#xa;permissions.">
+<node CREATED="1460555387833" ID="ID_444478512" LINK="http://developer.android.com/reference/android/support/v4/app/ActivityCompat.html#requestPermissions(android.app.Activity, java.lang.String[], int)" MODIFIED="1460555392343" TEXT="requestPermissions()">
+<node CREATED="1460555419583" ID="ID_962864186" MODIFIED="1460555422568" TEXT="&#x53c2;&#x6570;">
+<node CREATED="1460555432028" ID="ID_1580231993" MODIFIED="1460555439014" TEXT=" integer request code that you specify to &#xa;identify this permission request. "/>
+</node>
+<node CREATED="1460555453425" ID="ID_1353127178" MODIFIED="1460555456565" TEXT="This method functions asynchronously">
+<node CREATED="1460555481913" ID="ID_1378682718" MODIFIED="1460555495448" TEXT="it returns right away, and after the user&#xa; responds to the dialog box, the system &#xa;calls the app&apos;s callback method with the &#xa;results, passing the same request code &#xa;that the app passed to requestPermissions()."/>
+</node>
+</node>
+</node>
+<node CREATED="1460555503750" ID="ID_762633528" MODIFIED="1460555506406" TEXT="example">
+<node CREATED="1460555515858" FOLDED="true" ID="ID_1973853365" MODIFIED="1460555594390" TEXT="The following code checks if the app &#xa;has permission to read the user&apos;s &#xa;contacts, and requests the permission &#xa;if necessary:">
+<node CREATED="1460555528233" ID="ID_1260959351" MODIFIED="1460555530574" TEXT="// Here, thisActivity is the current activity&#xa;if (ContextCompat.checkSelfPermission(thisActivity,&#xa;                Manifest.permission.READ_CONTACTS)&#xa;        != PackageManager.PERMISSION_GRANTED) {&#xa;&#xa;    // Should we show an explanation?&#xa;    if (ActivityCompat.shouldShowRequestPermissionRationale(thisActivity,&#xa;            Manifest.permission.READ_CONTACTS)) {&#xa;&#xa;        // Show an expanation to the user *asynchronously* -- don&apos;t block&#xa;        // this thread waiting for the user&apos;s response! After the user&#xa;        // sees the explanation, try again to request the permission.&#xa;&#xa;    } else {&#xa;&#xa;        // No explanation needed, we can request the permission.&#xa;&#xa;        ActivityCompat.requestPermissions(thisActivity,&#xa;                new String[]{Manifest.permission.READ_CONTACTS},&#xa;                MY_PERMISSIONS_REQUEST_READ_CONTACTS);&#xa;&#xa;        // MY_PERMISSIONS_REQUEST_READ_CONTACTS is an&#xa;        // app-defined int constant. The callback method gets the&#xa;        // result of the request.&#xa;    }&#xa;}"/>
+</node>
+</node>
+<node CREATED="1460555622932" ID="ID_715716893" MODIFIED="1460555640495" TEXT="When your app calls requestPermissions(),&#xa; the system shows a standard dialog box &#xa;to the user. Your app cannot configure or&#xa; alter that dialog box. ">
+<node CREATED="1460555651442" ID="ID_1064152695" MODIFIED="1460555658632" TEXT=" If you need to provide any information or&#xa; explanation to the user, you should do &#xa;that before you call requestPermissions()">
+<node CREATED="1460555667497" ID="ID_1243632451" LINK="#ID_1050321671" MODIFIED="1460555690163" TEXT="&#x53c2;&#x89c1;&#xa;Explain why the app needs permissions"/>
+</node>
+</node>
+</node>
+<node CREATED="1460555721420" FOLDED="true" ID="ID_176996930" MODIFIED="1460556619879" TEXT="Handle the permissions request response">
+<node CREATED="1460555749921" FOLDED="true" ID="ID_1491085125" MODIFIED="1460556280206" TEXT="When your app requests permissions, &#xa;the system presents a dialog box to the user.&#xa; When the user responds, the system invokes &#xa;your app&apos;s onRequestPermissionsResult() method&#xff0c;&#xa;passing it the user response.">
+<node CREATED="1460555763579" ID="ID_1903904026" LINK="http://developer.android.com/reference/android/support/v4/app/ActivityCompat.OnRequestPermissionsResultCallback.html#onRequestPermissionsResult(int, java.lang.String[], int[])" MODIFIED="1460555768065" TEXT="onRequestPermissionsResult()"/>
+<node CREATED="1460555928325" ID="ID_1331918408" MODIFIED="1460555932624" TEXT=" The callback is passed the same request&#xa; code you passed to requestPermissions()"/>
+</node>
+<node CREATED="1460555908671" ID="ID_1274444190" MODIFIED="1460555913903" TEXT="Your app has to override that method to &#xa;find out whether the permission was granted"/>
+<node CREATED="1460555936207" FOLDED="true" ID="ID_1528711678" MODIFIED="1460556278908" TEXT="example">
+<node CREATED="1460555949017" FOLDED="true" ID="ID_606546686" MODIFIED="1460556153031" TEXT="if an app requests READ_CONTACTS access &#xa;it might have the following callback method:">
+<node CREATED="1460555962427" ID="ID_1602059003" MODIFIED="1460555964993" TEXT="@Override&#xa;public void onRequestPermissionsResult(int requestCode,&#xa;        String permissions[], int[] grantResults) {&#xa;    switch (requestCode) {&#xa;        case MY_PERMISSIONS_REQUEST_READ_CONTACTS: {&#xa;            // If request is cancelled, the result arrays are empty.&#xa;            if (grantResults.length &gt; 0&#xa;                &amp;&amp; grantResults[0] == PackageManager.PERMISSION_GRANTED) {&#xa;&#xa;                // permission was granted, yay! Do the&#xa;                // contacts-related task you need to do.&#xa;&#xa;            } else {&#xa;&#xa;                // permission denied, boo! Disable the&#xa;                // functionality that depends on this permission.&#xa;            }&#xa;            return;&#xa;        }&#xa;&#xa;        // other &apos;case&apos; lines to check for other&#xa;        // permissions this app might request&#xa;    }&#xa;}"/>
+</node>
+</node>
+<node CREATED="1460556155727" FOLDED="true" ID="ID_613610626" MODIFIED="1460556379578" TEXT=" If your app requests any other permissions&#xa; in that group (that are listed in your app manifest),&#xa; the system automatically grants them.">
+<node CREATED="1460556202465" FOLDED="true" ID="ID_1595549815" MODIFIED="1460556377969" TEXT="When you request the permission, the system &#xa;calls your onRequestPermissionsResult() callback &#xa;method and passes PERMISSION_GRANTED, ">
+<node CREATED="1460556214515" ID="ID_1817295973" MODIFIED="1460556220647" TEXT="the same way it would if the user had explicitly &#xa;granted your request through the system dialog &#xa;box."/>
+<node CREATED="1460556309782" FOLDED="true" ID="ID_1686663801" MODIFIED="1460556371253" TEXT="example">
+<node CREATED="1460556320048" ID="ID_1181862163" MODIFIED="1460556324841" TEXT="suppose you list both READ_CONTACTS &#xa;and WRITE_CONTACTS in your app manifest">
+<node CREATED="1460556339795" ID="ID_805798803" MODIFIED="1460556353880" TEXT="If you request READ_CONTACTS and &#xa;the user grants the permission, and &#xa;you then request WRITE_CONTACTS, &#xa;the system immediately grants you &#xa;that permission without interacting &#xa;with the user."/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1460556281256" FOLDED="true" ID="ID_310240839" MODIFIED="1460556521184" TEXT="Your code should not rely on the &#xa;assumption that particular permissions &#xa;are or are not in the same group.">
+<node CREATED="1460556301139" ID="ID_111313176" MODIFIED="1460556305412" TEXT="the grouping of permissions into groups&#xa; may change in future Android releases."/>
+</node>
+<node CREATED="1460556395415" FOLDED="true" ID="ID_1845748484" MODIFIED="1460556520309" TEXT="If the user denies a permission request, &#xa;your app should take appropriate action. ">
+<node CREATED="1460556417109" ID="ID_1242853317" MODIFIED="1460556428507" TEXT="For example, your app might show a &#xa;dialog explaining why it could not perform&#xa; the user&apos;s requested action that needs&#xa; that permission."/>
+</node>
+<node CREATED="1460556522484" FOLDED="true" ID="ID_550427636" MODIFIED="1460556617099" TEXT="When the system asks the user to grant &#xa;a permission, the user has the option of &#xa;telling the system not to ask for that &#xa;permission again. ">
+<node CREATED="1460556548505" ID="ID_631819625" MODIFIED="1460556554221" TEXT="any time an app uses requestPermissions() to &#xa;ask for that permission again, the system &#xa;immediately denies the request. ">
+<node CREATED="1460556567889" ID="ID_1104930361" MODIFIED="1460556572132" TEXT="The system calls your onRequestPermissionsResult() &#xa;callback method and passes PERMISSION_DENIED, ">
+<node CREATED="1460556591810" ID="ID_248507807" MODIFIED="1460556595636" TEXT=" the same way it would if the user had &#xa;explicitly rejected your request again.">
+<node CREATED="1460556599414" ID="ID_1882939878" MODIFIED="1460556604749" TEXT="his means that when you call requestPermissions(),&#xa; you cannot assume that any direct interaction with&#xa; the user has taken place."/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1460556637497" ID="ID_779623753" LINK="http://developer.android.com/training/permissions/best-practices.html" MODIFIED="1460556641065" TEXT="Permissions Best Practices">
+<node CREATED="1460557092619" FOLDED="true" ID="ID_1983578511" MODIFIED="1460557130051" TEXT="The following best practices can help you&#xa; avoid such bad user experiences.">
+<node CREATED="1460557111589" ID="ID_1189182581" MODIFIED="1460557122390" TEXT="user finds the app frustrating to use, &#xa;or the user is worried about what the &#xa;app might be doing with the user&apos;s &#xa;information, they may avoid using the &#xa;app or uninstall it entirely"/>
+</node>
+<node CREATED="1460557130372" FOLDED="true" ID="ID_775825424" LINK="http://developer.android.com/training/permissions/best-practices.html#perms-vs-intents" MODIFIED="1460557820967" TEXT="Consider Using an Intent">
+<node CREATED="1460557149712" FOLDED="true" ID="ID_486419160" MODIFIED="1460557809389" TEXT=" two ways for your app to perform a task">
+<node CREATED="1460557167033" ID="ID_1719408181" MODIFIED="1460557172007" TEXT="your app ask for permission to perform the operation itself.">
+<node CREATED="1460557560297" ID="ID_1249711480" MODIFIED="1460557564708" TEXT="full control over the user experience &#xa;when you perform the operation">
+<node CREATED="1460557593189" FOLDED="true" ID="ID_583821654" MODIFIED="1460557615169" TEXT="disadvantages">
+<node CREATED="1460557603275" ID="ID_355683290" MODIFIED="1460557608935" TEXT="such broad control adds to the complexity&#xa; of your task, since you need to design an &#xa;appropriate UI."/>
+</node>
+</node>
+<node CREATED="1460557619667" ID="ID_1011626914" MODIFIED="1460557620246" TEXT="advantages"/>
+<node CREATED="1460557634519" ID="ID_1189109084" MODIFIED="1460557640292" TEXT="The user is prompted to give permission once, &#xa;either at run time or at install time (depending &#xa;on the user&apos;s Android version). ">
+<node CREATED="1460557653082" ID="ID_934245339" MODIFIED="1460557658124" TEXT="our app can perform the operation without &#xa;requiring additional interaction from the user"/>
+<node CREATED="1460557684214" ID="ID_513971582" MODIFIED="1460557693519" TEXT="However, if the user doesn&apos;t grant the permission&#xa; (or revokes it later on), your app becomes unable&#xa; to perform the operation at all."/>
+</node>
+</node>
+<node CREATED="1460557177938" ID="ID_1916761791" MODIFIED="1460557181334" TEXT="use an intent to have another app perform the task.">
+<node CREATED="1460557711756" ID="ID_1978979306" MODIFIED="1460557712650" TEXT="do not have to design the UI for the operation">
+<node CREATED="1460557736485" FOLDED="true" ID="ID_196506406" MODIFIED="1460557762837" TEXT="you have no control over the user experience. ">
+<node CREATED="1460557758662" ID="ID_1745840549" MODIFIED="1460557761193" TEXT="The user could be interacting with an app you&apos;ve never seen."/>
+</node>
+</node>
+<node CREATED="1460557777965" ID="ID_1776737544" MODIFIED="1460557784111" TEXT="If the user does not have a default app&#xa; for the operation, the system prompts &#xa;the user to choose an app. ">
+<node CREATED="1460557795973" ID="ID_842423659" MODIFIED="1460557804083" TEXT="If the user does not designate a default &#xa;handler, they may have to go through an&#xa; extra dialog every time they perform the &#xa;operation."/>
+</node>
+</node>
+<node CREATED="1460557197376" ID="ID_34551115" MODIFIED="1460557198090" TEXT="example">
+<node CREATED="1460557204228" FOLDED="true" ID="ID_23163167" MODIFIED="1460557505057" TEXT="your app needs to be able to take &#xa;pictures with the device camera">
+<node CREATED="1460557290442" FOLDED="true" ID="ID_1118293840" MODIFIED="1460557498532" TEXT="&#x65b9;&#x6cd5;&#x4e00; ask permission">
+<node CREATED="1460557218540" ID="ID_1406811443" MODIFIED="1460557245408" TEXT="Your app can request the CAMERA &#xa;permission, which allows your app &#xa;to access the camera directly. &#xa;&#xa;then use the camera APIs to control&#xa; the camera and take a picture"/>
+</node>
+<node CREATED="1460557282186" FOLDED="true" ID="ID_1026648742" MODIFIED="1460557497463" TEXT="&#x65b9;&#x6cd5;&#x4e8c;&#xa;use an ACTION_IMAGE_CAPTURE &#xa;intent to request an image.">
+<node CREATED="1460557458353" ID="ID_1044646687" MODIFIED="1460557472856" TEXT="When you send the intent, the system &#xa;prompts the user to choose a camera app&#xa; (if there isn&apos;t already a default camera app). "/>
+<node CREATED="1460557482854" ID="ID_1553271870" MODIFIED="1460557490936" TEXT="The user takes a picture with the selected &#xa;camera app, and that app returns the picture&#xa; to your app&apos;s onActivityResult() method."/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1460557818536" FOLDED="true" ID="ID_788001332" MODIFIED="1460558702683" TEXT="Only Ask for Permissions You Need">
+<node CREATED="1460557839241" ID="ID_1494576450" MODIFIED="1460557843359" TEXT=" You should minimize the number of &#xa;times you make these requests">
+<node CREATED="1460557872356" ID="ID_1553526323" MODIFIED="1460557879373" TEXT="&#x56e0;&#x4e3a; Every time you ask for a permission,&#xa; you force the user to make a decision">
+<node CREATED="1460557887731" ID="ID_1956712001" MODIFIED="1460557907569" TEXT="If the user is running &#xa;Android 6.0 (API level 23) or later,">
+<node CREATED="1460557894066" ID="ID_922558338" MODIFIED="1460557901672" TEXT="every time the user tries some new app &#xa;feature that requires a permission, the &#xa;app has to interrupt the user&apos;s work with&#xa; a permission request. "/>
+</node>
+<node CREATED="1460557916621" ID="ID_263413641" MODIFIED="1460557930212" TEXT="&lt;= Android 22">
+<node CREATED="1460557937426" ID="ID_1881261605" MODIFIED="1460557959153" TEXT="user has to grant every one of the app&apos;s &#xa;permissions when installing the app">
+<node CREATED="1460557959941" ID="ID_1714368340" MODIFIED="1460557966140" TEXT="if the list is too long or seems inappropriate,&#xa; the user may decide not to install your app &#xa;at all."/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1460558004651" ID="ID_620118946" MODIFIED="1460558018062" TEXT="If a feature is not a core part of your app&apos;s&#xa;functionality, you should consider handing &#xa;the work over to another app, as describe&#xa;d in Consider Using An Intent.">
+<node CREATED="1460558029032" ID="ID_88470232" LINK="http://developer.android.com/training/permissions/best-practices.html#perms-vs-intents" MODIFIED="1460558043730" TEXT="Consider Using An Intent"/>
+</node>
+</node>
+<node CREATED="1460558708781" FOLDED="true" ID="ID_1212260160" MODIFIED="1460558944137" TEXT="Don&apos;t Overwhelm the User">
+<node CREATED="1460558927856" FOLDED="true" ID="ID_267062191" MODIFIED="1460558933437" TEXT="ask for permissions as you need them">
+<node CREATED="1460558763603" ID="ID_157312965" MODIFIED="1460558764058" TEXT="example">
+<node CREATED="1460558846231" ID="ID_206134143" MODIFIED="1460558858652" TEXT=" if the same app also had a feature to share &#xa;photos with the user&apos;s contacts, you probably &#xa;should not ask for the READ_CONTACTS permissio&#xa;n at first launch. Instead, wait until the user tries to&#xa; use the &quot;sharing&quot; feature and ask for the permission&#xa; then."/>
+</node>
+</node>
+<node CREATED="1460558754153" ID="ID_1232696680" MODIFIED="1460558761410" TEXT="In some cases, one or more permissions&#xa; might be absolutely essential to your app. &#xa;It might make sense to ask for all of those &#xa;permissions as soon as the app launches."/>
+<node CREATED="1460558881199" ID="ID_1505369764" MODIFIED="1460558889243" TEXT="If your app provides a tutorial, it may make&#xa; sense to request the app&apos;s essential permissions&#xa; at the end of the tutorial sequence."/>
+</node>
+<node CREATED="1460558941830" FOLDED="true" ID="ID_34646117" LINK="http://developer.android.com/training/permissions/best-practices.html#explain" MODIFIED="1460559324448" TEXT="Explain Why You Need Permissions">
+<node CREATED="1460558982760" FOLDED="true" ID="ID_143118744" MODIFIED="1460559034055" TEXT="explain to the user why your app wants the &#xa;permissions before calling requestPermissions().">
+<node CREATED="1460558988824" ID="ID_1223066452" MODIFIED="1460558989279" TEXT="example">
+<node CREATED="1460559010190" ID="ID_1241314902" MODIFIED="1460559025772" TEXT="a photography app might want to use &#xa;location services so it can geotag the &#xa;photos. A typical user might not &#xa;understand that a photo can contain location &#xa;information, and would be puzzled why their &#xa;photography app wants to know the location.&#xa; So in this case, it&apos;s a good idea for the app &#xa;to tell the user about this feature before calling&#xa; requestPermissions()."/>
+</node>
+</node>
+<node CREATED="1460559044438" ID="ID_89110896" MODIFIED="1460559048060" TEXT="One way to inform the user is to incorporate &#xa;these requests into an app tutorial. ">
+<node CREATED="1460559063114" ID="ID_956528738" MODIFIED="1460559069369" TEXT="The tutorial can show each of the app&apos;s features &#xa;in turn, and as it does this, it can explain what&#xa; permissions are needed."/>
+<node CREATED="1460559071822" ID="ID_1382434263" MODIFIED="1460559072322" TEXT="example">
+<node CREATED="1460559098846" ID="ID_1625226706" MODIFIED="1460559107724" TEXT="photography app&apos;s tutorial could demonstrate &#xa;its &quot;share photos with your contacts&quot; feature,&#xa; then tell the user that they need to give permission&#xa; for the app to see the user&apos;s contacts">
+<node CREATED="1460559114078" ID="ID_66848909" MODIFIED="1460559118513" TEXT="The app could then call requestPermissions() &#xa;to ask the user for that access. "/>
+</node>
+</node>
+<node CREATED="1460559287108" ID="ID_1615565204" MODIFIED="1460559295850" TEXT="Of course, not every user is going to follow the&#xa; tutorial, so you still need to check for and&#xa; request permissions during the app&apos;s normal &#xa;operation."/>
+</node>
+</node>
+<node CREATED="1460559305130" ID="ID_1149484449" LINK="http://developer.android.com/training/permissions/best-practices.html#testing" MODIFIED="1460559317939" TEXT="Test for Both Permissions Models">
+<node CREATED="1460559348875" ID="ID_558380894" MODIFIED="1460559362421" TEXT=" you&apos;ll have to test your app under&#xa; a wider range of conditions"/>
+<node CREATED="1460559409168" ID="ID_530754752" MODIFIED="1460559416201" TEXT="The following tips will help you identify &#xa;permissions-related code problems on &#xa;devices running API level 23 or higher:">
+<node CREATED="1460559492920" ID="ID_1509342966" MODIFIED="1460559501561" TEXT="Identify your app&#x2019;s current permissions &#xa;and the related code paths."/>
+<node CREATED="1460559511665" ID="ID_239485971" MODIFIED="1460559523466" TEXT="Test user flows across permission-protected &#xa;services and data."/>
+<node CREATED="1460559532659" FOLDED="true" ID="ID_14878392" MODIFIED="1460559697373" TEXT="Test with various combinations of &#xa;granted or revoked permissions. ">
+<node CREATED="1460559551425" ID="ID_572057684" MODIFIED="1460559551845" TEXT="example">
+<node CREATED="1460559559615" ID="ID_50513544" MODIFIED="1460559571373" TEXT="a camera app might list CAMERA, READ_CONTACTS,&#xa; and ACCESS_FINE_LOCATION in its manifest.">
+<node CREATED="1460559596969" ID="ID_1491445920" MODIFIED="1460559607342" TEXT="You should test the app with each of these &#xa;permissions turned on and off, to make sure&#xa; the app can handle all permission configurations &#xa;gracefully."/>
+</node>
+</node>
+<node CREATED="1460559619290" ID="ID_1170733959" MODIFIED="1460559626255" TEXT="Remember, beginning with Android 6.0 the&#xa; user can turn permissions on or off for any app,&#xa; even an app that targets API level 22 or lower."/>
+</node>
+<node CREATED="1460559633444" FOLDED="true" ID="ID_138616555" MODIFIED="1460559696697" TEXT="Use the adb tool to manage &#xa;permissions from the command line">
+<node CREATED="1460559639339" ID="ID_1334456788" MODIFIED="1460559676254" TEXT="List permissions and status by group:">
+<node CREATED="1460559658252" ID="ID_355734828" MODIFIED="1460559658807" TEXT="$ adb shell pm list permissions -d -g"/>
+</node>
+<node CREATED="1460559667444" ID="ID_1475830234" MODIFIED="1460559669980" TEXT="Grant or revoke one or more permissions:">
+<node CREATED="1460559682093" ID="ID_243591231" MODIFIED="1460559682547" TEXT="$ adb shell pm [grant|revoke] &lt;permission-name&gt; ..."/>
+</node>
+</node>
+<node CREATED="1460559698226" ID="ID_479300426" MODIFIED="1460560002148" TEXT="Analyze your app for services that use permissions."/>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1460413392205" ID="ID_74981067" LINK="http://developer.android.com/training/permissions/best-practices.html" MODIFIED="1460413404822" TEXT="Permissions Best Practices"/>
 </node>
 </node>
 </node>
-<node CREATED="1422457672185" FOLDED="true" ID="ID_1740053737" LINK="http://developer.android.com/guide/index.html" MODIFIED="1460546445339" TEXT="API Guides">
+<node CREATED="1422457672185" FOLDED="true" ID="ID_1740053737" LINK="http://developer.android.com/guide/index.html" MODIFIED="1460553490475" TEXT="API Guides">
 <node CREATED="1422392737806" FOLDED="true" ID="ID_321352056" LINK="http://developer.android.com/design/patterns/actionbar.html" MODIFIED="1460414191113" TEXT="action bar design guid line">
 <node CREATED="1422392885063" ID="ID_1350396980" MODIFIED="1458552219001" TEXT="general organizatin ">
 <node CREATED="1422392891531" FOLDED="true" ID="ID_158058544" MODIFIED="1458552236833" TEXT="action bar &#x5305;&#x542b;&#x56db;&#x90e8;&#x5206;">
@@ -26878,7 +27113,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1460414226338" ID="ID_1061105387" LINK="http://developer.android.com/guide/topics/security/permissions.html#normal-dangerous" MODIFIED="1460414232536" TEXT="System Permissions">
+<node CREATED="1460414226338" ID="ID_1061105387" LINK="http://developer.android.com/guide/topics/security/permissions.html#normal-dangerous" MODIFIED="1460553317637" TEXT="System Permissions&#xa;...">
 <node CREATED="1460414856473" FOLDED="true" ID="ID_1358264228" MODIFIED="1460415285996" TEXT="User IDs and File Access">
 <node CREATED="1460414868737" FOLDED="true" ID="ID_1861939677" MODIFIED="1460414944128" TEXT="At install time, Android gives each &#xa;package a distinct Linux user ID">
 <node CREATED="1460414891165" ID="ID_502468303" MODIFIED="1460414900291" TEXT="The identity remains constant for the&#xa; duration of the package&apos;s life on that&#xa; device."/>
@@ -26894,7 +27129,7 @@
 <node CREATED="1460415248320" ID="ID_17130274" MODIFIED="1460415282650" TEXT="When creating a new file with&#xa; getSharedPreferences(String, int), &#xa; openFileOutput(String, int), or &#xa; openOrCreateDatabase(String, int, SQLiteDatabase.CursorFactory), &#xa;you can use the &#xa;MODE_WORLD_READABLE and/or &#xa;MODE_WORLD_WRITEABLE flags to &#xa;allow any other package to read/write the file."/>
 </node>
 </node>
-<node CREATED="1460414389421" ID="ID_78479741" LINK="http://developer.android.com/guide/topics/security/permissions.html#permissions" MODIFIED="1460416768079" TEXT="Using Permissions">
+<node CREATED="1460414389421" FOLDED="true" ID="ID_78479741" LINK="http://developer.android.com/guide/topics/security/permissions.html#permissions" MODIFIED="1460552275986" TEXT="Using Permissions">
 <node CREATED="1460416726229" ID="ID_696182760" MODIFIED="1460416736494" TEXT="To make use of protected features &#xa;of the device, you must include one &#xa;or more &lt;uses-permission&gt; tags &#xa;in your app manifest."/>
 <node CREATED="1460416768081" FOLDED="true" ID="ID_1171034859" MODIFIED="1460417368124" TEXT="If your app lists normal permissions&#xa; in its manifest ">
 <node CREATED="1460416793160" ID="ID_143788230" MODIFIED="1460416795502" TEXT="the system automatically grants those permissions."/>
@@ -26923,7 +27158,52 @@
 </node>
 <node CREATED="1460417520323" ID="ID_276147790" MODIFIED="1460417527165" TEXT="a permission failure will be printed &#xa;to the system log."/>
 <node CREATED="1460417544089" ID="ID_1792469450" LINK="http://developer.android.com/reference/android/Manifest.permission.html" MODIFIED="1460417562305" TEXT="The permissions provided by the Android&#xa; system can be found at Manifest.permission"/>
+<node CREATED="1460551138093" FOLDED="true" ID="ID_1130514722" MODIFIED="1460552015190" TEXT="Automatic permission adjustments">
+<node CREATED="1460551630746" FOLDED="true" ID="ID_472107074" MODIFIED="1460551948844" TEXT="Android may apply the new permission request &#xa;to the app&apos;s manifest to avoid breaking the app&#xa; on the new platform version. ">
+<node CREATED="1460551644900" ID="ID_1187624425" MODIFIED="1460551650845" TEXT="&#x539f;&#x56e0;">
+<node CREATED="1460551657193" ID="ID_1640016711" MODIFIED="1460551663408" TEXT="existing apps assume access to &#xa;those APIs is freely available"/>
+<node CREATED="1460551673880" ID="ID_77020346" MODIFIED="1460551683412" TEXT="Over time, new restrictions may be added &#xa;to the platform such that, in order to use &#xa;certain APIs, your app must request a &#xa;permission that it previously did not need. "/>
 </node>
+</node>
+<node CREATED="1460551866685" ID="ID_446271573" MODIFIED="1460551911659" TEXT="targetSdkVersion &lt;  the version in which &#xa;the permission was added, then Android &#xa;adds the permission.">
+<node CREATED="1460551973628" ID="ID_1446563" MODIFIED="1460552001306" TEXT=" If a permission is automatically added &#xa;to your app, your app listing on &#xa;Google Play lists these additional &#xa;permissions even though your app might &#xa;not actually require them."/>
+</node>
+</node>
+</node>
+<node CREATED="1460552024011" ID="ID_1375618537" LINK="http://developer.android.com/guide/topics/security/permissions.html#normal-dangerous" MODIFIED="1460553455163" TEXT="Normal and Dangerous Permissions">
+<node CREATED="1460552123167" FOLDED="true" ID="ID_1642362131" MODIFIED="1460552271928" TEXT="Normal permissions ">
+<node CREATED="1460552128711" ID="ID_1629905577" MODIFIED="1460552141076" TEXT=" cover areas where your app needs to access&#xa; data or resources outside the app&apos;s sandbox,&#xa; but where there&apos;s very little risk to the user&apos;s &#xa;privacy or the operation of other apps."/>
+<node CREATED="1460552146239" ID="ID_1498133008" MODIFIED="1460552146741" TEXT="example">
+<node CREATED="1460552155297" ID="ID_181193029" MODIFIED="1460552155776" TEXT="set the time zone"/>
+</node>
+<node CREATED="1460552171756" ID="ID_277792911" MODIFIED="1460552172646" TEXT="system automatically grants the permission to the app"/>
+<node CREATED="1460552188161" ID="ID_300686588" LINK="http://developer.android.com/guide/topics/security/normal-permissions.html" MODIFIED="1460552196525" TEXT="&#x53c2;&#x8003; Normal permissions"/>
+</node>
+<node CREATED="1460552272745" FOLDED="true" ID="ID_887784904" MODIFIED="1460552502871" TEXT="Dangerous permissions">
+<node CREATED="1460552453243" ID="ID_1891397513" MODIFIED="1460552464977" TEXT="cover areas where the app wants data &#xa;or resources that involve the user&apos;s &#xa;private information, or could potentially &#xa;affect the user&apos;s stored data or the &#xa;operation of other apps. "/>
+<node CREATED="1460552469523" ID="ID_686318657" MODIFIED="1460552470831" TEXT="example">
+<node CREATED="1460552476780" ID="ID_1205662512" MODIFIED="1460552477234" TEXT="read the user&apos;s contacts"/>
+</node>
+<node CREATED="1460552488840" ID="ID_813763316" MODIFIED="1460552500125" TEXT="If an app declares that it needs &#xa;a dangerous permission, the user&#xa;has to explicitly grant the permission &#xa;to the app."/>
+</node>
+<node CREATED="1460552646689" ID="ID_1757053692" LINK="Permission Groups" MODIFIED="1460552652693" TEXT="Permission Groups">
+<node CREATED="1460552685270" ID="ID_1875874389" MODIFIED="1460553465639" TEXT=" If the device is running Android 6.0 (API level 23) &#xa;and the app&apos;s targetSdkVersion is 23 or higher, &#xa;the following system behavior applies when your &#xa;app requests a dangerous permission:">
+<node CREATED="1460552736866" FOLDED="true" ID="ID_983318302" MODIFIED="1460552920606" TEXT="If an app requests a dangerous permission &#xa;listed in its manifest, and the app does not &#xa;currently have any permissions in the permission group, &#xa;the system shows a dialog box to the user &#xa;describing the permission group that the &#xa;app wants access to. ">
+<node CREATED="1460552809704" ID="ID_1081118541" MODIFIED="1460552816995" TEXT=" The dialog box does not describe the &#xa;specific permission within that group. "/>
+<node CREATED="1460552819774" ID="ID_166960040" MODIFIED="1460552820189" TEXT="example">
+<node CREATED="1460552842748" ID="ID_199925208" MODIFIED="1460552888438" TEXT="an app requests the READ_CONTACTS permission, &#xa;the system dialog box just says the app needs &#xa;access to the device&apos;s contacts. If the user grants&#xa; approval, the system gives the app just the &#xa;permission it requested."/>
+</node>
+</node>
+<node CREATED="1460552921156" FOLDED="true" ID="ID_863412055" MODIFIED="1460553469750" TEXT="If an app requests a dangerous permission &#xa;listed in its manifest, and the app already &#xa;has another dangerous permission in the&#xa;same permission group, the system immediately&#xa;grants the permission without any interaction with&#xa;the user.">
+<node CREATED="1460553014077" ID="ID_1908661411" MODIFIED="1460553015414" TEXT="example">
+<node CREATED="1460553033022" ID="ID_926451159" MODIFIED="1460553045288" TEXT="if an app had previously requested and &#xa;been granted the READ_CONTACTS &#xa;permission, and it then requests WRITE_CONTACTS, &#xa;the system immediately grants that permission."/>
+</node>
+</node>
+</node>
+<node CREATED="1460553111780" ID="ID_1771647326" MODIFIED="1460553135114" TEXT="If the device is running Android 5.1 (API level 22) &#xa;or lower, or the app&apos;s targetSdkVersion is 22 or &#xa;lower, the system asks the user to grant the &#xa;permissions at install time. "/>
+</node>
+</node>
+<node CREATED="1460553304563" ID="ID_103489268" MODIFIED="1460553307094" TEXT="..."/>
 </node>
 </node>
 <node CREATED="1433191137079" FOLDED="true" ID="ID_1366916238" LINK="http://developer.android.com/reference/packages.html" MODIFIED="1460369636117" TEXT="Reference">
@@ -29814,8 +30094,8 @@
 <node CREATED="1434052445029" ID="ID_255452962" LINK="#ID_1782603128" MODIFIED="1434052479282" TEXT=" Set up Google Play services"/>
 </node>
 </node>
-<node CREATED="1422997884358" ID="ID_151197971" MODIFIED="1460546365658" TEXT="Design">
-<node CREATED="1422997894088" ID="ID_502983193" MODIFIED="1460546459446" TEXT="Style">
+<node CREATED="1422997884358" FOLDED="true" ID="ID_151197971" MODIFIED="1460550761269" TEXT="Design">
+<node CREATED="1422997894088" FOLDED="true" ID="ID_502983193" MODIFIED="1460550759401" TEXT="Style">
 <node CREATED="1422997899986" ID="ID_120720788" LINK="http://developer.android.com/design/style/themes.html" MODIFIED="1458041170877" TEXT="Theme">
 <node CREATED="1422997930698" ID="ID_1617219500" MODIFIED="1458552220513" TEXT="Android &#x63d0;&#x4f9b;&#x4e24;&#x79cd; theme">
 <node CREATED="1422997943680" ID="ID_1922245393" MODIFIED="1422997946764" TEXT="Holo Light"/>
@@ -31372,7 +31652,6 @@
 </node>
 </node>
 </node>
-<node CREATED="1460212607932" ID="ID_1341255441" LINK="http://developer.android.com/training/permissions/index.html" MODIFIED="1460212614550" TEXT="Working with System Permissions"/>
 </node>
 <node CREATED="1418831506058" FOLDED="true" ID="ID_543850119" MODIFIED="1458552261233" TEXT="tools.android.com">
 <node CREATED="1441189219371" ID="ID_1297297984" MODIFIED="1458041171140" TEXT="&#x4ecb;&#x7ecd;">
@@ -31679,7 +31958,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435222543108" ID="ID_313758430" MODIFIED="1460546067956" TEXT="Android Developer Blog">
+<node CREATED="1435222543108" FOLDED="true" ID="ID_313758430" MODIFIED="1460624031594" TEXT="Android Developer Blog">
 <node CREATED="1434991355871" FOLDED="true" ID="ID_746380783" LINK="http://android-developers.blogspot.fr/2011/03/memory-analysis-for-android.html" MODIFIED="1458552400527" TEXT="Memory Analysis for &#xa;Android Applications">
 <node CREATED="1435007343214" ID="ID_1156368103" MODIFIED="1458041171195" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1435007349317" ID="ID_549535713" MODIFIED="1435007391434" TEXT="Dalvik runtime &#x53ef;&#x4ee5;&#x662f; garbage-collected&#xa;&#x4f46;&#x4e0d;&#x53ef;&#x4ee5;&#x5ffd;&#x89c6; memory management"/>
@@ -32540,13 +32819,108 @@
 </node>
 </node>
 </node>
-<node CREATED="1454603698106" FOLDED="true" ID="ID_1968775485" MODIFIED="1458552409094" TEXT="graphics">
-<node CREATED="1454603705655" ID="ID_559469295" MODIFIED="1458041171337" TEXT="Vulkan">
-<node CREATED="1454603715094" ID="ID_1757283590" LINK="http://android-developers.blogspot.fr/2015/08/low-overhead-rendering-with-vulkan.html" MODIFIED="1458041171338" TEXT="Low-overhead rendering with Vulkan&#xa;&#x672a;&#x5b8c;&#x5f85;&#x7eed;&#xa;Vulkan &#x662f; Khronos &#x7684; &#x65b0;&#x6807;&#x51c6;">
-<node CREATED="1454603788698" ID="ID_308016087" MODIFIED="1458552221857" TEXT="Lowering overhead and handing control to developers ">
+<node CREATED="1454603698106" ID="ID_1968775485" MODIFIED="1460621485974" TEXT="graphics">
+<node CREATED="1454603705655" ID="ID_559469295" MODIFIED="1460621488841" TEXT="Vulkan">
+<node CREATED="1454603715094" FOLDED="true" ID="ID_1757283590" LINK="http://android-developers.blogspot.fr/2015/08/low-overhead-rendering-with-vulkan.html" MODIFIED="1460621574694" TEXT="Low-overhead rendering with Vulkan&#xa;&#x672a;&#x5b8c;&#x5f85;&#x7eed;&#xa;Vulkan &#x662f; Khronos &#x7684; &#x65b0;&#x6807;&#x51c6;">
+<node CREATED="1454603788698" FOLDED="true" ID="ID_308016087" MODIFIED="1460621513922" TEXT="Lowering overhead and handing control to developers ">
 <node CREATED="1454603780294" ID="ID_1796537167" MODIFIED="1454603784739" TEXT="a new 3D rendering API, Vulkan&#x2122;, to Android. Like OpenGL&#x2122; ES, Vulkan is an open standard for 3D graphics and rendering maintained by Khronos. Vulkan is being designed from the ground up to minimize CPU overhead in the driver, and allow your application to control GPU operation more directly. Vulkan also enables better parallelization by allowing multiple threads to perform work such as command buffer construction at once."/>
 </node>
 <node CREATED="1454603799612" ID="ID_420350220" MODIFIED="1454603799914" TEXT="An API is only useful if it does what you expect"/>
+</node>
+<node CREATED="1460621491763" ID="ID_604423305" LINK="http://android-developers.blogspot.fr/2016/04/optimize-develop-and-debug-with-vulkan.html" MODIFIED="1460621528597" TEXT="Optimize, Develop, and Debug &#xa;with Vulkan Developer Tools">
+<node CREATED="1460621539742" FOLDED="true" ID="ID_1658904293" MODIFIED="1460621792019" TEXT="Vulkan support is available now via &#xa;the Android N Preview on devices &#xa;which support it">
+<node CREATED="1460621563942" ID="ID_1844742760" MODIFIED="1460621564367" TEXT="Nexus 5X"/>
+<node CREATED="1460621567425" ID="ID_377486955" MODIFIED="1460621572391" TEXT="Nexus 6P"/>
+</node>
+<node CREATED="1460621586801" ID="ID_1115036518" MODIFIED="1460621587465" TEXT="you will still be able to use OpenGL ES as well"/>
+<node CREATED="1460621598052" FOLDED="true" ID="ID_885034605" MODIFIED="1460621791513" TEXT="&#x53c2;&#x8003; ">
+<node CREATED="1460621612051" ID="ID_684368264" LINK="https://github.com/googlesamples/vulkan-basic-samples" MODIFIED="1460621616042" TEXT="samples"/>
+<node CREATED="1460621620014" ID="ID_1313714881" LINK="https://developer.android.com/ndk/guides/graphics/getting-started.html?utm_campaign=android_launch_vulkan_041316&amp;utm_source=anddev&amp;utm_medium=blog" MODIFIED="1460621623714" TEXT="guides"/>
+</node>
+<node CREATED="1460621777908" FOLDED="true" ID="ID_906984880" MODIFIED="1460621784976" TEXT="demo video ">
+<node CREATED="1460621761402" ID="ID_199227518" LINK="https://youtu.be/FQ4YJbD0zRM" MODIFIED="1460621773215" TEXT="Vulkan in action running on an Android device&#xa; with Robert Hodgin&#x2019;s Fish Tornado demo"/>
+</node>
+<node CREATED="1460621789812" FOLDED="true" ID="ID_310664708" MODIFIED="1460622849629" TEXT="Optimization: The Vulkan API">
+<node CREATED="1460621820313" ID="ID_1421224542" MODIFIED="1460621824308" TEXT="Vulkan offers new features for developers&#xa; who need to make every millisecond count.">
+<node CREATED="1460621830046" FOLDED="true" ID="ID_565798927" MODIFIED="1460621922910" TEXT="Application control of memory allocation">
+<node CREATED="1460621858183" ID="ID_219606057" MODIFIED="1460621866914" TEXT=" Vulkan provides mechanisms for fine-grained &#xa;control of how and when memory is allocated &#xa;on the GPU. "/>
+<node CREATED="1460621898777" ID="ID_37435461" MODIFIED="1460621914078" TEXT=".This allows developers to use their own&#xa; allocation and recycling policies to fit &#xa;their application, ultimately reducing &#xa;execution and memory overhead and &#xa;allowing applications to control when &#xa;expensive allocations occur."/>
+</node>
+<node CREATED="1460621923303" FOLDED="true" ID="ID_877880683" MODIFIED="1460622207478" TEXT="Asynchronous command generation">
+<node CREATED="1460621945772" ID="ID_816352383" MODIFIED="1460621950711" TEXT=" In OpenGL ES, draw calls are issued to the&#xa; GPU as soon as the application calls them."/>
+<node CREATED="1460622078565" ID="ID_1735088290" MODIFIED="1460622079109" TEXT="In Vulkan">
+<node CREATED="1460621996333" FOLDED="true" ID="ID_1624204699" MODIFIED="1460622084597" TEXT=" In Vulkan, the application instead &#xa;submits draw calls to command buffers,">
+<node CREATED="1460622006020" ID="ID_1080617633" MODIFIED="1460622034034" TEXT="which allows the work of forming and &#xa;recording the draw call to be separated&#xa; from the act of issuing it to the GPU. "/>
+</node>
+<node CREATED="1460622063015" ID="ID_1325433407" MODIFIED="1460622070892" TEXT="By spreading command generation across &#xa;several threads, applications can more &#xa;effectively make use of multiple CPU cores."/>
+<node CREATED="1460622163688" ID="ID_286064478" MODIFIED="1460622169786" TEXT="These command buffers can also be reused,&#xa; reducing the overhead involved in command&#xa; creation and issuance."/>
+</node>
+</node>
+<node CREATED="1460622208051" FOLDED="true" ID="ID_1998017642" MODIFIED="1460622274465" TEXT="No hidden work">
+<node CREATED="1460622233016" ID="ID_1291747312" MODIFIED="1460622242050" TEXT=" One OpenGL ES pitfall is that some commands &#xa;may trigger work at points which are not explicitly &#xa;spelled out in the API specification or made obvious&#xa; to the developer"/>
+<node CREATED="1460622255540" ID="ID_1557055248" MODIFIED="1460622263370" TEXT=" Vulkan makes performance more predictable &#xa;and consistent by specifying which commands &#xa;will explicitly trigger work and which will not."/>
+</node>
+<node CREATED="1460622274868" FOLDED="true" ID="ID_1725368240" MODIFIED="1460622477216" TEXT="Multithreaded design, from the ground up.">
+<node CREATED="1460622302523" ID="ID_935124257" MODIFIED="1460622311029" TEXT="All OpenGL ES applications must issue commands &#xa;for a context only from a single thread in order to &#xa;render predictably and correctly. "/>
+<node CREATED="1460622326274" ID="ID_1840031195" MODIFIED="1460622344635" TEXT="Vulkan &#x5141;&#x8bb8; applications to do work like&#xa; command buffer generation in parallel">
+<node CREATED="1460622385574" ID="ID_1446947463" MODIFIED="1460622460282" TEXT="&#x4f46;&#x662f; The power and responsibility of managing &#xa;thread synchronization is in the hands of&#xa; the application.">
+<node CREATED="1460622354455" ID="ID_602587449" MODIFIED="1460622454600" TEXT="&#x56e0;&#x4e3a; it doesn&#x2019;t make implicit guarantees &#xa;about the safety of modifying and reading &#xa;data from multiple threads at the same time. "/>
+</node>
+</node>
+</node>
+<node CREATED="1460622468010" FOLDED="true" ID="ID_1745836731" MODIFIED="1460622598889" TEXT="Mobile-friendly features">
+<node CREATED="1460622504881" ID="ID_1015853200" MODIFIED="1460622509470" TEXT="achieving high performance on tiling GPUs,&#xa; used by many mobile devices."/>
+<node CREATED="1460622579794" ID="ID_44863650" MODIFIED="1460622593705" TEXT="Applications can provide information about &#xa;the interaction between separate rendering&#xa; passes, allowing tiling GPUs to make effective&#xa; use of limited memory bandwidth, and avoid &#xa;performing off-chip reads."/>
+</node>
+<node CREATED="1460622599278" FOLDED="true" ID="ID_1446665834" MODIFIED="1460622774158" TEXT="Offline shader compilation.">
+<node CREATED="1460622612987" ID="ID_1686978404" MODIFIED="1460622755581" TEXT=" Vulkan mandates support for SPIR-V&#xa;&#xa;SPIR-V &#x662f; an intermediate language for shaders">
+<node CREATED="1460622647392" ID="ID_396849588" MODIFIED="1460622657069" TEXT=" This allows developers to compile shaders&#xa; ahead of time, and ship SPIR-V binaries with&#xa; their applications">
+<node CREATED="1460622697064" ID="ID_565314062" MODIFIED="1460622703716" TEXT="SPIR-V also opens the door for third parties to &#xa;provide compilers for specialized or cross-platform&#xa; shading languages."/>
+</node>
+<node CREATED="1460622668257" ID="ID_1183723734" MODIFIED="1460622674013" TEXT="These binaries are simpler to parse&#xa; than high-level languages like GLSL"/>
+<node CREATED="1460622682509" ID="ID_1215743906" MODIFIED="1460622686490" TEXT="which means less variance in how&#xa; drivers perform this parsing."/>
+</node>
+</node>
+<node CREATED="1460622622179" ID="ID_603382559" MODIFIED="1460622770393" TEXT="Optional validation">
+<node CREATED="1460622792730" FOLDED="true" ID="ID_567111600" MODIFIED="1460622819122" TEXT="OpenGL ES validates every command you call">
+<node CREATED="1460622799840" ID="ID_1517709125" MODIFIED="1460622806210" TEXT=" checking that arguments are within expected &#xa;ranges, and objects are in the correct state to&#xa; be operated upon"/>
+</node>
+<node CREATED="1460622816176" ID="ID_1426280278" MODIFIED="1460622818080" TEXT=" Vulkan doesn&#x2019;t perform any of this validation itself.">
+<node CREATED="1460622831016" ID="ID_735471389" MODIFIED="1460622840086" TEXT=" Instead, developers can use optional &#xa;debug tools to ensure their calls are correct, &#xa;incurring no run-time overhead in the &#xa;final product."/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1460622850759" FOLDED="true" ID="ID_1137750625" MODIFIED="1460622958587" TEXT="Debugging: Validation Layers">
+<node CREATED="1460622877763" ID="ID_917579109" MODIFIED="1460622888814" TEXT=" Vulkan&#x2019;s lack of implicit validation &#xa;requires developers to make use of &#xa;tools outside the API in order to &#xa;validate their code."/>
+<node CREATED="1460622905226" ID="ID_1232594881" MODIFIED="1460622913869" TEXT="Vulkan&#x2019;s layer mechanism allows validation&#xa; code and other developer tools to inspect&#xa; every API call during development, without&#xa; incurring any overhead in the shipping version."/>
+<node CREATED="1460622927795" ID="ID_40580612" MODIFIED="1460622945011" TEXT="Our guides show you how to build the&#xa; validation layers for use with the &#xa;Android NDK, giving you the tools &#xa;necessary to build bug-free Vulkan&#xa; code from start to finish.">
+<node CREATED="1460622948530" ID="ID_348431996" LINK="https://developer.android.com/ndk/guides/graphics/validation-layer.html?utm_campaign=android_launch_vulkan_041316&amp;utm_source=anddev&amp;utm_medium=blog" MODIFIED="1460622953052" TEXT="guides"/>
+</node>
+</node>
+<node CREATED="1460622959102" FOLDED="true" ID="ID_1661792888" MODIFIED="1460623151859" TEXT="Develop: Shader toolchain&#xa;shader &#x7f16;&#x8bd1;&#x5de5;&#x5177;">
+<node CREATED="1460623023247" ID="ID_934298392" MODIFIED="1460623030855" TEXT="The Shaderc collection of tools provides &#xa;developers with build-time and run-time &#xa;tools for compiling GLSL into SPIR-V. ">
+<node CREATED="1460623034976" ID="ID_495579136" LINK="https://github.com/google/shaderc" MODIFIED="1460623041674" TEXT="Shaderc"/>
+</node>
+<node CREATED="1460623070320" ID="ID_461043985" MODIFIED="1460623083374" TEXT="Shaders can be compiled at build time &#xa;using glslc, a command-line compiler, &#xa;for easy integration into existing build &#xa;systems. "/>
+<node CREATED="1460623104264" ID="ID_1264022594" MODIFIED="1460623114223" TEXT=" for shaders which are generated or edited &#xa;during execution, developers can use the &#xa;Shaderc library to compile GLSL shaders to&#xa; SPIR-V via a C interface."/>
+<node CREATED="1460623123794" ID="ID_1423407765" MODIFIED="1460623124648" TEXT=" Both tools are built on top of Khronos&#x2019;s reference compiler."/>
+</node>
+<node CREATED="1460623152652" ID="ID_1925439672" MODIFIED="1460623153072" TEXT="Additional Resources">
+<node CREATED="1460623172163" FOLDED="true" ID="ID_1642285162" LINK="https://www.khronos.org/vulkan" MODIFIED="1460623216028" TEXT="Khronos&#x2019;s Vulkan resources">
+<node CREATED="1460623183844" ID="ID_998349583" MODIFIED="1460623184659" TEXT="including">
+<node CREATED="1460623186991" ID="ID_1046557326" MODIFIED="1460623197625" TEXT="overviews"/>
+<node CREATED="1460623192097" ID="ID_1366791390" MODIFIED="1460623192483" TEXT="reference pages"/>
+<node CREATED="1460623200929" ID="ID_49647973" MODIFIED="1460623201248" TEXT="specification"/>
+<node CREATED="1460623206386" ID="ID_121764293" MODIFIED="1460623206783" TEXT="community demos"/>
+</node>
+</node>
+<node CREATED="1460623216224" ID="ID_1259665370" LINK="https://developer.android.com/ndk/guides/graphics/index.html" MODIFIED="1460623222769" TEXT="Android&#x2019;s documentation for Vulkan"/>
+<node CREATED="1460623230158" ID="ID_253655326" LINK="https://github.com/googlesamples/vulkan-basic-samples" MODIFIED="1460623235346" TEXT="Android Vulkan samples"/>
+<node CREATED="1460623240565" ID="ID_1049819939" LINK="https://github.com/googlesamples/android-vulkan-tutorials" MODIFIED="1460623245167" TEXT="Android Vulkan tutorials">
+<node CREATED="1460623259302" ID="ID_645583658" LINK="https://vulkan.lunarg.com/signin" MODIFIED="1460623270292" TEXT="LunarG&#x2019;s LunarXchange has resources for &#xa;Windows and Linux Vulkan development"/>
+</node>
+</node>
 </node>
 </node>
 </node>
@@ -33770,7 +34144,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1457428042399" ID="ID_955770243" MODIFIED="1460546620898" TEXT="material design">
+<node CREATED="1457428042399" FOLDED="true" ID="ID_955770243" MODIFIED="1460621469314" TEXT="material design">
 <node CREATED="1457428062040" ID="ID_1428826862" LINK="http://android-developers.blogspot.fr/2014/10/implementing-material-design-in-your.html" MODIFIED="1460546620899" TEXT="Implementing Material Design in Your Android app">
 <node CREATED="1457428094037" ID="ID_1290561778" MODIFIED="1460546620901" TEXT="&#x7b80;&#x4ecb;">
 <node CREATED="1457428102263" ID="ID_1288129114" MODIFIED="1457428112432" TEXT="Android 5.0 Lollipop and the &#xa;updated support libraries help&#xa; you to create material UIs"/>
@@ -34034,7 +34408,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1460102336671" ID="ID_190513636" MODIFIED="1460102342635" TEXT="A new method to measure&#xa; touch and audio latency">
+<node CREATED="1460102336671" FOLDED="true" ID="ID_190513636" MODIFIED="1460621470556" TEXT="A new method to measure&#xa; touch and audio latency">
 <node CREATED="1460102438267" FOLDED="true" ID="ID_1504828096" LINK="https://github.com/google/walt" MODIFIED="1460102885948" TEXT="WALT Latency Timer">
 <node CREATED="1460102391499" ID="ID_1329365027" MODIFIED="1460102421516" TEXT="Android &#x548c; ChromeOS &#x56e2;&#x961f;&#x4f7f;&#x7528;&#xa;&#x7684; instruments &#x7684;&#x4e00;&#x90e8;&#x5206;"/>
 <node CREATED="1460102457125" ID="ID_916100219" MODIFIED="1460102460073" TEXT="to measure and minimize touch and audio latency"/>
