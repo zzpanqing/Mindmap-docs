@@ -1,8 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node COLOR="#ff0000" CREATED="1418423514471" ID="ID_1850581778" MODIFIED="1460550888317" TEXT="Android Project">
-<node CREATED="1418981282447" FOLDED="true" ID="ID_1603616679" MODIFIED="1460546951488" POSITION="right" TEXT="projects">
-<node CREATED="1418981285945" ID="ID_1122925823" MODIFIED="1458642492425" TEXT="iVisit3D">
+<node CREATED="1418981282447" ID="ID_1603616679" MODIFIED="1460629188346" POSITION="right" TEXT="projects">
+<node CREATED="1418981285945" ID="ID_1122925823" MODIFIED="1460629191705" TEXT="iVisit3D">
 <node CREATED="1418981306746" FOLDED="true" ID="ID_1872786123" MODIFIED="1458642497195" TEXT="bugs">
 <node CREATED="1418981320200" ID="ID_1958258670" MODIFIED="1458041167951" TEXT="&#x5728; emulator &#x4e0a;&#xff0c;&#x4e0b;&#x8f7d; .pno &#x540e;&#xff0c;&#x6253;&#x4e0d;&#x5f00;&#xff0c;&#xa;&#x663e;&#x793a; Device not compatible with OpenGL ES 2.0">
 <node CREATED="1418981451450" ID="ID_1971980886" MODIFIED="1458041167951" TEXT="&#x5728; strings.xml &#x4e2d;&#x627e;&#x5230; message &#x5bf9;&#x5e94;&#x7684;&#x8d44;&#x6e90;&#xa;&lt;string name=&quot;message_opengles2_error&quot;&gt;&#xa;Device not compatible with OpenGL ES 2.0&lt;/string&gt;&#xa;">
@@ -804,7 +804,7 @@
 </node>
 </node>
 <node CREATED="1438935690380" ID="ID_934841565" MODIFIED="1458642504261" TEXT="android &#x7248;">
-<node CREATED="1419255655891" ID="ID_167369952" MODIFIED="1458642507545" TEXT="&#x5f00;&#x53d1;">
+<node CREATED="1419255655891" ID="ID_167369952" MODIFIED="1460629194875" TEXT="&#x5f00;&#x53d1;">
 <node CREATED="1429517766224" FOLDED="true" ID="ID_487449090" MODIFIED="1458903547557" TEXT="&#x6309;&#x529f;&#x80fd;">
 <node CREATED="1419255662447" FOLDED="true" ID="ID_619994092" MODIFIED="1458041173737" TEXT="&#x6253;&#x5f00;&#x6587;&#x4ef6;">
 <node CREATED="1419255673349" FOLDED="true" ID="ID_233128292" MODIFIED="1458041173582" TEXT="&#x65b0;&#x7248;&#x548c;&#x65e7;&#x7248;&#x7684;&#x6587;&#x4ef6;">
@@ -9132,7 +9132,7 @@
 </node>
 </node>
 <node CREATED="1432647018159" ID="ID_1430222710" MODIFIED="1432647045980" TEXT="projects list&#xff0c;delete one file, toast stay"/>
-<node CREATED="1433155195985" FOLDED="true" ID="ID_1279986167" MODIFIED="1458642509423" TEXT="Distribution">
+<node CREATED="1433155195985" FOLDED="true" ID="ID_1279986167" MODIFIED="1460629201419" TEXT="Distribution">
 <node CREATED="1433326410324" ID="ID_1846236637" MODIFIED="1458041516938" TEXT="&#x5173;&#x4e8e; crashlytics">
 <icon BUILTIN="messagebox_warning"/>
 <node CREATED="1433326414079" FOLDED="true" ID="ID_962530003" MODIFIED="1458041173591" TEXT="&#x5728;&#x9879;&#x76ee;&#x4e2d;&#x641c;&#x67e5; crashlytics">
@@ -9573,12 +9573,12 @@
 </node>
 </node>
 </node>
-<node CREATED="1433405974134" FOLDED="true" ID="ID_1018820415" MODIFIED="1458041173743" TEXT="lint ">
+<node CREATED="1433405974134" ID="ID_1018820415" MODIFIED="1460629014438" TEXT="lint ">
 <node CREATED="1433405984201" FOLDED="true" ID="ID_227585516" MODIFIED="1458041173594" TEXT="&#x53ea;&#x8ba9;&#x68c0;&#x67e5; iVisit360.Player,&#xa;&#x4f46;&#x662f;&#x5f15;&#x7528;&#x7684; projects &#x4e5f;&#x88ab;&#x68c0;&#x67e5;&#xa;">
 <node CREATED="1433407957878" ID="ID_1252227208" MODIFIED="1433408028123" TEXT="&#x4e0d;&#x8981;&#x68c0;&#x67e5;&#x7684; project &#xa;&#x53f3;&#x952e; &#xa;&gt; properties&#xa;&gt; Android Lint Preference&#xa;&gt; Ignore All&#xa;&#xa;&#x597d;&#x50cf;&#x4e0d;&#x592a;&#x7ba1;&#x7528;"/>
 <node CREATED="1433408039134" ID="ID_348852052" MODIFIED="1433408116726" TEXT="workaround &#x9690;&#x85cf;&#x67d0;&#x4e2a; project&#xa;link marker:&#xa;project &#x4e0a;&#x53f3;&#x952e; &gt;&#xa;Android Tools &gt; &#xa;clear lint markers"/>
 </node>
-<node CREATED="1433408121609" FOLDED="true" ID="ID_1641994113" MODIFIED="1458041173595" TEXT="lint &#x5bf9; iVisit360.Player &#x7684;&#xa;&#x68c0;&#x67e5;&#x7ed3;&#x679c;">
+<node CREATED="1433408121609" ID="ID_1641994113" MODIFIED="1460629014463" TEXT="lint &#x5bf9; iVisit360.Player &#x7684;&#xa;&#x68c0;&#x67e5;&#x7ed3;&#x679c;">
 <node CREATED="1433410186804" FOLDED="true" ID="ID_1348895264" MODIFIED="1458041173382" TEXT="minSDK &#x662f; 8&#xff0c; &#x5f88;&#x591a;&#x8c03;&#x7528;&#xa;&#x7528;&#x5230; API 11 &#x4ee5;&#x4e0a;&#x7684;&#x529f;&#x80fd;">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1433410239931" FOLDED="true" ID="ID_1011207927" MODIFIED="1458041173105" TEXT="&#x6bd4;&#x5982;">
@@ -10590,7 +10590,7 @@
 <node CREATED="1436970452226" ID="ID_1165976621" MODIFIED="1436970454203" TEXT="text"/>
 </node>
 </node>
-<node CREATED="1432645456005" ID="ID_1932355307" MODIFIED="1458642558344" TEXT="bugs">
+<node CREATED="1432645456005" FOLDED="true" ID="ID_1932355307" MODIFIED="1460629195805" TEXT="bugs">
 <node CREATED="1435564365536" FOLDED="true" ID="ID_440678243" MODIFIED="1458041173744" TEXT="corrig&#xe9;">
 <node CREATED="1432645462925" FOLDED="true" ID="ID_251739587" MODIFIED="1458041173596" TEXT="preview not displayed&#xa;&#x4e0d;&#x662f; bug">
 <icon BUILTIN="button_ok"/>
@@ -12200,7 +12200,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1453815091196" FOLDED="true" ID="ID_556173232" MODIFIED="1458642521529" TEXT="&#x6539;&#x5199;">
+<node CREATED="1453815091196" ID="ID_556173232" MODIFIED="1460629208417" TEXT="&#x6539;&#x5199;">
 <node CREATED="1453815095636" FOLDED="true" ID="ID_21279296" MODIFIED="1458041173745" TEXT="&#x5c06; shader &#x63d0;&#x51fa;&#x6765;">
 <node CREATED="1453815105372" FOLDED="true" ID="ID_1409908212" MODIFIED="1458041173600" TEXT="&#x95ee;&#x9898; ">
 <node CREATED="1453815110806" FOLDED="true" ID="ID_496255437" MODIFIED="1458041173393" TEXT="AnnotationVideoInScene &#x4e2d;&#xa;&#x4f7f;&#x7528; ShaderVideoTexture mShader,&#xa;&#x4f55;&#x65f6;&#x5220;&#x9664; mShader">
@@ -12210,7 +12210,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456920336677" ID="ID_908522781" MODIFIED="1460546709668" TEXT="&#x53bb;&#x6389; actionSherlock">
+<node CREATED="1456920336677" ID="ID_908522781" MODIFIED="1460629210661" TEXT="&#x53bb;&#x6389; actionSherlock">
 <node CREATED="1456924711543" ID="ID_1290516161" MODIFIED="1456924723150" TEXT="&#x6240;&#x6709; activity extend AppCompatActivity"/>
 <node CREATED="1456920352301" ID="ID_464783469" MODIFIED="1456924719321" TEXT="theme parent &#x4f7f;&#x7528; Theme.AppCompat&#xa;"/>
 <node CREATED="1456925341891" ID="ID_971902854" MODIFIED="1457520426600" TEXT="&#x95ee;&#x9898;">
@@ -12224,7 +12224,7 @@
 </node>
 </node>
 <node CREATED="1456925359422" ID="ID_1363244731" MODIFIED="1456925373303" TEXT="&#x4e0b;&#x8f7d;&#x6587;&#x4ef6;&#x7684; progress bar &#x4e0d;&#x663e;&#x793a;"/>
-<node CREATED="1457436493887" ID="ID_1699112215" MODIFIED="1460546683883" TEXT="home button &#x4e0d;&#x663e;&#x793a;">
+<node CREATED="1457436493887" FOLDED="true" ID="ID_1699112215" MODIFIED="1460629221894" TEXT="home button &#x4e0d;&#x663e;&#x793a;">
 <node CREATED="1457436530393" ID="ID_944503314" LINK="http://stackoverflow.com/questions/26732952/how-to-enable-homeasup-or-call-setdisplayhomeasupenabled-on-standalone-toolbar" MODIFIED="1457436541877" TEXT="How to enable homeAsUp or call &#xa;setDisplayHomeAsUpEnabled() on&#xa;standalone toolbar with appcompat v21"/>
 <node CREATED="1457519847505" FOLDED="true" ID="ID_1901437382" MODIFIED="1457601980246" TEXT="&#x7814;&#x7a76; android &#x4ee3;&#x7801;">
 <node CREATED="1457519867788" ID="ID_48189610" MODIFIED="1457520431178" TEXT="setSupportActionBar">
@@ -12252,7 +12252,7 @@
 </node>
 <node CREATED="1457601987805" ID="ID_955721915" MODIFIED="1457611400252" TEXT="&#x9700;&#x8981;&#x8bbe;&#x7f6e; dans le theme general&#xa;        &lt;item name=&quot;android:icon&quot;&gt;@drawable/actionbar_space_between_icon_and_title&lt;/item&gt;&#xa;        &lt;item name=&quot;icon&quot;&gt;@drawable/actionbar_space_between_icon_and_title&lt;/item&gt;"/>
 </node>
-<node CREATED="1457611738441" ID="ID_404864241" LINK="http://stackoverflow.com/questions/4585808/difference-between-declare-styleable-and-style" MODIFIED="1457611752645" TEXT="Difference between declare-styleable and style">
+<node CREATED="1457611738441" FOLDED="true" ID="ID_404864241" LINK="http://stackoverflow.com/questions/4585808/difference-between-declare-styleable-and-style" MODIFIED="1460629217305" TEXT="Difference between declare-styleable and style">
 <node CREATED="1457611802398" ID="ID_1563231466" MODIFIED="1457617693230" TEXT="In attrs.xml you can declare custom attributes">
 <node CREATED="1457611819689" FOLDED="true" ID="ID_724894875" MODIFIED="1457618207330" TEXT="&#x4e24;&#x79cd;&#x65b9;&#x5f0f;">
 <node CREATED="1457612093467" ID="ID_776315261" MODIFIED="1457612094827" TEXT="directly within the &quot;resources&quot; section "/>
@@ -12291,6 +12291,16 @@
 </node>
 </node>
 </node>
+</node>
+<node CREATED="1460629224357" ID="ID_756330911" MODIFIED="1460629259887" TEXT="panorama activity &#x7684; toolbar &#xa;&#x53ea;&#x5728; Android 5 &#x4e0a;&#x663e;&#x793a;">
+<node CREATED="1460629281077" ID="ID_1315762617" MODIFIED="1460629285922" TEXT="&#x9605;&#x8bfb;">
+<node CREATED="1460629286324" ID="ID_822815598" LINK="http://stackoverflow.com/questions/27532167/android-transparent-overlay-toolbar" MODIFIED="1460629373414" TEXT="Android transparent overlay toolbar">
+<node CREATED="1460629387657" ID="ID_1968227015" MODIFIED="1460629388186" TEXT="In xml, the ordering of the layouts determine the &quot;depth&quot;">
+<node CREATED="1460629460815" ID="ID_1981442063" MODIFIED="1460629465765" TEXT="By moving the toolbar below the other &#xa;elements, it will overlay them."/>
+</node>
+</node>
+</node>
+<node CREATED="1460629289385" ID="ID_1347185083" MODIFIED="1460629359513" TEXT="panorama activity &#x662f;&#x4e00;&#x4e2a; FrameLayout"/>
 </node>
 </node>
 </node>
@@ -18101,7 +18111,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435660554276" ID="ID_1446294098" MODIFIED="1460621465027" POSITION="right" TEXT="&#x5b66;&#x4e60;">
+<node CREATED="1435660554276" ID="ID_1446294098" MODIFIED="1460630683463" POSITION="right" TEXT="&#x5b66;&#x4e60;">
 <node CREATED="1418423514471" FOLDED="true" ID="ID_1530247130" MODIFIED="1458552264532" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423520471" ID="ID_1061945990" MODIFIED="1458041169090" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423530671" ID="ID_1813456615" MODIFIED="1458041169091" TEXT="&#x5de5;&#x5177;&#x548c;&#x57fa;&#x7840;">
@@ -19497,7 +19507,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1418425034962" ID="ID_987499775" LINK="http://developer.android.com/" MODIFIED="1460624033802" TEXT="android &#x7a0b;&#x5e8f;&#x5458;&#x5f00;&#x53d1;&#x7f51;&#x7ad9;">
+<node CREATED="1418425034962" FOLDED="true" ID="ID_987499775" LINK="http://developer.android.com/" MODIFIED="1460629186060" TEXT="android &#x7a0b;&#x5e8f;&#x5458;&#x5f00;&#x53d1;&#x7f51;&#x7ad9;">
 <node CREATED="1418425447009" FOLDED="true" ID="ID_77937301" MODIFIED="1460624078790" TEXT="About">
 <node CREATED="1418425452680" ID="ID_1407088298" MODIFIED="1458041169387" TEXT="Welcom">
 <node CREATED="1418425460589" ID="ID_34783863" MODIFIED="1458041169388" TEXT="android, &#x4e16;&#x4e0a;&#x6700;&#x6d41;&#x884c;">
@@ -19677,8 +19687,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1418565860368" ID="ID_614402683" MODIFIED="1460624047562" TEXT="Develop">
-<node CREATED="1418565868056" ID="ID_1548436771" MODIFIED="1460624050408" TEXT="Tools">
+<node CREATED="1418565860368" FOLDED="true" ID="ID_614402683" MODIFIED="1460629184914" TEXT="Develop">
+<node CREATED="1418565868056" FOLDED="true" ID="ID_1548436771" MODIFIED="1460629030320" TEXT="Tools">
 <node CREATED="1432550536232" FOLDED="true" ID="ID_1457498735" LINK="http://developer.android.com/tools/workflow/index.html" MODIFIED="1460624059056" TEXT="Workflow">
 <node CREATED="1439210475114" ID="ID_1003806711" LINK="http://developer.android.com/tools/devices/index.html" MODIFIED="1458552218343" TEXT="Using Hardeware Devices">
 <node CREATED="1439210514061" FOLDED="true" ID="ID_151882376" LINK="http://developer.android.com/tools/extras/oem-usb.html" MODIFIED="1458552236731" TEXT="USB Drivers">
@@ -22901,7 +22911,7 @@
 </node>
 <node CREATED="1423065709858" ID="ID_320045412" LINK="http://jgilfelt.github.io/android-actionbarstylegenerator/#name=example&amp;compat=holo&amp;theme=light&amp;actionbarstyle=solid&amp;texture=0&amp;hairline=0&amp;neutralPressed=1&amp;backColor=E4E4E4%2C100&amp;secondaryColor=D6D6D6%2C100&amp;tabColor=33B5E5%2C100&amp;tertiaryColor=F2F2F2%2C100&amp;accentColor=33B5E5%2C100&amp;cabBackColor=FFFFFF%2C100&amp;cabHighlightColor=33B5E5%2C100" MODIFIED="1423065725731" TEXT="Android Action Bar Style Generator"/>
 <node CREATED="1423065750757" ID="ID_721281982" LINK="http://romannurik.github.io/AndroidAssetStudio/" MODIFIED="1423065758001" TEXT="all"/>
-<node CREATED="1434098983278" FOLDED="true" ID="ID_1118068088" LINK="https://developer.android.com/tools/support-library/index.html" MODIFIED="1460624062386" TEXT="Support Library">
+<node CREATED="1434098983278" FOLDED="true" ID="ID_1118068088" LINK="https://developer.android.com/tools/support-library/index.html" MODIFIED="1460629030318" TEXT="Support Library">
 <node CREATED="1456845978491" ID="ID_1692228155" LINK="http://developer.android.com/tools/support-library/index.html" MODIFIED="1458552218814" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1456846091330" FOLDED="true" ID="ID_592482975" MODIFIED="1458552236811" TEXT="&#x524d;&#x8a00;">
 <node CREATED="1456846023164" FOLDED="true" ID="ID_1060007615" MODIFIED="1458041173445" TEXT="Support Library provide ">
@@ -23116,11 +23126,11 @@
 <node CREATED="1456850200091" ID="ID_814239644" MODIFIED="1456850201012" TEXT="com.android.support:customtabs:23.1.0"/>
 </node>
 </node>
-<node CREATED="1456850207302" FOLDED="true" ID="ID_281803318" LINK="https://developer.android.com/tools/support-library/features.html#percent" MODIFIED="1458552236817" TEXT="Percent Support Library">
+<node CREATED="1456850207302" FOLDED="true" ID="ID_281803318" LINK="https://developer.android.com/tools/support-library/features.html#percent" MODIFIED="1460629030316" TEXT="Percent Support Library">
 <node CREATED="1456850234100" FOLDED="true" ID="ID_1695952813" MODIFIED="1458041173447" TEXT="interface">
 <node CREATED="1456850229972" ID="ID_475389936" LINK="https://developer.android.com/reference/android/support/percent/PercentLayoutHelper.PercentLayoutParams.html" MODIFIED="1456850241312" TEXT="PercentLayoutHelper.PercentLayoutParams"/>
 </node>
-<node CREATED="1456850245598" FOLDED="true" ID="ID_1103537319" MODIFIED="1458041173447" TEXT="classes">
+<node CREATED="1456850245598" FOLDED="true" ID="ID_1103537319" MODIFIED="1460629030315" TEXT="classes">
 <node CREATED="1456850249073" ID="ID_302490687" LINK="https://developer.android.com/reference/android/support/percent/PercentFrameLayout.html" MODIFIED="1456850253910" TEXT="PercentFrameLayout"/>
 <node CREATED="1456850257658" ID="ID_1726461476" LINK="https://developer.android.com/reference/android/support/percent/PercentRelativeLayout.html" MODIFIED="1456850262930" TEXT="PercentRelativeLayout"/>
 </node>
@@ -23352,7 +23362,7 @@
 </node>
 <node CREATED="1435698847755" ID="ID_157182383" LINK="https://developer.android.com/sdk/index.html" MODIFIED="1435698862134" TEXT="Download"/>
 </node>
-<node CREATED="1418578203298" FOLDED="true" ID="ID_1117256243" MODIFIED="1460624048852" TEXT="Training">
+<node CREATED="1418578203298" FOLDED="true" ID="ID_1117256243" MODIFIED="1460629157580" TEXT="Training">
 <node CREATED="1418578207903" FOLDED="true" ID="ID_753933996" MODIFIED="1460369630072" TEXT="Getting Started">
 <node CREATED="1418578214406" ID="ID_1156951077" MODIFIED="1458552218905" TEXT="Building your Firs App">
 <node CREATED="1418578329232" FOLDED="true" ID="ID_1870106393" MODIFIED="1458552236820" TEXT="Creating an Android Project">
@@ -23552,7 +23562,7 @@
 </node>
 <node CREATED="1418596056050" ID="ID_957069022" MODIFIED="1418596057546" TEXT="Building a Simple User Interface"/>
 </node>
-<node CREATED="1418643812708" FOLDED="true" ID="ID_1926777827" MODIFIED="1460369628898" TEXT="Building a Simple User Interface">
+<node CREATED="1418643812708" FOLDED="true" ID="ID_1926777827" MODIFIED="1460629157578" TEXT="Building a Simple User Interface">
 <node CREATED="1418643847378" ID="ID_487646421" MODIFIED="1458552218910" TEXT="&#x751f;&#x6210; layout in XML">
 <node CREATED="1418643857008" FOLDED="true" ID="ID_987513213" MODIFIED="1458552236821" TEXT="&#x5305;&#x542b;">
 <node CREATED="1418643860177" ID="ID_312167886" MODIFIED="1418643864150" TEXT="text field"/>
@@ -23568,14 +23578,14 @@
 <node CREATED="1418651577249" ID="ID_851909738" MODIFIED="1418651582208" TEXT="text fields"/>
 </node>
 </node>
-<node CREATED="1418651553625" FOLDED="true" ID="ID_1497711918" MODIFIED="1458552236822" TEXT="ViewGroup">
+<node CREATED="1418651553625" FOLDED="true" ID="ID_1497711918" MODIFIED="1460629157577" TEXT="ViewGroup">
 <node CREATED="1418651585304" FOLDED="true" ID="ID_1962949985" MODIFIED="1458041173449" TEXT="invisible view container">
 <node CREATED="1418651594113" FOLDED="true" ID="ID_355464592" MODIFIED="1458041173239" TEXT="&#x5b9a;&#x4e49; child views &#x5982;&#x4f55; laid out">
 <node CREATED="1418651609829" ID="ID_221093710" MODIFIED="1418651614371" TEXT="in a grid "/>
 <node CREATED="1418651614631" ID="ID_524179822" MODIFIED="1418651619917" TEXT="in a vertical list"/>
 </node>
 </node>
-<node CREATED="1422290895215" FOLDED="true" ID="ID_1880074615" MODIFIED="1458041173449" TEXT="layout">
+<node CREATED="1422290895215" FOLDED="true" ID="ID_1880074615" MODIFIED="1460629157576" TEXT="layout">
 <node CREATED="1422286515882" FOLDED="true" ID="ID_877893948" MODIFIED="1458041173239" TEXT="&#x57fa;&#x672c;&#x7684; layout">
 <node CREATED="1418671960333" FOLDED="true" ID="ID_1616372252" MODIFIED="1456321593307" TEXT="LinearLayout">
 <node CREATED="1418672617329" FOLDED="true" ID="ID_1356192888" MODIFIED="1456321593306" TEXT="layout &#x5c06; children &#x653e;&#x5728;&#x4e00;&#x4e2a; column &#x6216;&#x8005; row &#x4e2d;&#xff0c;">
@@ -23688,10 +23698,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1422290901545" FOLDED="true" ID="ID_1752161371" MODIFIED="1458041173239" TEXT="FrameLayout">
-<node CREATED="1422291006342" FOLDED="true" ID="ID_1207884546" MODIFIED="1456321593310" TEXT="&#x8bf4;&#x660e;">
-<node CREATED="1422291012826" FOLDED="true" ID="ID_858428650" MODIFIED="1456321593310" TEXT="&#x7528;&#x4e8e;&#x663e;&#x793a;&#x4e00;&#x7ec4; view, &#x4f46;&#x6bcf;&#x6b21;&#x53ea;&#x663e;&#x793a;&#x4e00;&#x4e2a;&#xff0c;">
-<node CREATED="1422291031965" FOLDED="true" ID="ID_1324799232" MODIFIED="1456321593310" TEXT="&#x6bd4;&#x5982;">
+<node CREATED="1422290901545" ID="ID_1752161371" MODIFIED="1460629039522" TEXT="FrameLayout">
+<node CREATED="1422291006342" ID="ID_1207884546" MODIFIED="1460629041299" TEXT="&#x8bf4;&#x660e;">
+<node CREATED="1422291012826" ID="ID_858428650" MODIFIED="1460629046395" TEXT="&#x7528;&#x4e8e;&#x663e;&#x793a;&#x4e00;&#x7ec4; view, &#x4f46;&#x6bcf;&#x6b21;&#x53ea;&#x663e;&#x793a;&#x4e00;&#x4e2a;&#xff0c;">
+<node CREATED="1422291031965" ID="ID_1324799232" MODIFIED="1460629048005" TEXT="&#x6bd4;&#x5982;">
 <node CREATED="1422291035080" ID="ID_1073144018" MODIFIED="1422291046485" TEXT="album photo"/>
 <node CREATED="1422291046779" ID="ID_475662399" MODIFIED="1422291051073" TEXT="pdf &#x6587;&#x6863;"/>
 </node>
@@ -23701,9 +23711,9 @@
 </node>
 <node CREATED="1422291071491" ID="ID_320416352" MODIFIED="1422291076934" TEXT="&#x662f;&#x4e00;&#x4e2a; viewGroup"/>
 </node>
-<node CREATED="1422291061451" FOLDED="true" ID="ID_598394492" MODIFIED="1456321593311" TEXT="&#x5c5e;&#x6027;">
-<node CREATED="1422291065699" FOLDED="true" ID="ID_421491199" MODIFIED="1456321593311" TEXT="android.visibility">
-<node CREATED="1422291171888" FOLDED="true" ID="ID_1611785755" MODIFIED="1456321593311" TEXT="&#x4e09;&#x4e2a;&#x503c;">
+<node CREATED="1422291061451" FOLDED="true" ID="ID_598394492" MODIFIED="1460629138122" TEXT="&#x5c5e;&#x6027;">
+<node CREATED="1422291065699" ID="ID_421491199" MODIFIED="1460629131845" TEXT="android.visibility">
+<node CREATED="1422291171888" ID="ID_1611785755" MODIFIED="1460629133454" TEXT="&#x4e09;&#x4e2a;&#x503c;">
 <node CREATED="1422291190521" ID="ID_533258172" MODIFIED="1422291191007" TEXT="visible (View.VISIBLE)"/>
 <node CREATED="1422291197569" FOLDED="true" ID="ID_1758678664" MODIFIED="1456321593310" TEXT="invisible (View.INVISIBLE) ">
 <node CREATED="1422291198547" ID="ID_1488604296" MODIFIED="1422291209494" TEXT="&#x4ec0;&#x4e48;&#x4e5f;&#x4e0d;&#x663e;&#x793a;"/>
@@ -23713,16 +23723,16 @@
 <node CREATED="1422291251133" ID="ID_909977658" MODIFIED="1422291262481" TEXT="&#x4e0d;&#x663e;&#x793a;&#xff0c;&#x4e0d;&#x5360;&#x7a7a;&#x95f4;"/>
 </node>
 </node>
-<node CREATED="1422291276595" FOLDED="true" ID="ID_1114193820" MODIFIED="1456321593311" TEXT="&#x51fd;&#x6570;">
+<node CREATED="1422291276595" ID="ID_1114193820" MODIFIED="1460629136108" TEXT="&#x51fd;&#x6570;">
 <node CREATED="1422291284157" ID="ID_367040200" MODIFIED="1422291284755" TEXT="setVisibility"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1422291336015" FOLDED="true" ID="ID_964772654" MODIFIED="1458041173240" TEXT="scrollView">
-<node CREATED="1422291434928" FOLDED="true" ID="ID_19499073" MODIFIED="1456321593311" TEXT="&#x8bf4;&#x660e;">
+<node CREATED="1422291336015" FOLDED="true" ID="ID_964772654" MODIFIED="1460629157575" TEXT="scrollView">
+<node CREATED="1422291434928" FOLDED="true" ID="ID_19499073" MODIFIED="1460629157574" TEXT="&#x8bf4;&#x660e;">
 <node CREATED="1422291565440" ID="ID_123101692" MODIFIED="1422291581035" TEXT="&#x6709;&#x7ad6;&#x76f4;&#x6eda;&#x52a8;&#x6761;"/>
-<node CREATED="1422291585943" FOLDED="true" ID="ID_936710185" MODIFIED="1456321593311" TEXT="&#x7ee7;&#x627f; FrameLayout">
+<node CREATED="1422291585943" FOLDED="true" ID="ID_936710185" MODIFIED="1460629156966" TEXT="&#x7ee7;&#x627f; FrameLayout">
 <node CREATED="1422291611314" ID="ID_1792303108" MODIFIED="1422291633759" TEXT="&#x6700;&#x597d;&#x53ea;&#x653e;&#x4e00;&#x4e2a;  view &#x5728; scroll view &#x4e2d;"/>
 </node>
 <node CREATED="1422291650365" FOLDED="true" ID="ID_888303243" MODIFIED="1456321593311" TEXT="&#x548c;&#x5176;&#x4ed6; layout &#x8054;&#x5408;&#x4f7f;&#x7528;">
@@ -27206,7 +27216,7 @@
 <node CREATED="1460553304563" ID="ID_103489268" MODIFIED="1460553307094" TEXT="..."/>
 </node>
 </node>
-<node CREATED="1433191137079" FOLDED="true" ID="ID_1366916238" LINK="http://developer.android.com/reference/packages.html" MODIFIED="1460369636117" TEXT="Reference">
+<node CREATED="1433191137079" FOLDED="true" ID="ID_1366916238" LINK="http://developer.android.com/reference/packages.html" MODIFIED="1460629183558" TEXT="Reference">
 <node CREATED="1433191148778" ID="ID_230646741" LINK="http://developer.android.com/reference/android/os/Debug.html" MODIFIED="1458041170363" TEXT="Debug">
 <node CREATED="1433191316979" ID="ID_1579950451" MODIFIED="1458552219421" TEXT="Class Overview">
 <node CREATED="1433191325758" FOLDED="true" ID="ID_836820555" MODIFIED="1458552236876" TEXT="&#x63d0;&#x4f9b; debugging methods">
@@ -29000,7 +29010,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1437659983066" ID="ID_1159624491" LINK="http://developer.android.com/reference/android/app/Dialog.html" MODIFIED="1458041170661" TEXT="Dialog">
+<node CREATED="1437659983066" FOLDED="true" ID="ID_1159624491" LINK="http://developer.android.com/reference/android/app/Dialog.html" MODIFIED="1460629165170" TEXT="Dialog">
 <node CREATED="1437659664365" ID="ID_952251683" LINK="http://developer.android.com/reference/android/app/Dialog.html" MODIFIED="1458552220142" TEXT="Dialog">
 <node CREATED="1437659759465" FOLDED="true" ID="ID_13377545" MODIFIED="1458552236956" TEXT="Class Overview">
 <node CREATED="1437659766262" FOLDED="true" ID="ID_95569470" MODIFIED="1458041173483" TEXT="&#x7ba1;&#x7406; dialog &#x7684; creation, saving&#xa;&#x6062;&#x590d;">
@@ -29021,14 +29031,14 @@
 </node>
 </node>
 <node CREATED="1437660439917" ID="ID_1761233550" MODIFIED="1458552220152" TEXT="AlertDialog">
-<node CREATED="1437660003553" FOLDED="true" ID="ID_945525311" LINK="http://developer.android.com/reference/android/app/AlertDialog.html" MODIFIED="1458552236957" TEXT="AlertDialog">
-<node CREATED="1437660125820" FOLDED="true" ID="ID_1294800523" MODIFIED="1458041173483" TEXT="Class Overview">
+<node CREATED="1437660003553" FOLDED="true" ID="ID_945525311" LINK="http://developer.android.com/reference/android/app/AlertDialog.html" MODIFIED="1460629167530" TEXT="AlertDialog">
+<node CREATED="1437660125820" FOLDED="true" ID="ID_1294800523" MODIFIED="1460629167530" TEXT="Class Overview">
 <node CREATED="1437660131860" ID="ID_1424253037" MODIFIED="1437660145752" TEXT="display one, two or three buttons"/>
 <node CREATED="1437660150142" FOLDED="true" ID="ID_899330233" MODIFIED="1458041173274" TEXT=" display a String in this dialog box">
 <node CREATED="1437660153978" ID="ID_686991211" MODIFIED="1437660154933" TEXT="setMessage"/>
 </node>
-<node CREATED="1437660163383" FOLDED="true" ID="ID_1087913746" MODIFIED="1458041173275" TEXT="to display a more complex view">
-<node CREATED="1437660172080" FOLDED="true" ID="ID_1230700821" MODIFIED="1456321593618" TEXT="look up the FrameLayout called &#xa;&quot;custom&quot; and add your view to it:">
+<node CREATED="1437660163383" FOLDED="true" ID="ID_1087913746" MODIFIED="1460629167530" TEXT="to display a more complex view">
+<node CREATED="1437660172080" FOLDED="true" ID="ID_1230700821" MODIFIED="1460629167530" TEXT="look up the FrameLayout called &#xa;&quot;custom&quot; and add your view to it:">
 <node CREATED="1437660186772" ID="ID_1169019235" MODIFIED="1437660206751" TEXT=" FrameLayout fl = (FrameLayout) findViewById(android.R.id.custom);&#xa; fl.addView(myView, new LayoutParams(MATCH_PARENT, WRAP_CONTENT));"/>
 </node>
 </node>
@@ -29065,7 +29075,7 @@
 </node>
 <node CREATED="1437661764779" ID="ID_1467369325" LINK="http://developer.android.com/reference/android/app/Fragment.html" MODIFIED="1458041170673" TEXT="Fragment">
 <node CREATED="1437661414089" ID="ID_1319635844" LINK="http://developer.android.com/reference/android/app/Fragment.html" MODIFIED="1458552220180" TEXT="Fragment">
-<node CREATED="1437661477312" FOLDED="true" ID="ID_1334546608" MODIFIED="1458552236959" TEXT="Class Overview">
+<node CREATED="1437661477312" ID="ID_1334546608" MODIFIED="1460629167847" TEXT="Class Overview">
 <node CREATED="1437661435667" ID="ID_1253041694" MODIFIED="1437661469336" TEXT="fragement &#x662f;&#x4e00;&#x5757; UI &#xa0;&#x6216;&#xa;behavior &#x53ef;&#x4ee5;&#x88ab;&#x653e;&#x5165; Activity"/>
 <node CREATED="1437661520303" FOLDED="true" ID="ID_36821990" MODIFIED="1458041173483" TEXT="&#x901a;&#x8fc7; FragmentManager &#xa;&#x548c; Fragment &#x4ea4;&#x4e92;&#xa;">
 <node CREATED="1437661536725" FOLDED="true" ID="ID_283198649" MODIFIED="1458041173275" TEXT="&#x83b7;&#x53d6; FragmentManager">
@@ -29131,12 +29141,12 @@
 </node>
 </node>
 </node>
-<node CREATED="1438090955096" FOLDED="true" ID="ID_1505363930" MODIFIED="1458041173484" TEXT="Layout">
+<node CREATED="1438090955096" ID="ID_1505363930" MODIFIED="1460629167851" TEXT="Layout">
 <node CREATED="1438091076006" ID="ID_408340563" MODIFIED="1438091087212" TEXT="&#x4f7f;&#x7528; &lt;fragment&gt; tags"/>
-<node CREATED="1438091087832" FOLDED="true" ID="ID_727847754" MODIFIED="1458041173275" TEXT="&#x5c06; fragment instance &#x5d4c;&#x5165;&#xa;layout xml">
+<node CREATED="1438091087832" ID="ID_727847754" MODIFIED="1460629167852" TEXT="&#x5c06; fragment instance &#x5d4c;&#x5165;&#xa;layout xml">
 <node CREATED="1438091133606" ID="ID_1384688664" MODIFIED="1438091142325" TEXT="&#x4f7f;&#x7528; &lt;fragment&gt; tags"/>
-<node CREATED="1438091154605" FOLDED="true" ID="ID_1619776443" MODIFIED="1456321593632" TEXT="&#x793a;&#x4f8b;&#x4ee3;&#x7801;">
-<node CREATED="1438091232636" FOLDED="true" ID="ID_1781480407" MODIFIED="1456321593625" TEXT="xml">
+<node CREATED="1438091154605" ID="ID_1619776443" MODIFIED="1460629167859" TEXT="&#x793a;&#x4f8b;&#x4ee3;&#x7801;">
+<node CREATED="1438091232636" ID="ID_1781480407" MODIFIED="1460629167862" TEXT="xml">
 <node CREATED="1438091174936" ID="ID_950627866" MODIFIED="1438091182093" TEXT="&lt;FrameLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#xa;    android:layout_width=&quot;match_parent&quot; android:layout_height=&quot;match_parent&quot;&gt;&#xa;    &lt;fragment class=&quot;com.example.android.apis.app.FragmentLayout$TitlesFragment&quot;&#xa;            android:id=&quot;@+id/titles&quot;&#xa;            android:layout_width=&quot;match_parent&quot; android:layout_height=&quot;match_parent&quot; /&gt;&#xa;&lt;/FrameLayout&gt;"/>
 </node>
 <node CREATED="1438091238838" FOLDED="true" ID="ID_298802881" MODIFIED="1456321593625" TEXT="&#x5728; activity &#x4e2d;&#x4f7f;&#x7528;&#x4e0a;&#x9762;&#x7684; layout">
@@ -31958,7 +31968,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435222543108" FOLDED="true" ID="ID_313758430" MODIFIED="1460624031594" TEXT="Android Developer Blog">
+<node CREATED="1435222543108" ID="ID_313758430" MODIFIED="1460640169592" TEXT="Android Developer Blog">
 <node CREATED="1434991355871" FOLDED="true" ID="ID_746380783" LINK="http://android-developers.blogspot.fr/2011/03/memory-analysis-for-android.html" MODIFIED="1458552400527" TEXT="Memory Analysis for &#xa;Android Applications">
 <node CREATED="1435007343214" ID="ID_1156368103" MODIFIED="1458041171195" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1435007349317" ID="ID_549535713" MODIFIED="1435007391434" TEXT="Dalvik runtime &#x53ef;&#x4ee5;&#x662f; garbage-collected&#xa;&#x4f46;&#x4e0d;&#x53ef;&#x4ee5;&#x5ffd;&#x89c6; memory management"/>
@@ -32819,7 +32829,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1454603698106" ID="ID_1968775485" MODIFIED="1460621485974" TEXT="graphics">
+<node CREATED="1454603698106" FOLDED="true" ID="ID_1968775485" MODIFIED="1460640172650" TEXT="graphics">
 <node CREATED="1454603705655" ID="ID_559469295" MODIFIED="1460621488841" TEXT="Vulkan">
 <node CREATED="1454603715094" FOLDED="true" ID="ID_1757283590" LINK="http://android-developers.blogspot.fr/2015/08/low-overhead-rendering-with-vulkan.html" MODIFIED="1460621574694" TEXT="Low-overhead rendering with Vulkan&#xa;&#x672a;&#x5b8c;&#x5f85;&#x7eed;&#xa;Vulkan &#x662f; Khronos &#x7684; &#x65b0;&#x6807;&#x51c6;">
 <node CREATED="1454603788698" FOLDED="true" ID="ID_308016087" MODIFIED="1460621513922" TEXT="Lowering overhead and handing control to developers ">
@@ -33555,9 +33565,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1456391308717" FOLDED="true" ID="ID_1363032381" MODIFIED="1458552423850" TEXT="Android Support">
-<node CREATED="1456391634813" ID="ID_593415253" LINK="http://android-developers.blogspot.fr/2016/02/android-support-library-232.html" MODIFIED="1458041171490" TEXT="Android Support Library 23.2">
-<node CREATED="1456391828771" ID="ID_334886697" MODIFIED="1458041171492" TEXT="Support Vector Drawables and&#xa; Animated Vector Drawables">
+<node CREATED="1456391308717" ID="ID_1363032381" MODIFIED="1460642210313" TEXT="Android Support">
+<node CREATED="1456391634813" FOLDED="true" ID="ID_593415253" LINK="http://android-developers.blogspot.fr/2016/02/android-support-library-232.html" MODIFIED="1460642297441" TEXT="Android Support Library 23.2">
+<node CREATED="1456391828771" FOLDED="true" ID="ID_334886697" MODIFIED="1460642286054" TEXT="Support Vector Drawables and&#xa; Animated Vector Drawables">
 <node CREATED="1456391839829" ID="ID_437932524" MODIFIED="1458552222193" TEXT="Vector drawables">
 <node CREATED="1456391846410" FOLDED="true" ID="ID_721734039" MODIFIED="1458552237124" TEXT="replace multiple png assets with a single vector graphic">
 <node CREATED="1456391854139" ID="ID_958734604" MODIFIED="1456391854594" TEXT="defined in XML"/>
@@ -33608,7 +33618,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456393290069" ID="ID_1046176461" MODIFIED="1458041171505" TEXT="AppCompat DayNight theme">
+<node CREATED="1456393290069" FOLDED="true" ID="ID_1046176461" MODIFIED="1460642287438" TEXT="AppCompat DayNight theme">
 <node CREATED="1456393293470" ID="ID_1279067090" MODIFIED="1458552222217" TEXT="&#x65b0;&#x7684; Theme">
 <node CREATED="1456393283526" FOLDED="true" ID="ID_1658241112" MODIFIED="1458552237126" TEXT="Theme.AppCompat.DayNight">
 <node CREATED="1456393371152" FOLDED="true" ID="ID_117999504" MODIFIED="1458041173533" TEXT=" switching from a Light theme to a Dark &#xa;theme based on whether it is &#x2018;night&#x2019;.">
@@ -33697,7 +33707,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456394398362" ID="ID_1249535910" MODIFIED="1458041171523" TEXT="Support v4: MediaBrowserServiceCompat">
+<node CREATED="1456394398362" FOLDED="true" ID="ID_1249535910" MODIFIED="1460642288585" TEXT="Support v4: MediaBrowserServiceCompat">
 <node CREATED="1456394450583" ID="ID_1558306216" MODIFIED="1456394463389" TEXT=" Support v4 library &#x662f;&#x65b0;&#x7684; support libraries &#x7684;&#x57fa;&#x7840;"/>
 <node CREATED="1456394492434" ID="ID_362683542" MODIFIED="1458552222245" TEXT="MediaSessionCompat &#x589e;&#x5f3a; media playback">
 <node CREATED="1456394510137" ID="ID_1468130400" LINK="https://www.youtube.com/watch?v=FBC1FgWe5X4&amp;utm_campaign=android_launch_supportlibrary23.2_022216&amp;utm_source=anddev&amp;utm_medium=blog" MODIFIED="1456394514129" TEXT="MediaSessionCompat"/>
@@ -33711,7 +33721,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456394718727" ID="ID_510270248" LINK="http://developer.android.com/reference/android/support/v7/widget/RecyclerView.html?utm_campaign=android_launch_supportlibrary23.2_022216&amp;utm_source=anddev&amp;utm_medium=blog" MODIFIED="1458041171526" TEXT="RecyclerView">
+<node CREATED="1456394718727" FOLDED="true" ID="ID_510270248" LINK="http://developer.android.com/reference/android/support/v7/widget/RecyclerView.html?utm_campaign=android_launch_supportlibrary23.2_022216&amp;utm_source=anddev&amp;utm_medium=blog" MODIFIED="1460642289451" TEXT="RecyclerView">
 <node CREATED="1456394738166" ID="ID_414441377" MODIFIED="1458552222250" TEXT="provides &#x3002;&#x3002;&#x3002;&#x7684; base">
 <node CREATED="1456394749099" ID="ID_1833834553" LINK="http://developer.android.com/training/material/lists-cards.html?utm_campaign=android_launch_supportlibrary23.2_022216&amp;utm_source=anddev&amp;utm_medium=blog#RecyclerView" MODIFIED="1456394752871" TEXT="creating lists and grids"/>
 <node CREATED="1456394759135" ID="ID_262464874" LINK="https://www.youtube.com/watch?v=imsr8NrIAMs&amp;utm_campaign=android_launch_supportlibrary23.2_022216&amp;utm_source=anddev&amp;utm_medium=blog" MODIFIED="1456394763267" TEXT="animations"/>
@@ -33739,7 +33749,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456395162203" ID="ID_711006762" LINK="http://android-developers.blogspot.com/2015/09/chrome-custom-tabs-smooth-transition.html?utm_campaign=android_launch_supportlibrary23.2_022216&amp;utm_source=anddev&amp;utm_medium=blog" MODIFIED="1458041171535" TEXT="Custom Tabs">
+<node CREATED="1456395162203" FOLDED="true" ID="ID_711006762" LINK="http://android-developers.blogspot.com/2015/09/chrome-custom-tabs-smooth-transition.html?utm_campaign=android_launch_supportlibrary23.2_022216&amp;utm_source=anddev&amp;utm_medium=blog" MODIFIED="1460642290442" TEXT="Custom Tabs">
 <node CREATED="1456395218091" ID="ID_1093877430" MODIFIED="1456395257197" TEXT="&#x4f7f;&#x5f97;&#xa;seamlessly transition to web content while&#xa; keeping the look and feel of your app&#xa;&#x6210;&#x4e3a;&#x53ef;&#x80fd;"/>
 <node CREATED="1456395269321" ID="ID_1760687299" MODIFIED="1458552222261" TEXT="be able to add actions to a bottom &#xa;bar for display alongside the web content">
 <node CREATED="1456395317375" FOLDED="true" ID="ID_1392998593" MODIFIED="1458552237134" TEXT=" add up to currently 5&#xa; (MAX_TOOLBAR_ITEMS)&#xa; actions to the bottom bar ">
@@ -33753,7 +33763,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456395398212" ID="ID_1291073432" MODIFIED="1458041171538" TEXT="Leanback for Android TV">
+<node CREATED="1456395398212" FOLDED="true" ID="ID_1291073432" MODIFIED="1460642291387" TEXT="Leanback for Android TV">
 <node CREATED="1456395405843" ID="ID_865605726" LINK="http://developer.android.com/tools/support-library/features.html?utm_campaign=android_launch_supportlibrary23.2_022216&amp;utm_source=anddev&amp;utm_medium=blog#v17-leanback" MODIFIED="1458552222271" TEXT="Leanback Library">
 <node CREATED="1456395458290" FOLDED="true" ID="ID_222972209" MODIFIED="1458552237136" TEXT="&#x63d0;&#x4f9b;  many standard components &#xa;optimized for the TV experience">
 <node CREATED="1456395426599" FOLDED="true" ID="ID_321374183" MODIFIED="1458041173534" TEXT="&#x8ba9;&#x4f60;&#x53ef;&#x4ee5; bring your app to Android TV&#xa;&#x7684;&#x5de5;&#x5177;">
@@ -33785,7 +33795,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456828949756" ID="ID_1166427255" LINK="http://android-developers.blogspot.fr/2013/08/actionbarcompat-and-io-2013-app-source.html" MODIFIED="1458041171546" TEXT="ActionBarCompat and I/O 2013 App Source">
+<node CREATED="1456828949756" FOLDED="true" ID="ID_1166427255" LINK="http://android-developers.blogspot.fr/2013/08/actionbarcompat-and-io-2013-app-source.html" MODIFIED="1460642223962" TEXT="ActionBarCompat and I/O 2013 App Source">
 <node CREATED="1456829103838" ID="ID_529421984" MODIFIED="1458041171547" TEXT="&#x4e24;&#x4e2a;&#x5de5;&#x5177;">
 <node CREATED="1456828978050" ID="ID_410621820" MODIFIED="1458552222281" TEXT="ActionBarCompat">
 <node CREATED="1456828987286" ID="ID_1589468878" MODIFIED="1456828990425" TEXT="backward-compatible Action Bar implementation"/>
@@ -33940,7 +33950,7 @@
 <node CREATED="1456841031183" ID="ID_511801188" LINK="http://developer.android.com/tools/samples/" MODIFIED="1456841035608" TEXT="&#x201c;Samples for SDK&#x201d;"/>
 </node>
 </node>
-<node CREATED="1456842002009" ID="ID_1088585066" LINK="http://android-developers.blogspot.fr/2014/10/appcompat-v21-material-design-for-pre.html" MODIFIED="1457083957060" TEXT="AppCompat v21 &#x2014; Material Design&#xa; for Pre-Lollipop Devices">
+<node CREATED="1456842002009" FOLDED="true" ID="ID_1088585066" LINK="http://android-developers.blogspot.fr/2014/10/appcompat-v21-material-design-for-pre.html" MODIFIED="1460642227472" TEXT="AppCompat v21 &#x2014; Material Design&#xa; for Pre-Lollipop Devices">
 <node CREATED="1456842087673" ID="ID_284218858" MODIFIED="1458041171571" TEXT="What&apos;s new in AppCompat?">
 <node CREATED="1456842099293" ID="ID_902300269" MODIFIED="1458552222316" TEXT="AppCompat (aka ActionBarCompat) &#x5386;&#x53f2;">
 <node CREATED="1456842125825" FOLDED="true" ID="ID_313065893" MODIFIED="1458552237143" TEXT="&#x4f5c;&#x4e3a; a backport of the Android 4.0 &#xa;ActionBar API for devices running on &#xa;Gingerbread">
@@ -34092,6 +34102,18 @@
 <node CREATED="1456845746284" ID="ID_1797772816" MODIFIED="1456845746513" TEXT="FAQ"/>
 </node>
 <node CREATED="1456845935692" ID="ID_1807601102" MODIFIED="1456845936157" TEXT="Android Support Library 22.1"/>
+<node CREATED="1460642236346" ID="ID_1499101239" MODIFIED="1460642237144" TEXT="Android Design Support Library">
+<node CREATED="1460642372920" ID="ID_142225098" MODIFIED="1460642392675" TEXT="With a little help from the new &#xa;Android Design Support Library,&#xa; we&#x2019;re bringing a number of&#xa; important material design components&#xa; to all developers and to all Android 2.1&#xa; or higher devices.">
+<node CREATED="1460642400056" ID="ID_1612156858" MODIFIED="1460642407292" TEXT="&#x652f;&#x6301;">
+<node CREATED="1460642413229" ID="ID_1172314316" MODIFIED="1460642413659" TEXT="a navigation drawer view"/>
+<node CREATED="1460642418436" ID="ID_1773870937" MODIFIED="1460642418765" TEXT="floating labels for editing text"/>
+<node CREATED="1460642427256" ID="ID_697600662" MODIFIED="1460642427518" TEXT="a floating action button"/>
+<node CREATED="1460642430744" ID="ID_1840053682" MODIFIED="1460642431040" TEXT="snackbar"/>
+<node CREATED="1460642434118" ID="ID_1874917725" MODIFIED="1460642434393" TEXT="tabs"/>
+<node CREATED="1460642443175" ID="ID_373172420" MODIFIED="1460642444126" TEXT="a motion and scroll framework to tie them together."/>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1456908220200" FOLDED="true" ID="ID_248659583" LINK="https://play.google.com/about/developer-content-policy.html" MODIFIED="1458552425212" TEXT="Google Play Developer Program">
 <node CREATED="1456908267428" ID="ID_974155857" LINK="http://android-developers.blogspot.fr/2016/03/explore-new-google-play-developer.html" MODIFIED="1458041171592" TEXT="Explore the new Google Play &#xa;Developer Policy Center">
@@ -34144,21 +34166,21 @@
 </node>
 </node>
 </node>
-<node CREATED="1457428042399" FOLDED="true" ID="ID_955770243" MODIFIED="1460621469314" TEXT="material design">
+<node CREATED="1457428042399" FOLDED="true" ID="ID_955770243" MODIFIED="1460640171165" TEXT="material design">
 <node CREATED="1457428062040" ID="ID_1428826862" LINK="http://android-developers.blogspot.fr/2014/10/implementing-material-design-in-your.html" MODIFIED="1460546620899" TEXT="Implementing Material Design in Your Android app">
 <node CREATED="1457428094037" ID="ID_1290561778" MODIFIED="1460546620901" TEXT="&#x7b80;&#x4ecb;">
 <node CREATED="1457428102263" ID="ID_1288129114" MODIFIED="1457428112432" TEXT="Android 5.0 Lollipop and the &#xa;updated support libraries help&#xa; you to create material UIs"/>
 </node>
-<node CREATED="1457428117292" FOLDED="true" ID="ID_508970636" MODIFIED="1457520382472" TEXT="&#x4e3b;&#x8981;&#x7684; elements ">
-<node CREATED="1457428126822" FOLDED="true" ID="ID_1326683275" MODIFIED="1457520382460" TEXT="Tangible surfaces &#x53ef;&#x89e6;&#x53ca;&#x7684;">
+<node CREATED="1457428117292" ID="ID_508970636" MODIFIED="1460629007916" TEXT="&#x4e3b;&#x8981;&#x7684; elements ">
+<node CREATED="1457428126822" ID="ID_1326683275" MODIFIED="1460629007921" TEXT="Tangible surfaces &#x53ef;&#x89e6;&#x53ca;&#x7684;">
 <node CREATED="1457428163576" FOLDED="true" ID="ID_1031500222" MODIFIED="1457520382456" TEXT="material design &#x4e2d;&#xff0c; UI &#x7531;&#xa;paper &amp; ink &#x7ec4;&#x6210;">
 <node CREATED="1457428207091" ID="ID_702933465" LINK="https://www.youtube.com/watch?v=YaG_ljfzeUw" MODIFIED="1457428211581" TEXT="paper &amp; ink"/>
 <node CREATED="1457428265361" FOLDED="true" ID="ID_926580951" MODIFIED="1457520382456" TEXT="&#x6709;&#x6295;&#x5f71;">
 <node CREATED="1457428287321" ID="ID_393129429" MODIFIED="1457428292677" TEXT=" provide visual cues to the structure &#xa;of the application, what you can touch&#xa; and how it will move. "/>
 </node>
 </node>
-<node CREATED="1457428306386" FOLDED="true" ID="ID_489913142" MODIFIED="1457520382458" TEXT="Shadows">
-<node CREATED="1457428354316" FOLDED="true" ID="ID_1800190596" MODIFIED="1457520382456" TEXT="&#x4f7f;&#x7528; elevation ">
+<node CREATED="1457428306386" ID="ID_489913142" MODIFIED="1460630683524" TEXT="Shadows">
+<node CREATED="1457428354316" ID="ID_1800190596" MODIFIED="1460630683526" TEXT="&#x4f7f;&#x7528; elevation ">
 <node CREATED="1457428360901" ID="ID_384505026" MODIFIED="1457428370576" TEXT="elevation property lets you specify&#xa; a view&#x2019;s position on the Z-axis and&#xa; the framework then casts a real-time&#xa; dynamic shadow on items behind it"/>
 </node>
 <node CREATED="1457428387396" FOLDED="true" ID="ID_215771910" MODIFIED="1457520382456" TEXT="set the elevation declaratively &#xa;in your layouts, defined in dips">
@@ -34183,11 +34205,11 @@
 </node>
 </node>
 </node>
-<node CREATED="1457429534863" FOLDED="true" ID="ID_258513238" MODIFIED="1457520382460" TEXT="Cards">
+<node CREATED="1457429534863" ID="ID_258513238" MODIFIED="1460629007925" TEXT="Cards">
 <node CREATED="1457429623318" FOLDED="true" ID="ID_923769430" LINK="http://www.google.com/design/spec/components/cards.html#utm_campaign=L-Developer-launch" MODIFIED="1457520382458" TEXT="Cards">
 <node CREATED="1457429640610" ID="ID_1842971213" MODIFIED="1457429645302" TEXT="surfaces holding a distinct piece of information"/>
 </node>
-<node CREATED="1457429566811" FOLDED="true" ID="ID_211634499" LINK="https://developer.android.com/reference/android/support/v7/widget/CardView.html?utm_campaign=L-Developer-launch" MODIFIED="1457520382459" TEXT=" CardView support library ">
+<node CREATED="1457429566811" ID="ID_211634499" LINK="https://developer.android.com/reference/android/support/v7/widget/CardView.html?utm_campaign=L-Developer-launch" MODIFIED="1460629007929" TEXT=" CardView support library ">
 <node CREATED="1457429583807" ID="ID_1871147565" MODIFIED="1457429584252" TEXT=" providing outlines and shadows"/>
 <node CREATED="1457429591980" FOLDED="true" ID="ID_1540766791" MODIFIED="1457520382458" TEXT="xml">
 <node CREATED="1457429601503" ID="ID_415831770" MODIFIED="1457429603798" TEXT="&lt;android.support.v7.widget.CardView&#xa;    android:layout_width=&quot;match_parent&quot;&#xa;    android:layout_height=&quot;wrap_content&quot;&gt;&#xa;    &lt;!-- Your card content --&gt;&#xa;&#xa;&lt;/android.support.v7.widget.CardView&gt;"/>
@@ -34381,8 +34403,8 @@
 <node CREATED="1457516560964" ID="ID_623855380" MODIFIED="1460546801778" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1457516563503" ID="ID_797638370" MODIFIED="1457516563945" TEXT="Photoshop, Illustrator and Sketch templates"/>
 </node>
-<node CREATED="1457516622212" FOLDED="true" ID="ID_1260898671" MODIFIED="1457520382474" TEXT="material design checklist">
-<node CREATED="1457516699151" FOLDED="true" ID="ID_1869284036" MODIFIED="1457520382474" TEXT="Tangible Surfaces">
+<node CREATED="1457516622212" FOLDED="true" ID="ID_1260898671" MODIFIED="1460630676273" TEXT="material design checklist">
+<node CREATED="1457516699151" FOLDED="true" ID="ID_1869284036" MODIFIED="1460630676272" TEXT="Tangible Surfaces">
 <node CREATED="1457516721924" FOLDED="true" ID="ID_475776724" MODIFIED="1457520382472" TEXT="surfaces (pieces of &#x201c;digital paper&#x201d;) &#xa;arranged at varying elevations, ">
 <node CREATED="1457516740792" ID="ID_1309460769" MODIFIED="1457516742213" TEXT="casting shadows on surfaces behind them."/>
 </node>
