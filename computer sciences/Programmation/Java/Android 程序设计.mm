@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node COLOR="#ff0000" CREATED="1418423514471" ID="ID_1850581778" MODIFIED="1460550888317" TEXT="Android Project">
-<node CREATED="1418981282447" ID="ID_1603616679" MODIFIED="1460629188346" POSITION="right" TEXT="projects">
+<node CREATED="1418981282447" ID="ID_1603616679" MODIFIED="1461063389178" POSITION="right" TEXT="projects">
 <node CREATED="1418981285945" ID="ID_1122925823" MODIFIED="1460629191705" TEXT="iVisit3D">
 <node CREATED="1418981306746" FOLDED="true" ID="ID_1872786123" MODIFIED="1458642497195" TEXT="bugs">
 <node CREATED="1418981320200" ID="ID_1958258670" MODIFIED="1458041167951" TEXT="&#x5728; emulator &#x4e0a;&#xff0c;&#x4e0b;&#x8f7d; .pno &#x540e;&#xff0c;&#x6253;&#x4e0d;&#x5f00;&#xff0c;&#xa;&#x663e;&#x793a; Device not compatible with OpenGL ES 2.0">
@@ -803,7 +803,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1438935690380" ID="ID_934841565" MODIFIED="1458642504261" TEXT="android &#x7248;">
+<node CREATED="1438935690380" FOLDED="true" ID="ID_934841565" MODIFIED="1461080978375" TEXT="android &#x7248;">
 <node CREATED="1419255655891" ID="ID_167369952" MODIFIED="1460629194875" TEXT="&#x5f00;&#x53d1;">
 <node CREATED="1429517766224" FOLDED="true" ID="ID_487449090" MODIFIED="1458903547557" TEXT="&#x6309;&#x529f;&#x80fd;">
 <node CREATED="1419255662447" FOLDED="true" ID="ID_619994092" MODIFIED="1458041173737" TEXT="&#x6253;&#x5f00;&#x6587;&#x4ef6;">
@@ -12292,15 +12292,45 @@
 </node>
 </node>
 </node>
-<node CREATED="1460629224357" ID="ID_756330911" MODIFIED="1460629259887" TEXT="panorama activity &#x7684; toolbar &#xa;&#x53ea;&#x5728; Android 5 &#x4e0a;&#x663e;&#x793a;">
+<node CREATED="1460629224357" FOLDED="true" ID="ID_756330911" MODIFIED="1461063392932" TEXT="panorama activity &#x7684; toolbar &#xa;&#x53ea;&#x5728; Android 5 &#x4e0a;&#x663e;&#x793a;">
 <node CREATED="1460629281077" ID="ID_1315762617" MODIFIED="1460629285922" TEXT="&#x9605;&#x8bfb;">
-<node CREATED="1460629286324" ID="ID_822815598" LINK="http://stackoverflow.com/questions/27532167/android-transparent-overlay-toolbar" MODIFIED="1460629373414" TEXT="Android transparent overlay toolbar">
+<node CREATED="1460629286324" FOLDED="true" ID="ID_822815598" LINK="http://stackoverflow.com/questions/27532167/android-transparent-overlay-toolbar" MODIFIED="1461056755578" TEXT="Android transparent overlay toolbar">
 <node CREATED="1460629387657" ID="ID_1968227015" MODIFIED="1460629388186" TEXT="In xml, the ordering of the layouts determine the &quot;depth&quot;">
 <node CREATED="1460629460815" ID="ID_1981442063" MODIFIED="1460629465765" TEXT="By moving the toolbar below the other &#xa;elements, it will overlay them."/>
 </node>
 </node>
 </node>
 <node CREATED="1460629289385" ID="ID_1347185083" MODIFIED="1460629359513" TEXT="panorama activity &#x662f;&#x4e00;&#x4e2a; FrameLayout"/>
+<node CREATED="1461056757207" ID="ID_1920090267" MODIFIED="1461056932548" TEXT="&#x539f;&#x56e0;&#x662f;&#x5404;&#x4e2a;&#x7248;&#x672c;&#x7684; android &#x5bf9; elevation &#xa;&#x7684;&#x5904;&#x7406;&#x4e0d;&#x540c;&#xff0c;&lt; 5 &#x7684;&#x5bf9; elevation &#x6ca1;&#x6709;&#xa;&#x5904;&#x7406;&#xff0c;&#x800c;&#x662f;&#x6309;&#x7167; xml &#x4e2d;&#x6392;&#x5217;&#x7684;&#x5148;&#x540e;&#x987a;&#x5e8f;&#xa;&#x663e;&#x793a;&#x7684;&#xff0c;&#x5199;&#x5728;&#x540e;&#x9762;&#x7684;&#x76d6;&#x4f4f;&#x5199;&#x5728;&#x524d;&#x9762;&#x7684;&#xff0c;&#x8981;&#x60f3;&#xa;&#x8ba9; toolbar &#x663e;&#x793a;&#x51fa;&#x6765;&#xff0c;&#x5c31;&#x628a; toolbar &#x5199;&#x5728;&#xa;&#x540e;&#x9762;"/>
+</node>
+<node CREATED="1461063393889" ID="ID_1197595645" MODIFIED="1461063397283" TEXT="progress bar">
+<node CREATED="1461063401199" ID="ID_915494506" LINK="https://github.com/codepath/android_guides/wiki/Handling-ProgressBars#progress-within-actionbar" MODIFIED="1461063406917" TEXT="Progress within ActionBar">
+<node CREATED="1461064235246" ID="ID_1694085866" MODIFIED="1461074492098" TEXT="define the progress action-view">
+<node CREATED="1461064248887" ID="ID_1601070090" MODIFIED="1461064255032" TEXT=" in res/layout/action_view_progress.xml &#xa;with a progress-bar:">
+<node CREATED="1461064258574" ID="ID_1781531857" MODIFIED="1461064266798" TEXT="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#xa;&lt;ProgressBar xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#xa;    style=&quot;?android:attr/progressBarStyleLarge&quot;&#xa;    android:layout_width=&quot;wrap_content&quot;&#xa;    android:layout_height=&quot;wrap_content&quot;&#xa;    android:id=&quot;@+id/pbProgressAction&quot; /&gt;"/>
+</node>
+</node>
+<node CREATED="1461064289502" ID="ID_1191282298" MODIFIED="1461074495852" TEXT="add the ActionView to our ActionBar in&#xa; the res/menu/activity_main.xml as an item:">
+<node CREATED="1461064317380" ID="ID_252221112" MODIFIED="1461064321104" TEXT="&lt;menu xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#xa;    xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;&#xa;    xmlns:tools=&quot;http://schemas.android.com/tools&quot; tools:context=&quot;.MainActivity&quot;&gt;&#xa;    &lt;item&#xa;        android:id=&quot;@+id/miActionProgress&quot;&#xa;        android:title=&quot;Loading...&quot;&#xa;        android:visible=&quot;false&quot;&#xa;        android:orderInCategory=&quot;100&quot;&#xa;        app:showAsAction=&quot;ifRoom&quot;&#xa;        app:actionLayout=&quot;@layout/action_view_progress&quot; /&gt;&#xa;&lt;/menu&gt;"/>
+<node CREATED="1461068195445" ID="ID_1984068214" MODIFIED="1461069530550" TEXT="android:orderInCategory=&quot;100&quot;">
+<node CREATED="1461068201070" ID="ID_702055225" MODIFIED="1461068201626" TEXT="to append the item at the end"/>
+<node CREATED="1461068208977" ID="ID_749057150" MODIFIED="1461068209303" TEXT="other items should be less than 100"/>
+</node>
+<node CREATED="1461068221285" FOLDED="true" ID="ID_1246413265" MODIFIED="1461068268100" TEXT=" android:visible=&quot;false&quot;">
+<node CREATED="1461068228902" ID="ID_238078277" MODIFIED="1461068247104" TEXT="hides the menu item"/>
+</node>
+<node CREATED="1461068268346" ID="ID_664234769" MODIFIED="1461068290521" TEXT="app:actionLayout=&quot;@layout/action_view_progress&quot;">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1461068342473" ID="ID_904650261" MODIFIED="1461068342931" TEXT="specifies the layout for the action-view."/>
+</node>
+</node>
+<node CREATED="1461068427525" FOLDED="true" ID="ID_130064218" MODIFIED="1461074394021" TEXT="use the onPrepareOptionsMenu method&#xa; to get a reference to the menu item and&#xa; the associated view within the activity:">
+<node CREATED="1461068440960" ID="ID_334838642" MODIFIED="1461068470348" TEXT="public class MainActivity extends AppCompatActivity {&#xa;    // Instance of the progress action-view&#xa;    MenuItem miActionProgressItem;&#xa;&#xa;    @Override&#xa;    public boolean onPrepareOptionsMenu(Menu menu) {&#xa;        // Store instance of the menu item containing progress&#xa;        miActionProgressItem = menu.findItem(R.id.miActionProgress);&#xa;        // Extract the action-view from the menu item&#xa;        ProgressBar v =  (ProgressBar) MenuItemCompat.getActionView(miActionProgressItem);&#xa;        // Return to finish&#xa;        return super.onPrepareOptionsMenu(menu);&#xa;    }&#xa;}"/>
+</node>
+<node CREATED="1461068613739" ID="ID_1237712207" MODIFIED="1461068621498" TEXT="toggle the visibility of the miActionProgressItem&#xa; item to show and hide the progress-bar in the&#xa; action-bar:">
+<node CREATED="1461068625276" ID="ID_1057808757" MODIFIED="1461068627540" TEXT="public class MainActivity extends AppCompatActivity {&#xa;    public void showProgressBar() {&#xa;        // Show progress item&#xa;        miActionProgressItem.setVisible(true);&#xa;    }&#xa;&#xa;    public void hideProgressBar() {&#xa;        // Hide progress item&#xa;        miActionProgressItem.setVisible(false);&#xa;    }&#xa;}"/>
+</node>
+</node>
 </node>
 </node>
 </node>
@@ -18111,7 +18141,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435660554276" ID="ID_1446294098" MODIFIED="1460630683463" POSITION="right" TEXT="&#x5b66;&#x4e60;">
+<node CREATED="1435660554276" FOLDED="true" ID="ID_1446294098" MODIFIED="1461064202022" POSITION="right" TEXT="&#x5b66;&#x4e60;">
 <node CREATED="1418423514471" FOLDED="true" ID="ID_1530247130" MODIFIED="1458552264532" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423520471" ID="ID_1061945990" MODIFIED="1458041169090" TEXT="Android &#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <node CREATED="1418423530671" ID="ID_1813456615" MODIFIED="1458041169091" TEXT="&#x5de5;&#x5177;&#x548c;&#x57fa;&#x7840;">
@@ -31968,7 +31998,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435222543108" ID="ID_313758430" MODIFIED="1460640169592" TEXT="Android Developer Blog">
+<node CREATED="1435222543108" ID="ID_313758430" MODIFIED="1461060359040" TEXT="Android Developer Blog">
 <node CREATED="1434991355871" FOLDED="true" ID="ID_746380783" LINK="http://android-developers.blogspot.fr/2011/03/memory-analysis-for-android.html" MODIFIED="1458552400527" TEXT="Memory Analysis for &#xa;Android Applications">
 <node CREATED="1435007343214" ID="ID_1156368103" MODIFIED="1458041171195" TEXT="&#x4ecb;&#x7ecd;">
 <node CREATED="1435007349317" ID="ID_549535713" MODIFIED="1435007391434" TEXT="Dalvik runtime &#x53ef;&#x4ee5;&#x662f; garbage-collected&#xa;&#x4f46;&#x4e0d;&#x53ef;&#x4ee5;&#x5ffd;&#x89c6; memory management"/>
@@ -33287,8 +33317,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1454920995843" FOLDED="true" ID="ID_21989293" MODIFIED="1458552412269" TEXT="Android Studio">
-<node CREATED="1454921009726" ID="ID_1212028448" LINK="http://android-developers.blogspot.fr/2016/02/android-studio-20-beta.html" MODIFIED="1458041171422" TEXT="Android Studio 2.0 - Beta  ">
+<node CREATED="1454920995843" ID="ID_21989293" MODIFIED="1461060364512" TEXT="Android Studio">
+<node CREATED="1454921009726" FOLDED="true" ID="ID_1212028448" LINK="http://android-developers.blogspot.fr/2016/02/android-studio-20-beta.html" MODIFIED="1461060365546" TEXT="Android Studio 2.0 - Beta  ">
 <node CREATED="1454921054122" ID="ID_869472217" MODIFIED="1458041171424" TEXT="&#x65b0;&#x7279;&#x6027;">
 <node CREATED="1454922700414" ID="ID_97952900" MODIFIED="1458552222025" TEXT="Instant Run">
 <node CREATED="1454922727239" ID="ID_513358762" MODIFIED="1454922732538" TEXT="make changes to your app &#xa;code while your app is running"/>
@@ -33367,6 +33397,13 @@
 <node CREATED="1454921330219" ID="ID_510951803" LINK="https://www.jetbrains.com/idea/whatsnew/" MODIFIED="1454921377473" TEXT="new features from IntelliJ"/>
 </node>
 </node>
+</node>
+<node CREATED="1461060376220" ID="ID_272610498" LINK="https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.mhpng8v2q" MODIFIED="1461060384776" TEXT="About) 10 Things You (Probably) Didn&#x2019;t &#xa;Know You Could do in Android Studio">
+<node CREATED="1461060465998" FOLDED="true" ID="ID_1344577941" MODIFIED="1461061058600" TEXT="CMD-SHIFT-A ">
+<node CREATED="1461061015266" ID="ID_1577823371" MODIFIED="1461061023053" TEXT="&#x67e5;&#x627e;&#x547d;&#x4ee4;"/>
+</node>
+<node CREATED="1461061059055" ID="ID_632755107" MODIFIED="1461061072948" TEXT="&#x957f; list &#x4e2d;&#xff0c;&#x90fd;&#x53ef;&#x4ee5;&#x76f4;&#x63a5;&#x67e5;&#x627e;"/>
+<node CREATED="1461061091137" ID="ID_1865928027" MODIFIED="1461061103908" TEXT="autocomplete selection Tab"/>
 </node>
 </node>
 <node CREATED="1455094674404" FOLDED="true" ID="ID_1605662093" MODIFIED="1458552413141" TEXT="Cardboard">
@@ -33565,7 +33602,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1456391308717" ID="ID_1363032381" MODIFIED="1460642210313" TEXT="Android Support">
+<node CREATED="1456391308717" FOLDED="true" ID="ID_1363032381" MODIFIED="1461060356426" TEXT="Android Support">
 <node CREATED="1456391634813" FOLDED="true" ID="ID_593415253" LINK="http://android-developers.blogspot.fr/2016/02/android-support-library-232.html" MODIFIED="1460642297441" TEXT="Android Support Library 23.2">
 <node CREATED="1456391828771" FOLDED="true" ID="ID_334886697" MODIFIED="1460642286054" TEXT="Support Vector Drawables and&#xa; Animated Vector Drawables">
 <node CREATED="1456391839829" ID="ID_437932524" MODIFIED="1458552222193" TEXT="Vector drawables">
