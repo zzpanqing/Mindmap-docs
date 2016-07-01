@@ -1,0 +1,19 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1383563159722" ID="ID_765626628" MODIFIED="1383563175895" TEXT="Creating a Custom View">
+<node CREATED="1383563220339" ID="ID_1036163764" MODIFIED="1383563241256" POSITION="right" TEXT="&#x6b65;&#x9aa4;">
+<node CREATED="1383563242230" ID="ID_1064058700" MODIFIED="1383563249581" TEXT="&#x751f;&#x6210; NSView &#x7684;&#x5b50;&#x7c7b;">
+<node CREATED="1383564114369" ID="ID_1514854115" MODIFIED="1383564120587" TEXT="NSView &#x63d0;&#x4f9b;">
+<node CREATED="1383564121502" ID="ID_29353844" MODIFIED="1383564135108" TEXT="&#x5728;&#x5c4f;&#x5e55;&#x4e0a;&#x663e;&#x793a;&#x5185;&#x5bb9;">
+<node CREATED="1383663659992" ID="ID_25668953" MODIFIED="1383663691746" TEXT="&#x4f46;&#x662f;&#x4e0d;&#x80fd; draw, &#x8981;&#x89c4;&#x5b9a; draw &#x7684;&#x5185;&#x5bb9;&#xff0c;&#x8981;&#x751f;&#x6210; &#x5b50;&#x7c7b;"/>
+</node>
+<node CREATED="1383564138107" ID="ID_254675449" MODIFIED="1383564149722" TEXT="&#x9f20;&#x6807;&#xff0c;&#x952e;&#x76d8;&#x4e8b;&#x4ef6;"/>
+</node>
+</node>
+</node>
+<node CREATED="1383663702033" ID="ID_595223481" MODIFIED="1383663713637" POSITION="left" TEXT="&#x4f8b;&#x5b50; DraggableItemView">
+<node CREATED="1383663722385" ID="ID_204674489" MODIFIED="1383663730865" TEXT="&#x662f; NSView &#x7684;&#x5b50;&#x7c7b;"/>
+<node CREATED="1383663733984" ID="ID_177773348" MODIFIED="1383663733984" TEXT=""/>
+</node>
+</node>
+</map>
