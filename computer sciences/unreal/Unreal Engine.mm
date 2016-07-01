@@ -5574,17 +5574,13 @@
 </node>
 </node>
 <node CREATED="1464096583441" ID="ID_937670382" LINK="https://docs.unrealengine.com/latest/INT/Programming/Rendering/index.html" MODIFIED="1467367531926" TEXT="Graphics Programming">
-<node CREATED="1464096583441" FOLDED="true" ID="ID_273596223" LINK="https://docs.unrealengine.com/latest/INT/Programming/Rendering/index.html" MODIFIED="1467367689883" TEXT="Graphics Programming">
-<node CREATED="1467367503546" FOLDED="true" ID="ID_619525636" MODIFIED="1467367647647" TEXT="The Renderer module ">
+<node CREATED="1464096583441" ID="ID_273596223" LINK="https://docs.unrealengine.com/latest/INT/Programming/Rendering/index.html" MODIFIED="1467367531929" TEXT="Graphics Programming">
+<node CREATED="1467367503546" ID="ID_619525636" MODIFIED="1467367571122" TEXT="The Renderer module ">
 <node CREATED="1467367573361" ID="ID_323444065" MODIFIED="1467367573731" TEXT="in the engine  "/>
 <node CREATED="1467367551952" ID="ID_670948580" MODIFIED="1467367552451" TEXT="manages and renders scenes"/>
 <node CREATED="1467367521745" ID="ID_638406679" MODIFIED="1467367542367" TEXT="hold the renderable information&#xa; associated with each world"/>
-<node CREATED="1467367562610" ID="ID_313694698" MODIFIED="1467367601835" TEXT=" includes the definition of all drawing&#xa; policies and shader."/>
 </node>
-<node CREATED="1467367613641" ID="ID_729952707" MODIFIED="1467367614147" TEXT=" RHI module">
-<node CREATED="1467367676112" ID="ID_1327252186" MODIFIED="1467367676574" TEXT=" which is the interface for rendering APIs"/>
-<node CREATED="1467367683919" ID="ID_1313800003" MODIFIED="1467367684337" TEXT=" another key module for graphics programmin"/>
-</node>
+<node CREATED="1467367562610" ID="ID_313694698" MODIFIED="1467367563285" TEXT="It includes the definition of all drawing policies and shader."/>
 </node>
 </node>
 <node CREATED="1464096623664" ID="ID_269383354" LINK="https://docs.unrealengine.com/latest/INT/Programming/Slate/index.html" MODIFIED="1464096629709" TEXT="Slate UI Framework"/>
